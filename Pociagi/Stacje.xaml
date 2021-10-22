@@ -1,0 +1,52 @@
+﻿<Page
+    x:Class="Pociagi.Stacje"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Pociagi"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Loaded="Page_Loaded">
+
+    <Grid Margin="10,5,10,5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Wybór stacji" FontSize="18" HorizontalAlignment="Center" Grid.ColumnSpan="2" />
+            <TextBox x:Name="uiStacja" Margin="0,10,0,2" Grid.Row="1"/>
+        <Button Content="GPS" Grid.Row="1" Grid.Column="1" Click="uiGetGPS_Click" Margin="10,5,5,5" VerticalAlignment="Center" />
+
+        <ScrollViewer Grid.Row="2" Grid.ColumnSpan="2">
+                <ListView x:Name="uiListItems" Margin="5,5,5,5">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition Width="15" />
+                            </Grid.ColumnDefinitions>
+                                <TextBlock FontSize="20" Text="{Binding nazwa, Mode=OneWay }" Tapped="uiItem_Tapped" >
+                                    <TextBlock.ContextFlyout>
+                                        <MenuFlyout>
+                                            <MenuFlyoutItem x:Uid="resMenuShowRozklad" Text="Pokaż rozkład" Click="uiPokazRozklad_Click"  />
+                                        <MenuFlyoutItem x:Uid="resMenuGoAtlas" Text="Idź do Atlaskolejowy" Click="uiGoAtlas_Click" />
+                                        <MenuFlyoutItem x:Uid="resMenuGoBaza" Text="Idź do Bazakolejowa" Click="uiGoBaza_Click" />
+                                        <MenuFlyoutItem Text="Favourites" Click="uiFavourites_Click" />
+                                    </MenuFlyout>
+                                    </TextBlock.ContextFlyout>
+                                </TextBlock>
+                            <TextBlock Grid.Column="1" Text="{Binding sWyroznik, Mode=OneWay }" VerticalAlignment="Center" Margin="10,0,0,0" />
+                        </Grid>
+                    </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </ScrollViewer>
+
+    </Grid>
+</Page>

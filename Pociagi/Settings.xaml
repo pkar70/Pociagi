@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="Pociagi.Settings"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Pociagi"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Loaded="Page_Loaded">
+
+    <Grid>
+        <StackPanel Margin="5,5,5,5">
+            <TextBlock Text="Settings" FontSize="16" HorizontalAlignment="Center" Margin="5,5,5,10" />
+            <Slider x:Name="uiOdl" Minimum="0" Maximum="10" Header="Najbliższe stacje w promieniu (km)" />
+            <ToggleSwitch x:Name="uiAutoComplete" Header="Autowpis nazwy"  />
+            <ToggleSwitch x:Name="uiStacjePosrednieRozklad" Header="Pokazuj stacje pośrednie (odjazdy)"  />
+            <ToggleSwitch x:Name="uiNazwyOnline" Header="Weryfikuj nazwy online"  />
+            <Button Content="Save!" Click="uiSave_Click" Margin="5,10,5,5" HorizontalAlignment="Center" />
+        </StackPanel>
+    </Grid>
+</Page>

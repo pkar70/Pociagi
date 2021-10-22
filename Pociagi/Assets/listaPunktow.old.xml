@@ -1,0 +1,2858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStacja xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<stacja t="ST" nazwa="Aleksandrów Kujawski"/>
+	<stacja t="ST" nazwa="Andrychów" idAtlas="1778" lat="19.3525277777778" lon="49.8555277777778"/>
+	<stacja t="PO" nazwa="Andrychów Górnica" idAtlas="1779" lat="19.3242777777778" lon="49.8583055555556"/>
+	<stacja t="MPO" nazwa="Andrzejówka" idAtlas="1780" lat="20.8211666666667" lon="49.3403888888889"/>
+	<stacja t="PO" nazwa="Anieliny"/>
+	<stacja t="ST" nazwa="Antonin"/>
+	<stacja t="PO" nazwa="Antoniów"/>
+	<stacja t="PO" nazwa="Antoniówka"/>
+	<stacja t="PO" nazwa="Arcelin"/>
+	<stacja t="ST" nazwa="Augustów"/>
+	<stacja t="PO" nazwa="Augustów Port"/>
+	<stacja t="PO" nazwa="Augustówka"/>
+	<stacja t="PO" nazwa="Azory"/>
+	<stacja t="PO" nazwa="Babi Dół"/>
+	<stacja t="ST" nazwa="Babiak"/>
+	<stacja t="MPO" nazwa="Babica" idAtlas="2192" lat="21.8991944444444" lon="49.9343888888889"/>
+	<stacja t="PO" nazwa="Babica Kolonia" idAtlas="2193" lat="21.8692222222222" lon="49.9336944444444"/>
+	<stacja t="ST" nazwa="Babimost" idAtlas="1" lat="15.8151666666667" lon="52.1684444444444"/>
+	<stacja t="PO" nazwa="Baborówko"/>
+	<stacja t="LPO" nazwa="Baboszewo"/>
+	<stacja t="ST" nazwa="Baby"/>
+	<stacja t="PO" nazwa="Bachorce"/>
+	<stacja t="PODS" nazwa="Baciuty"/>
+	<stacja t="PO" nazwa="Bajtkowo"/>
+	<stacja t="POGP" nazwa="Balin" idAtlas="1781" lat="19.3833888888889" lon="50.1790833333333"/>
+	<stacja t="PO" nazwa="Balinka"/>
+	<stacja t="PO" nazwa="Baranów Sandomierski" idAtlas="2196" lat="21.5593333333333" lon="50.4723055555556"/>
+	<stacja t="PO" nazwa="Baranówka" idAtlas="1783" lat="20.0953611111111" lon="50.1461388888889"/>
+	<stacja t="PO" nazwa="Barchów"/>
+	<stacja t="PO" nazwa="Barcice" idAtlas="1784" lat="20.64825" lon="49.5276666666667"/>
+	<stacja t="PO" nazwa="Barcząca"/>
+	<stacja t="ST" nazwa="Barczewo"/>
+	<stacja t="ST" nazwa="Bardo Przyłęk" idAtlas="437" lat="16.7582777777778" lon="50.50975"/>
+	<stacja t="PO" nazwa="Bardo Śląskie"/>
+	<stacja t="ST" nazwa="Barłogi"/>
+	<stacja t="PO" nazwa="Bartąg"/>
+	<stacja t="PO" nazwa="Bartnica" idAtlas="442" lat="16.4079166666667" lon="50.6419444444444"/>
+	<stacja t="ST" nazwa="Bartodzieje"/>
+	<stacja t="PO" nazwa="Bartosze"/>
+	<stacja t="LPO" nazwa="Bartoszyce"/>
+	<stacja t="PO" nazwa="Barwałd Górny" idAtlas="1785" lat="19.6213888888889" lon="49.8649166666667"/>
+	<stacja t="PO" nazwa="Barwałd Średni"/>
+	<stacja t="PO" nazwa="Barzkowice"/>
+	<stacja t="PO" nazwa="Baszewice"/>
+	<stacja t="PO" nazwa="Basznia" idAtlas="2197" lat="23.2491666666667" lon="50.1786666666667"/>
+	<stacja t="PO" nazwa="Basznia Dolna" idAtlas="2198" lat="23.2071111111111" lon="50.19"/>
+	<stacja t="PO" nazwa="Batowice Lubańskie" idAtlas="443" lat="15.1556111111111" lon="51.0908888888889"/>
+	<stacja t="ST" nazwa="Bąk"/>
+	<stacja t="ST" nazwa="Bąkowiec"/>
+	<stacja t="ST" nazwa="Bąków" idAtlas="1408" lat="18.3128333333333" lon="50.9565555555556"/>
+	<stacja t="ST" nazwa="Bednary"/>
+	<stacja t="PO" nazwa="Bedoń"/>
+	<stacja t="PO" nazwa="Belęcin Wielkopolski" idAtlas="1196" lat="16.0084166666667" lon="52.2036666666667"/>
+	<stacja t="ST" nazwa="Bełchów"/>
+	<stacja t="LPO" nazwa="Bełsznica"/>
+	<stacja t="ST" nazwa="Bełżec" idAtlas="2695" lat="23.4481944444444" lon="50.3778055555556"/>
+	<stacja t="PO" nazwa="Bełżec Drugi" idAtlas="2696" lat="23.4036388888889" lon="50.38075"/>
+	<stacja t="PO" nazwa="Berezów" idAtlas="2504" lat="20.83925" lon="51.0265277777778"/>
+	<stacja t="PO" nazwa="Besko" idAtlas="2201" lat="21.9557222222222" lon="49.5907222222222"/>
+	<stacja t="ST" nazwa="Bezwola"/>
+	<stacja t="PO" nazwa="Będów" idAtlas="3" lat="15.3112222222222" lon="52.0734166666667"/>
+	<stacja t="PO" nazwa="Będziemyśl" idAtlas="2200" lat="21.7738611111111" lon="50.0665833333333"/>
+	<stacja t="ST" nazwa="Będzin"/>
+	<stacja t="PO" nazwa="Będzin Ksawera"/>
+	<stacja t="PO" nazwa="Będzin Miasto"/>
+	<stacja t="PO" nazwa="Będzino"/>
+	<stacja t="PO" nazwa="Będźmierowice"/>
+	<stacja t="ST" nazwa="Biadki" idAtlas="1197" lat="17.5673055555556" lon="51.677"/>
+	<stacja t="PO" nazwa="Biadoliny" idAtlas="1788" lat="20.7343611111111" lon="50.0038055555556"/>
+	<stacja t="PO" nazwa="Biała"/>
+	<stacja t="PO" nazwa="Biała koło Piszu"/>
+	<stacja t="ST" nazwa="Biała Pajęczańska"/>
+	<stacja t="PO" nazwa="Biała Pilska"/>
+	<stacja t="ST" nazwa="Biała Podlaska"/>
+	<stacja t="PO" nazwa="Białki"/>
+	<stacja t="PO" nazwa="Białki Siedleckie"/>
+	<stacja t="ST" nazwa="Białogard"/>
+	<stacja t="ST" nazwa="Białośliwie"/>
+	<stacja t="ST" nazwa="Białuń"/>
+	<stacja t="LPO" nazwa="Biały Bór"/>
+	<stacja t="ST" nazwa="Biały Dunajec" idAtlas="1791" lat="20.0068333333333" lon="49.3756111111111"/>
+	<stacja t="MPO" nazwa="Biały Kościół" idAtlas="447" lat="17.0305277777778" lon="50.72625"/>
+	<stacja t="PO" nazwa="Biały Zdrój Południowy"/>
+	<stacja t="ST" nazwa="Białystok"/>
+	<stacja t="MPO" nazwa="Białystok Bacieczki"/>
+	<stacja t="ST" nazwa="Białystok Fabryczny"/>
+	<stacja t="PO" nazwa="Białystok Stadion"/>
+	<stacja t="ST" nazwa="Białystok Starosielce"/>
+	<stacja t="PO" nazwa="Białystok Wiadukt"/>
+	<stacja t="ST" nazwa="Biecz" idAtlas="1792" lat="21.2629166666667" lon="49.7325833333333"/>
+	<stacja t="PO" nazwa="Bieczyno Pomorskie"/>
+	<stacja t="PO" nazwa="Bielawy"/>
+	<stacja t="PO" nazwa="Bielin"/>
+	<stacja t="PO" nazwa="Bieliny Opoczyńskie"/>
+	<stacja t="ST" nazwa="Bielsk Podlaski"/>
+	<stacja t="ST" nazwa="Bielsko-Biała Główna"/>
+	<stacja t="PBSP" nazwa="Bielsko-Biała Komorowice"/>
+	<stacja t="ST" nazwa="Bielsko-Biała Leszczyny"/>
+	<stacja t="POGP" nazwa="Bielsko-Biała Lipnik"/>
+	<stacja t="PO" nazwa="Bielsko-Biała Mikuszowice"/>
+	<stacja t="PO" nazwa="Bielsko-Biała Północ"/>
+	<stacja t="ST" nazwa="Bielsko-Biała Wschód"/>
+	<stacja t="ST" nazwa="Bieniów" idAtlas="7" lat="15.1786944444444" lon="51.7160555555556"/>
+	<stacja t="ST" nazwa="Bierawa" idAtlas="1412" lat="18.2576944444444" lon="50.29275"/>
+	<stacja t="PO" nazwa="Bierkowice" idAtlas="457" lat="16.6057777777778" lon="50.4751944444444"/>
+	<stacja t="ST" nazwa="Biernatowo"/>
+	<stacja t="ST" nazwa="Bierutów" idAtlas="459" lat="17.5463055555556" lon="51.1284166666667"/>
+	<stacja t="ST" nazwa="Bierzwnik"/>
+	<stacja t="ST" nazwa="Biesal"/>
+	<stacja t="PO" nazwa="Biesowice"/>
+	<stacja t="ST" nazwa="Biłgoraj" idAtlas="2697" lat="22.7316666666667" lon="50.5513888888889"/>
+	<stacja t="ST" nazwa="Biniew" idAtlas="1200" lat="17.79225" lon="51.7399166666667"/>
+	<stacja t="ST" nazwa="Bińcze"/>
+	<stacja t="PO" nazwa="Biskupice"/>
+	<stacja t="PO" nazwa="Biskupice koło Kluczborka"/>
+	<stacja t="ST" nazwa="Biskupice Oławskie" idAtlas="460" lat="17.5163333333333" lon="50.99375"/>
+	<stacja t="PGLP" nazwa="Biskupice Wielkopolskie"/>
+	<stacja t="ST" nazwa="Biskupiec Pomorski"/>
+	<stacja t="PO" nazwa="Biskupnica"/>
+	<stacja t="ST" nazwa="Blachownia"/>
+	<stacja t="PO" nazwa="Blizna"/>
+	<stacja t="ST" nazwa="Bliżyn" idAtlas="2505" lat="20.7567777777778" lon="51.1106388888889"/>
+	<stacja t="ST" nazwa="Błaszki"/>
+	<stacja t="PO" nazwa="Błażkowa" idAtlas="461" lat="15.9900277777778" lon="50.74425"/>
+	<stacja t="LPO" nazwa="Błądzim"/>
+	<stacja t="ST" nazwa="Błonie"/>
+	<stacja t="PO" nazwa="Błotnica" idAtlas="1201" lat="16.3002777777778" lon="51.9930277777778"/>
+	<stacja t="POGP" nazwa="Błotnica Strzelecka" idAtlas="1416" lat="18.4036666666667" lon="50.4840555555556"/>
+	<stacja t="ST" nazwa="Bobowa" idAtlas="1795" lat="20.9574444444444" lon="49.7165833333333"/>
+	<stacja t="PO" nazwa="Bobowa-Miasto"/>
+	<stacja t="PO" nazwa="Bobrowniki"/>
+	<stacja t="PO" nazwa="Bobrowo Pomorskie"/>
+	<stacja t="ST" nazwa="Bobrówka" idAtlas="2202" lat="22.8583611111111" lon="50.0496944444444"/>
+	<stacja t="PO" nazwa="Bobry"/>
+	<stacja t="ST" nazwa="Bochnia" idAtlas="1797" lat="20.4312777777778" lon="49.9773611111111"/>
+	<stacja t="ST" nazwa="Boczów" idAtlas="14" lat="14.9488611111111" lon="52.3268888888889"/>
+	<stacja t="ST" nazwa="Bodzechów" idAtlas="2506" lat="21.4347222222222" lon="50.9133888888889"/>
+	<stacja t="ST" nazwa="Bogaczewo"/>
+	<stacja t="PO" nazwa="Bogaczów" idAtlas="15" lat="15.2680555555556" lon="51.8441944444444"/>
+	<stacja t="ST" nazwa="Bogdaniec" idAtlas="16" lat="15.0785277777778" lon="52.6891111111111"/>
+	<stacja t="ST" nazwa="Bogoniowice Ciężkowice" idAtlas="1798" lat="20.9765555555556" lon="49.7985833333333"/>
+	<stacja t="ST" nazwa="Boguchwała" idAtlas="2203" lat="21.9343611111111" lon="49.9840555555556"/>
+	<stacja t="ST" nazwa="Bogumiłowice" idAtlas="1799" lat="20.8699166666667" lon="50.0076111111111"/>
+	<stacja t="PO" nazwa="Boguszewo"/>
+	<stacja t="ST" nazwa="Boguszów-Gorce"/>
+	<stacja t="PO" nazwa="Boguszów-Gorce Wschód"/>
+	<stacja t="ST" nazwa="Boguszów-Gorce Zachód"/>
+	<stacja t="ST" nazwa="Bojanowo" idAtlas="1204" lat="16.7442777777778" lon="51.7003888888889"/>
+	<stacja t="PO" nazwa="Bojary"/>
+	<stacja t="PO" nazwa="Boksycka" idAtlas="2508" lat="21.3222777777778" lon="50.9501666666667"/>
+	<stacja t="ST" nazwa="Bolechowo"/>
+	<stacja t="PO" nazwa="Bolesławice Świdnickie"/>
+	<stacja t="ST" nazwa="Bolesławiec" idAtlas="472" lat="15.5689722222222" lon="51.2660833333333"/>
+	<stacja t="PO" nazwa="Boleszewo"/>
+	<stacja t="ST" nazwa="Boleszkowice"/>
+	<stacja t="ST" nazwa="Boreczek" idAtlas="478" lat="17.0245833333333" lon="50.8788333333333"/>
+	<stacja t="PO" nazwa="Borki Opolskie" idAtlas="1418" lat="17.8816111111111" lon="50.7430277777778"/>
+	<stacja t="PO" nazwa="Borki-Kosy"/>
+	<stacja t="PO" nazwa="Borkowice" idAtlas="1419" lat="18.1559444444444" lon="50.9321111111111"/>
+	<stacja t="PO" nazwa="Borkowo"/>
+	<stacja t="ST" nazwa="Boronów"/>
+	<stacja t="ST" nazwa="Borowa Oleśnicka" idAtlas="482" lat="17.2775" lon="51.18425"/>
+	<stacja t="PO" nazwa="Borowiki"/>
+	<stacja t="PO" nazwa="Borowina" idAtlas="2204" lat="22.2063333333333" lon="50.4699166666667"/>
+	<stacja t="PO" nazwa="Borsukówka"/>
+	<stacja t="PO" nazwa="Borszewice"/>
+	<stacja t="PO" nazwa="Borucice" idAtlas="1421" lat="17.558" lon="50.9816111111111"/>
+	<stacja t="PO" nazwa="Boszkowo" idAtlas="1209" lat="16.3357777777778" lon="51.9605277777778"/>
+	<stacja t="PO" nazwa="Boża Wola"/>
+	<stacja t="PO" nazwa="Bożacin" idAtlas="1210" lat="17.4340277777778" lon="51.7329444444444"/>
+	<stacja t="ST" nazwa="Bożepole Wielkie"/>
+	<stacja t="PO" nazwa="Brachlewo"/>
+	<stacja t="PO" nazwa="Brachów" idAtlas="486" lat="16.1484722222222" lon="51.0963611111111"/>
+	<stacja t="ST" nazwa="Braniewo"/>
+	<stacja t="ST" nazwa="Bratków"/>
+	<stacja t="PO" nazwa="Bratoszewice"/>
+	<stacja t="ST" nazwa="Brodnica"/>
+	<stacja t="PO" nazwa="Brody Iłżeckie" idAtlas="2511" lat="21.2014444444444" lon="51.0216111111111"/>
+	<stacja t="PO" nazwa="Brody Warszawskie"/>
+	<stacja t="PO" nazwa="Brokęcino"/>
+	<stacja t="ST" nazwa="Bronów" idAtlas="1211" lat="17.7731666666667" lon="51.7966388888889"/>
+	<stacja t="ST" nazwa="Brusy"/>
+	<stacja t="PO" nazwa="Brwinów"/>
+	<stacja t="PO" nazwa="Brzask" idAtlas="2513" lat="20.8034166666667" lon="51.0971666666667"/>
+	<stacja t="ST" nazwa="Brzeg" idAtlas="1422" lat="17.4706111111111" lon="50.853"/>
+	<stacja t="ST" nazwa="Brzeg Dolny" idAtlas="492" lat="16.726" lon="51.2665"/>
+	<stacja t="PO" nazwa="Brzeg Głogowski" idAtlas="493" lat="15.919" lon="51.6908333333333"/>
+	<stacja t="ST" nazwa="Brzesko Okocim" idAtlas="1802" lat="20.6104444444444" lon="49.9866388888889"/>
+	<stacja t="PO" nazwa="Brzeszcze" idAtlas="1803" lat="19.154" lon="49.9955555555556"/>
+	<stacja t="ST" nazwa="Brzeszcze Jawiszowice" idAtlas="1804" lat="19.1285555555556" lon="49.9726388888889"/>
+	<stacja t="PO" nazwa="Brzezie"/>
+	<stacja t="ST" nazwa="Brzezinka Średzka"/>
+	<stacja t="POGP" nazwa="Brzeziny" idAtlas="2515" lat="20.5669444444444" lon="50.7758055555556"/>
+	<stacja t="ST" nazwa="Brzeźnica" idAtlas="1806" lat="19.6289166666667" lon="49.9673055555556"/>
+	<stacja t="MPO" nazwa="Brzeźnica Bychawska"/>
+	<stacja t="ST" nazwa="Brzeźnica nad Wartą"/>
+	<stacja t="ST" nazwa="Brzeźno"/>
+	<stacja t="PO" nazwa="Brzeźno Człuchowskie"/>
+	<stacja t="ST" nazwa="Brzoza Bydgoska"/>
+	<stacja t="PBSP" nazwa="Brzoza Toruńska"/>
+	<stacja t="PO" nazwa="Brzozowica"/>
+	<stacja t="PO" nazwa="Brzozowiec Gorzowski" idAtlas="25" lat="15.3684444444444" lon="52.6529444444444"/>
+	<stacja t="PO" nazwa="Brzustowa Opatowska" idAtlas="2518" lat="21.4841111111111" lon="50.898"/>
+	<stacja t="MPO" nazwa="Brzustów"/>
+	<stacja t="PO" nazwa="Buchałów" idAtlas="26" lat="15.3622777777778" lon="51.91675"/>
+	<stacja t="ST" nazwa="Budachów" idAtlas="31" lat="15.0815833333333" lon="52.1529444444444"/>
+	<stacja t="PO" nazwa="Budki Nowe"/>
+	<stacja t="PO" nazwa="Budy Głogowskie" idAtlas="2206" lat="21.91775" lon="50.1684722222222"/>
+	<stacja t="PO" nazwa="Budziszowice" idAtlas="1424" lat="17.5326666666667" lon="50.5224444444444"/>
+	<stacja t="ST" nazwa="Budzyń"/>
+	<stacja t="PO" nazwa="Bujaki"/>
+	<stacja t="ST" nazwa="Buk"/>
+	<stacja t="PO" nazwa="Bukowa" idAtlas="2521" lat="20.2003333333333" lon="50.8594444444444"/>
+	<stacja t="PO" nazwa="Bukowice Trzebnickie" idAtlas="501" lat="17.3685" lon="51.3997222222222"/>
+	<stacja t="PO" nazwa="Bukowiec Międzyrzecki" idAtlas="34" lat="15.7060277777778" lon="52.3854722222222"/>
+	<stacja t="MPO" nazwa="Bukowina Sycowska" idAtlas="502" lat="17.5833611111111" lon="51.3881666666667"/>
+	<stacja t="ST" nazwa="Bukowno" idAtlas="1807" lat="19.4602222222222" lon="50.264"/>
+	<stacja t="PO" nazwa="Bukowno Przymiarki" idAtlas="1808" lat="19.4091111111111" lon="50.2753888888889"/>
+	<stacja t="PO" nazwa="Bukowo" idAtlas="1426" lat="18.1068888888889" lon="50.8963055555556"/>
+	<stacja t="LPO" nazwa="Bukowo Człuchowskie"/>
+	<stacja t="PO" nazwa="Bukwałd"/>
+	<stacja t="PO" nazwa="Bulowice" idAtlas="1809" lat="19.28975" lon="49.8762777777778"/>
+	<stacja t="PO" nazwa="Burkat"/>
+	<stacja t="PO" nazwa="Bursztynowo"/>
+	<stacja t="ST" nazwa="Busko-Zdrój"/>
+	<stacja t="ST" nazwa="Byczyna Kluczborska" idAtlas="1429" lat="18.1998333333333" lon="51.1140833333333"/>
+	<stacja t="PO" nazwa="Bydgoszcz Akademia"/>
+	<stacja t="PO" nazwa="Bydgoszcz Bielawy"/>
+	<stacja t="PO" nazwa="Bydgoszcz Błonie"/>
+	<stacja t="PO" nazwa="Bydgoszcz Brdyujście"/>
+	<stacja t="LPO" nazwa="Bydgoszcz Fordon"/>
+	<stacja t="ST" nazwa="Bydgoszcz Główna"/>
+	<stacja t="PGLP" nazwa="Bydgoszcz Leśna"/>
+	<stacja t="PGLP" nazwa="Bydgoszcz Łęgnowo"/>
+	<stacja t="PO" nazwa="Bydgoszcz Osowa Góra"/>
+	<stacja t="ST" nazwa="Bydgoszcz Wschód"/>
+	<stacja t="PO" nazwa="Bydgoszcz Zachód"/>
+	<stacja t="PO" nazwa="Bystra Podhalańska" idAtlas="1810" lat="19.7876666666667" lon="49.6581111111111"/>
+	<stacja t="PO" nazwa="Bystrzyca Kłodzka" idAtlas="506" lat="16.6549166666667" lon="50.2968055555556"/>
+	<stacja t="ST" nazwa="Bystrzyca Kłodzka Przedmieście" idAtlas="507" lat="16.647" lon="50.2857222222222"/>
+	<stacja t="ST" nazwa="Bystrzyca koło Lublina"/>
+	<stacja t="PO" nazwa="Bytnica" idAtlas="37" lat="15.1482222222222" lon="52.1313611111111"/>
+	<stacja t="ST" nazwa="Bytom"/>
+	<stacja t="ST" nazwa="Bytom Bobrek"/>
+	<stacja t="ST" nazwa="Bytom Karb"/>
+	<stacja t="ST" nazwa="Bytom Odrzański" idAtlas="38" lat="15.8217777777778" lon="51.7262777777778"/>
+	<stacja t="PO" nazwa="Bytom Północny"/>
+	<stacja t="PO" nazwa="Bytonia"/>
+	<stacja t="PO" nazwa="Bzowiec"/>
+	<stacja t="PO" nazwa="Cegłów"/>
+	<stacja t="PO" nazwa="Cekcyn"/>
+	<stacja t="ST" nazwa="Celestynów"/>
+	<stacja t="PO" nazwa="Cerkiewnik"/>
+	<stacja t="ST" nazwa="Chabówka" idAtlas="1811" lat="19.9363333333333" lon="49.5970277777778"/>
+	<stacja t="ST" nazwa="Chałupki"/>
+	<stacja t="PO" nazwa="Chałupy"/>
+	<stacja t="PO" nazwa="Charnowo Słupskie"/>
+	<stacja t="ST" nazwa="Charsznica" idAtlas="1812" lat="19.9419166666667" lon="50.3961944444444"/>
+	<stacja t="PO" nazwa="Chechło"/>
+	<stacja t="ST" nazwa="Chełm"/>
+	<stacja t="PO" nazwa="Chełm Cementownia"/>
+	<stacja t="PO" nazwa="Chełm Miasto"/>
+	<stacja t="ST" nazwa="Chełm Śląski"/>
+	<stacja t="ST" nazwa="Chełmce"/>
+	<stacja t="PO" nazwa="Chełmek Fabryka" idAtlas="1815" lat="19.2544444444444" lon="50.0996944444444"/>
+	<stacja t="POGP" nazwa="Chełmek Wołowski" idAtlas="508" lat="16.3591944444444" lon="51.45625"/>
+	<stacja t="ST" nazwa="Chełmża"/>
+	<stacja t="PO" nazwa="Chludowo"/>
+	<stacja t="ST" nazwa="Chmielnik" idAtlas="2523" lat="20.7353333333333" lon="50.6078611111111"/>
+	<stacja t="PO" nazwa="Chmielniki Bydgoskie"/>
+	<stacja t="PO" nazwa="Chmielowice" idAtlas="1430" lat="17.8670555555556" lon="50.6448611111111"/>
+	<stacja t="ST" nazwa="Chmielów"/>
+	<stacja t="PO" nazwa="Chmielów Zagumnie"/>
+	<stacja t="ST" nazwa="Chocicza" idAtlas="1214" lat="17.3498888888889" lon="52.0699444444444"/>
+	<stacja t="ST" nazwa="Chociszew"/>
+	<stacja t="PO" nazwa="Chociszewo Rogoziniec" idAtlas="43" lat="15.7700555555556" lon="52.3069166666667"/>
+	<stacja t="ST" nazwa="Chociw Łaski"/>
+	<stacja t="ST" nazwa="Chociwel"/>
+	<stacja t="PO" nazwa="Chocznia" idAtlas="1816" lat="19.4516111111111" lon="49.8739444444444"/>
+	<stacja t="PO" nazwa="Chocznia Górna" idAtlas="1817" lat="19.4320833333333" lon="49.8627222222222"/>
+	<stacja t="ST" nazwa="Chodzież"/>
+	<stacja t="ST" nazwa="Chojna"/>
+	<stacja t="ST" nazwa="Chojnice"/>
+	<stacja t="PO" nazwa="Chełm Cementownia"/>
+	<stacja t="PO" nazwa="Chełm Miasto"/>
+	<stacja t="ST" nazwa="Chełm Śląski"/>
+	<stacja t="ST" nazwa="Chełmce"/>
+	<stacja t="PO" nazwa="Chełmek Fabryka" idAtlas="1815" lat="19.2544444444444" lon="50.0996944444444"/>
+	<stacja t="POGP" nazwa="Chełmek Wołowski" idAtlas="508" lat="16.3591944444444" lon="51.45625"/>
+	<stacja t="ST" nazwa="Chełmża"/>
+	<stacja t="PO" nazwa="Chludowo"/>
+	<stacja t="ST" nazwa="Chmielnik" idAtlas="2523" lat="20.7353333333333" lon="50.6078611111111"/>
+	<stacja t="PO" nazwa="Chmielniki Bydgoskie"/>
+	<stacja t="PO" nazwa="Chmielowice" idAtlas="1430" lat="17.8670555555556" lon="50.6448611111111"/>
+	<stacja t="ST" nazwa="Chmielów"/>
+	<stacja t="PO" nazwa="Chmielów Zagumnie"/>
+	<stacja t="ST" nazwa="Chocicza" idAtlas="1214" lat="17.3498888888889" lon="52.0699444444444"/>
+	<stacja t="ST" nazwa="Chociszew"/>
+	<stacja t="PO" nazwa="Chociszewo Rogoziniec" idAtlas="43" lat="15.7700555555556" lon="52.3069166666667"/>
+	<stacja t="ST" nazwa="Chociw Łaski"/>
+	<stacja t="ST" nazwa="Chociwel"/>
+	<stacja t="PO" nazwa="Chocznia" idAtlas="1816" lat="19.4516111111111" lon="49.8739444444444"/>
+	<stacja t="PO" nazwa="Chocznia Górna" idAtlas="1817" lat="19.4320833333333" lon="49.8627222222222"/>
+	<stacja t="ST" nazwa="Chodzież"/>
+	<stacja t="ST" nazwa="Chojna"/>
+	<stacja t="ST" nazwa="Chojnice"/>
+	<stacja t="PO" nazwa="Chełm Cementownia"/>
+	<stacja t="PO" nazwa="Chełm Miasto"/>
+	<stacja t="ST" nazwa="Chełm Śląski"/>
+	<stacja t="ST" nazwa="Chełmce"/>
+	<stacja t="PO" nazwa="Chełmek Fabryka" idAtlas="1815" lat="19.2544444444444" lon="50.0996944444444"/>
+	<stacja t="POGP" nazwa="Chełmek Wołowski" idAtlas="508" lat="16.3591944444444" lon="51.45625"/>
+	<stacja t="ST" nazwa="Chełmża"/>
+	<stacja t="PO" nazwa="Chludowo"/>
+	<stacja t="ST" nazwa="Chmielnik" idAtlas="2523" lat="20.7353333333333" lon="50.6078611111111"/>
+	<stacja t="PO" nazwa="Chmielniki Bydgoskie"/>
+	<stacja t="PO" nazwa="Chmielowice" idAtlas="1430" lat="17.8670555555556" lon="50.6448611111111"/>
+	<stacja t="ST" nazwa="Chmielów"/>
+	<stacja t="PO" nazwa="Chmielów Zagumnie"/>
+	<stacja t="ST" nazwa="Chocicza" idAtlas="1214" lat="17.3498888888889" lon="52.0699444444444"/>
+	<stacja t="ST" nazwa="Chociszew"/>
+	<stacja t="PO" nazwa="Chociszewo Rogoziniec" idAtlas="43" lat="15.7700555555556" lon="52.3069166666667"/>
+	<stacja t="ST" nazwa="Chociw Łaski"/>
+	<stacja t="ST" nazwa="Chociwel"/>
+	<stacja t="PO" nazwa="Chocznia" idAtlas="1816" lat="19.4516111111111" lon="49.8739444444444"/>
+	<stacja t="PO" nazwa="Chocznia Górna" idAtlas="1817" lat="19.4320833333333" lon="49.8627222222222"/>
+	<stacja t="ST" nazwa="Chodzież"/>
+	<stacja t="ST" nazwa="Chojna"/>
+	<stacja t="ST" nazwa="Chojnice"/>
+	<stacja t="PO" nazwa="Cisiec" idAtlas="1691" lat="19.1051388888889" lon="49.5830555555556"/>
+	<stacja t="PO" nazwa="Cmolas" idAtlas="2215" lat="21.7520555555556" lon="50.2938333333333"/>
+	<stacja t="PO" nazwa="Cybowo"/>
+	<stacja t="PO" nazwa="Cygany" idAtlas="2216" lat="21.697" lon="50.5127777777778"/>
+	<stacja t="ST" nazwa="Cykarzew"/>
+	<stacja t="PO" nazwa="Cykarzew Stary"/>
+	<stacja t="PO" nazwa="Czachówek Górny"/>
+	<stacja t="ST" nazwa="Czachówek Południowy"/>
+	<stacja t="POGP" nazwa="Czachówek Wschodni"/>
+	<stacja t="ST" nazwa="Czaplinek"/>
+	<stacja t="PO" nazwa="Czarlin"/>
+	<stacja t="ST" nazwa="Czarna Białostocka"/>
+	<stacja t="PO" nazwa="Czarna Tarnowska" idAtlas="2218" lat="21.25" lon="50.0598888888889"/>
+	<stacja t="ST" nazwa="Czarna Woda"/>
+	<stacja t="PO" nazwa="Czarnca" idAtlas="2529" lat="19.9453055555556" lon="50.8239166666667"/>
+	<stacja t="ST" nazwa="Czarne"/>
+	<stacja t="PO" nazwa="Czarne Małe"/>
+	<stacja t="PO" nazwa="Czarniecka Góra" idAtlas="2531" lat="20.5188333333333" lon="51.1437222222222"/>
+	<stacja t="PO" nazwa="Czarnobór"/>
+	<stacja t="ST" nazwa="Czarnowąsy" idAtlas="1437" lat="17.9046111111111" lon="50.7157777777778"/>
+	<stacja t="MPO" nazwa="Czarnowęsy Pomorskie"/>
+	<stacja t="MPO" nazwa="Czarny Blok"/>
+	<stacja t="ST" nazwa="Czastary"/>
+	<stacja t="PO" nazwa="Czaszyn" idAtlas="2219" lat="22.21975" lon="49.4590833333333"/>
+	<stacja t="ST" nazwa="Czechowice-Dziedzice"/>
+	<stacja t="ST" nazwa="Czechowice-Dziedzice Południowe"/>
+	<stacja t="PO" nazwa="Czechowice-Dziedzice Przystanek"/>
+	<stacja t="PO" nazwa="Czechowizna"/>
+	<stacja t="PO" nazwa="Cisiec" idAtlas="1691" lat="19.1051388888889" lon="49.5830555555556"/>
+	<stacja t="PO" nazwa="Cmolas" idAtlas="2215" lat="21.7520555555556" lon="50.2938333333333"/>
+	<stacja t="PO" nazwa="Cybowo"/>
+	<stacja t="PO" nazwa="Cygany" idAtlas="2216" lat="21.697" lon="50.5127777777778"/>
+	<stacja t="ST" nazwa="Cykarzew"/>
+	<stacja t="PO" nazwa="Cykarzew Stary"/>
+	<stacja t="PO" nazwa="Czachówek Górny"/>
+	<stacja t="ST" nazwa="Czachówek Południowy"/>
+	<stacja t="POGP" nazwa="Czachówek Wschodni"/>
+	<stacja t="ST" nazwa="Czaplinek"/>
+	<stacja t="PO" nazwa="Czarlin"/>
+	<stacja t="ST" nazwa="Czarna Białostocka"/>
+	<stacja t="PO" nazwa="Czarna Tarnowska" idAtlas="2218" lat="21.25" lon="50.0598888888889"/>
+	<stacja t="ST" nazwa="Czarna Woda"/>
+	<stacja t="PO" nazwa="Czarnca" idAtlas="2529" lat="19.9453055555556" lon="50.8239166666667"/>
+	<stacja t="ST" nazwa="Czarne"/>
+	<stacja t="PO" nazwa="Czarne Małe"/>
+	<stacja t="PO" nazwa="Czarniecka Góra" idAtlas="2531" lat="20.5188333333333" lon="51.1437222222222"/>
+	<stacja t="PO" nazwa="Czarnobór"/>
+	<stacja t="ST" nazwa="Czarnowąsy" idAtlas="1437" lat="17.9046111111111" lon="50.7157777777778"/>
+	<stacja t="MPO" nazwa="Czarnowęsy Pomorskie"/>
+	<stacja t="MPO" nazwa="Czarny Blok"/>
+	<stacja t="ST" nazwa="Czastary"/>
+	<stacja t="PO" nazwa="Czaszyn" idAtlas="2219" lat="22.21975" lon="49.4590833333333"/>
+	<stacja t="ST" nazwa="Czechowice-Dziedzice"/>
+	<stacja t="ST" nazwa="Czechowice-Dziedzice Południowe"/>
+	<stacja t="PO" nazwa="Czechowice-Dziedzice Przystanek"/>
+	<stacja t="PO" nazwa="Czechowizna"/>
+	<stacja t="ST" nazwa="Częstochowa"/>
+	<stacja t="PO" nazwa="Częstochowa Aniołów"/>
+	<stacja t="ST" nazwa="Częstochowa Gnaszyn"/>
+	<stacja t="PO" nazwa="Częstochowa Raków"/>
+	<stacja t="ST" nazwa="Częstochowa Stradom"/>
+	<stacja t="ST" nazwa="Człuchów"/>
+	<stacja t="ST" nazwa="Czudec" idAtlas="2220" lat="21.8328611111111" lon="49.9403333333333"/>
+	<stacja t="PO" nazwa="Czuprynowo"/>
+	<stacja t="ST" nazwa="Czyżew"/>
+	<stacja t="PO" nazwa="Czyżowice"/>
+	<stacja t="PO" nazwa="Ćmielów"/>
+	<stacja t="PO" nazwa="Dalanówek"/>
+	<stacja t="PO" nazwa="Dalekie"/>
+	<stacja t="ST" nazwa="Daleszewo Gryfińskie"/>
+	<stacja t="ST" nazwa="Dalęcino"/>
+	<stacja t="ST" nazwa="Damnica"/>
+	<stacja t="PO" nazwa="Daniszyn" idAtlas="1225" lat="17.6150555555556" lon="51.6673055555556"/>
+	<stacja t="PODS" nazwa="Dankowice" idAtlas="1695" lat="19.0818333333333" lon="49.9371111111111"/>
+	<stacja t="LPO" nazwa="Darłowo"/>
+	<stacja t="PO" nazwa="Daszewo"/>
+	<stacja t="PO" nazwa="Dąbie koło Dębicy"/>
+	<stacja t="ST" nazwa="Dąbie nad Nerem"/>
+	<stacja t="PO" nazwa="Dąbkowizna"/>
+	<stacja t="PO" nazwa="Dąbroszyn" idAtlas="66" lat="14.7121666666667" lon="52.6187777777778"/>
+	<stacja t="ST" nazwa="Dąbrowa Białostocka"/>
+	<stacja t="LPO" nazwa="Dąbrowa Chełmińska"/>
+	<stacja t="ST" nazwa="Dąbrowa Górnicza"/>
+	<stacja t="PO" nazwa="Dąbrowa Górnicza Gołonóg"/>
+	<stacja t="ST" nazwa="Dąbrowa Górnicza Południowa"/>
+	<stacja t="PO" nazwa="Dąbrowa Górnicza Sikorka"/>
+	<stacja t="ST" nazwa="Dąbrowa Górnicza Strzemieszyce"/>
+	<stacja t="ST" nazwa="Dąbrowa Górnicza Wschodnia"/>
+	<stacja t="ST" nazwa="Dąbrowa Górnicza Ząbkowice"/>
+	<stacja t="POGP" nazwa="Dąbrowa Niemodlińska" idAtlas="1442" lat="17.7538333333333" lon="50.6915833333333"/>
+	<stacja t="POGP" nazwa="Dąbrowa Oleśnicka" idAtlas="541" lat="17.36925" lon="51.23125"/>
+	<stacja t="PO" nazwa="Dąbrowa-Łazy"/>
+	<stacja t="PO" nazwa="Dąbrowica koło Biłgoraja"/>
+	<stacja t="PO" nazwa="Dąbrowica Małopolska" idAtlas="2223" lat="21.6226944444444" lon="50.4864444444444"/>
+	<stacja t="PO" nazwa="Dąbrowice Skierniewickie"/>
+	<stacja t="PO" nazwa="Dąbrowy"/>
+	<stacja t="PO" nazwa="Dąbrówka Malborska"/>
+	<stacja t="PO" nazwa="Dąbrówka Wielkopolska" idAtlas="68" lat="15.8004166666667" lon="52.2774722222222"/>
+	<stacja t="PO" nazwa="Deszczno" idAtlas="70" lat="15.3066666666667" lon="52.67175"/>
+	<stacja t="ST" nazwa="Dęba Opoczyńska"/>
+	<stacja t="ST" nazwa="Dęba Rozalin" idAtlas="2224" lat="21.7431111111111" lon="50.4286666666667"/>
+	<stacja t="PO" nazwa="Dębe Wielkie"/>
+	<stacja t="ST" nazwa="Dębica" idAtlas="2226" lat="21.4050555555556" lon="50.0543888888889"/>
+	<stacja t="PO" nazwa="Dębica Wschodnia" idAtlas="2228" lat="21.4445277777778" lon="50.0619166666667"/>
+	<stacja t="ST" nazwa="Dęblin"/>
+	<stacja t="PO" nazwa="Dębowy Gaj" idAtlas="544" lat="15.6437222222222" lon="51.0793888888889"/>
+	<stacja t="PO" nazwa="Dębska Kuźnia" idAtlas="1443" lat="18.1119444444444" lon="50.6644166666667"/>
+	<stacja t="PO" nazwa="Dębska Wola" idAtlas="2533" lat="20.5984722222222" lon="50.7029722222222"/>
+	<stacja t="LPO" nazwa="Długi Kąt" idAtlas="2703" lat="23.1020833333333" lon="50.4824444444444"/>
+	<stacja t="PO" nazwa="Długie" idAtlas="2231" lat="22.0494722222222" lon="49.5781666666667"/>
+	<stacja t="ST" nazwa="Długołęka" idAtlas="546" lat="17.1941111111111" lon="51.1783888888889"/>
+	<stacja t="PO" nazwa="Długopole-Zdrój"/>
+	<stacja t="PO" nazwa="Dobczyn"/>
+	<stacja t="ST" nazwa="Dobiegniew" idAtlas="75" lat="15.7472777777778" lon="52.9682777777778"/>
+	<stacja t="ST" nazwa="Dobieszyn"/>
+	<stacja t="PO" nazwa="Dobino Wałeckie"/>
+	<stacja t="LPO" nazwa="Doboszowice" idAtlas="548" lat="16.9428055555556" lon="50.5070833333333"/>
+	<stacja t="PO" nazwa="Dobra koło Limanowej"/>
+	<stacja t="ST" nazwa="Dobre Miasto"/>
+	<stacja t="PO" nazwa="Dobrocin"/>
+	<stacja t="PODS" nazwa="Dobroń"/>
+	<stacja t="ST" nazwa="Dobroszyce" idAtlas="549" lat="17.3633611111111" lon="51.2699722222222"/>
+	<stacja t="PO" nazwa="Dobrowoda"/>
+	<stacja t="PO" nazwa="Dobrynka"/>
+	<stacja t="PO" nazwa="Dobryszyce koło Radomska"/>
+	<stacja t="MPO" nazwa="Dobrzechów" idAtlas="2232" lat="21.7449722222222" lon="49.8725833333333"/>
+	<stacja t="PO" nazwa="Dobrzejewice"/>
+	<stacja t="ST" nazwa="Dobrzeń Wielki" idAtlas="1447" lat="17.8597777777778" lon="50.7710833333333"/>
+	<stacja t="PO" nazwa="Dobrzyniewo Duże"/>
+	<stacja t="PO" nazwa="Dobrzyń"/>
+	<stacja t="ST" nazwa="Dolice"/>
+	<stacja t="ST" nazwa="Dolna Odra"/>
+	<stacja t="PO" nazwa="Dolnik"/>
+	<stacja t="ST" nazwa="Domaniewice"/>
+	<stacja t="PO" nazwa="Domaniewice Centrum"/>
+	<stacja t="ST" nazwa="Domanin"/>
+	<stacja t="ST" nazwa="Domaszków" idAtlas="557" lat="16.6553055555556" lon="50.2129166666667"/>
+	<stacja t="ST" nazwa="Domaszowice" idAtlas="1448" lat="17.8840555555556" lon="51.0483888888889"/>
+	<stacja t="PO" nazwa="Dominów"/>
+	<stacja t="PO" nazwa="Domisław"/>
+	<stacja t="PO" nazwa="Dopiewo"/>
+	<stacja t="ST" nazwa="Dorohusk"/>
+	<stacja t="PO" nazwa="Dragacz"/>
+	<stacja t="ST" nazwa="Drawiny" idAtlas="78" lat="15.9494166666667" lon="52.8971666666667"/>
+	<stacja t="ST" nazwa="Drawski Młyn"/>
+	<stacja t="LPO" nazwa="Drawsko Pomorskie"/>
+	<stacja t="PO" nazwa="Drogomyśl" idAtlas="1697" lat="18.7576388888889" lon="49.8868333333333"/>
+	<stacja t="PO" nazwa="Drużyna Poznańska"/>
+	<stacja t="PO" nazwa="Drygały"/>
+	<stacja t="PO" nazwa="Drygulec" idAtlas="2537" lat="21.5769166666667" lon="50.8758055555556"/>
+	<stacja t="PO" nazwa="Drzeńsko" idAtlas="82" lat="14.7713888888889" lon="52.3699722222222"/>
+	<stacja t="PO" nazwa="Drzewce" idAtlas="85" lat="15.1666666666667" lon="52.2672222222222"/>
+	<stacja t="ST" nazwa="Drzewica"/>
+	<stacja t="PO" nazwa="Drzonowo"/>
+	<stacja t="PO" nazwa="Drzycim"/>
+	<stacja t="PO" nazwa="Drzymałowo" idAtlas="1229" lat="16.2967777777778" lon="52.1568888888889"/>
+	<stacja t="PO" nazwa="Dubidze"/>
+	<stacja t="PO" nazwa="Dubielno"/>
+	<stacja t="ST" nazwa="Dulowa" idAtlas="1839" lat="19.5206666666667" lon="50.1404444444444"/>
+	<stacja t="PO" nazwa="Dunowo"/>
+	<stacja t="ST" nazwa="Duszniki-Zdrój"/>
+	<stacja t="ST" nazwa="Dwikozy" idAtlas="2538" lat="21.7911944444444" lon="50.7321944444444"/>
+	<stacja t="ST" nazwa="Dwory" idAtlas="1840" lat="19.2856388888889" lon="50.0455"/>
+	<stacja t="ST" nazwa="Dygowo"/>
+	<stacja t="PO" nazwa="Dytmarów" idAtlas="1449" lat="17.6767222222222" lon="50.3298333333333"/>
+	<stacja t="PO" nazwa="Dziadówki" idAtlas="1841" lat="20.0084444444444" lon="50.3992777777778"/>
+	<stacja t="ST" nazwa="Działdowo"/>
+	<stacja t="ST" nazwa="Dziembówko"/>
+	<stacja t="PO" nazwa="Dziemiany Kaszubskie"/>
+	<stacja t="PGLP" nazwa="Dziergowice" idAtlas="1450" lat="18.2998333333333" lon="50.2430277777778"/>
+	<stacja t="PO" nazwa="Dzierżanów Wielkopolski" idAtlas="1233" lat="17.3540277777778" lon="51.7121111111111"/>
+	<stacja t="PO" nazwa="Dzierżążno"/>
+	<stacja t="ST" nazwa="Dzierżoniów Śląski"/>
+	<stacja t="PO" nazwa="Dzietrzniki"/>
+	<stacja t="PO" nazwa="Dziewięcierz" idAtlas="2238" lat="23.4333888888889" lon="50.2176111111111"/>
+	<stacja t="ST" nazwa="Dziewule"/>
+	<stacja t="PO" nazwa="Dzięczyn" idAtlas="1232" lat="16.8541388888889" lon="51.7572777777778"/>
+	<stacja t="PO" nazwa="Dziwno"/>
+	<stacja t="ST" nazwa="Elbląg"/>
+	<stacja t="ST" nazwa="Ełk"/>
+	<stacja t="PO" nazwa="Ełk Szyba Wschód"/>
+	<stacja t="PO" nazwa="Ełk Szyba Zachód"/>
+	<stacja t="PO" nazwa="Ełk Zachód"/>
+	<stacja t="PO" nazwa="Fałkowo"/>
+	<stacja t="PO" nazwa="Fasty"/>
+	<stacja t="PO" nazwa="Firlus"/>
+	<stacja t="PO" nazwa="Fiszewo"/>
+	<stacja t="ST" nazwa="Florek"/>
+	<stacja t="ST" nazwa="Fosowskie" idAtlas="1453" lat="18.3601944444444" lon="50.6604444444444"/>
+	<stacja t="PO" nazwa="Frankamionka" idAtlas="2704" lat="23.6529444444444" lon="50.7223888888889"/>
+	<stacja t="PO" nazwa="Fronołów"/>
+	<stacja t="ST" nazwa="Frysztak" idAtlas="2239" lat="21.6185555555556" lon="49.8309444444444"/>
+	<stacja t="PO" nazwa="Gajówka" idAtlas="1847" lat="19.8798333333333" lon="50.3944444444444"/>
+	<stacja t="PO" nazwa="Gałęzinowo"/>
+	<stacja t="ST" nazwa="Gałkówek"/>
+	<stacja t="ST" nazwa="Gamerki Wielkie"/>
+	<stacja t="ST" nazwa="Garbatka-Letnisko"/>
+	<stacja t="PO" nazwa="Garbce" idAtlas="570" lat="16.8895277777778" lon="51.5138055555556"/>
+	<stacja t="PO" nazwa="Garczegorze"/>
+	<stacja t="PO" nazwa="Garczyn"/>
+	<stacja t="ST" nazwa="Gardeja"/>
+	<stacja t="PO" nazwa="Garki" idAtlas="1236" lat="17.64875" lon="51.5405"/>
+	<stacja t="ST" nazwa="Garwolin"/>
+	<stacja t="PO" nazwa="Gawrony"/>
+	<stacja t="PO" nazwa="Gąbin"/>
+	<stacja t="ST" nazwa="Gądki" idAtlas="1235" lat="17.0450555555556" lon="52.3021111111111"/>
+	<stacja t="ST" nazwa="Gądków Wielki" idAtlas="92" lat="14.9636944444444" lon="52.2461111111111"/>
+	<stacja t="ST" nazwa="Gągławki"/>
+	<stacja t="PO" nazwa="Gąsawy Plebańskie"/>
+	<stacja t="ST" nazwa="Gąsocin"/>
+	<stacja t="PO" nazwa="Gdakowo"/>
+	<stacja t="ST" nazwa="Gdańsk Główny"/>
+	<stacja t="PO" nazwa="Gdańsk Lipce"/>
+	<stacja t="PO" nazwa="Gdańsk Oliwa"/>
+	<stacja t="PO" nazwa="Gdańsk Orunia"/>
+	<stacja t="ST" nazwa="Gdańsk Osowa"/>
+	<stacja t="PO" nazwa="Gdańsk Stadion Expo"/>
+	<stacja t="ST" nazwa="Gdańsk Wrzeszcz"/>
+	<stacja t="ST" nazwa="Gdynia Chylonia"/>
+	<stacja t="ST" nazwa="Gdynia Główna"/>
+	<stacja t="ST" nazwa="Gdynia Orłowo"/>
+	<stacja t="ST" nazwa="Gdynia Wielki Kack"/>
+	<stacja t="PO" nazwa="Geniusze"/>
+	<stacja t="PO" nazwa="Gębarzewo" idAtlas="1238" lat="17.5700555555556" lon="52.4816111111111"/>
+	<stacja t="PO" nazwa="Gierałtów" idAtlas="572" lat="15.3001111111111" lon="51.1913333333333"/>
+	<stacja t="ST" nazwa="Gierałtów Wykroty" idAtlas="573" lat="15.2842222222222" lon="51.2170555555556"/>
+	<stacja t="ST" nazwa="Gierwaty"/>
+	<stacja t="PO" nazwa="Gilów" idAtlas="2540" lat="20.7295" lon="51.1196666666667"/>
+	<stacja t="ST" nazwa="Giżycko"/>
+	<stacja t="PO" nazwa="Gliniczek" idAtlas="2242" lat="21.539" lon="49.7370555555556"/>
+	<stacja t="PO" nazwa="Gliniszcze"/>
+	<stacja t="MPO" nazwa="Glinnik"/>
+	<stacja t="PO" nazwa="Glinnik Wieś"/>
+	<stacja t="ST" nazwa="Gliwice"/>
+	<stacja t="PO" nazwa="Gliwice Kuźnica"/>
+	<stacja t="ST" nazwa="Gliwice Łabędy"/>
+	<stacja t="PO" nazwa="Głębokie Międzyrzeckie" idAtlas="97" lat="15.5340833333333" lon="52.4846944444444"/>
+	<stacja t="ST" nazwa="Głogów" idAtlas="576" lat="16.07975" lon="51.6696388888889"/>
+	<stacja t="PO" nazwa="Głogów Huta" idAtlas="581" lat="15.9921111111111" lon="51.6755"/>
+	<stacja t="ST" nazwa="Głogów Małopolski" idAtlas="2243" lat="21.9591111111111" lon="50.1476944444444"/>
+	<stacja t="ST" nazwa="Głogówek" idAtlas="1455" lat="17.8757222222222" lon="50.3475555555556"/>
+	<stacja t="PO" nazwa="Głowaczewo"/>
+	<stacja t="ST" nazwa="Głowno"/>
+	<stacja t="ST" nazwa="Głuchołazy" idAtlas="1458" lat="17.3945555555556" lon="50.3303333333333"/>
+	<stacja t="PO" nazwa="Głuchołazy Miasto" idAtlas="1460" lat="17.3898611111111" lon="50.3168055555556"/>
+	<stacja t="PO" nazwa="Głuchowo"/>
+	<stacja t="PO" nazwa="Głuchów" idAtlas="2245" lat="22.2790555555556" lon="50.0834722222222"/>
+	<stacja t="ST" nazwa="Głuszyca" idAtlas="582" lat="16.3538611111111" lon="50.6878888888889"/>
+	<stacja t="PO" nazwa="Głuszyca Górna" idAtlas="583" lat="16.3711388888889" lon="50.6729444444444"/>
+	<stacja t="PO" nazwa="Głuszyno Pomorskie"/>
+	<stacja t="PO" nazwa="Gniewczyna" idAtlas="2247" lat="22.5212777777778" lon="50.1001666666667"/>
+	<stacja t="ST" nazwa="Gniewkowo"/>
+	<stacja t="ST" nazwa="Gniezno" idAtlas="1239" lat="17.6035833333333" lon="52.5296944444444"/>
+	<stacja t="ST" nazwa="Gniezno Winiary"/>
+	<stacja t="PO" nazwa="Goczałkowice"/>
+	<stacja t="PO" nazwa="Goczałkowice-Zdrój"/>
+	<stacja t="PO" nazwa="Goczałków" idAtlas="585" lat="16.3244444444444" lon="51.009"/>
+	<stacja t="ST" nazwa="Godętowo"/>
+	<stacja t="PO" nazwa="Godki"/>
+	<stacja t="ST" nazwa="Godków"/>
+	<stacja t="PO" nazwa="Gogolewo"/>
+	<stacja t="ST" nazwa="Gogolin" idAtlas="1464" lat="18.0189722222222" lon="50.4926666666667"/>
+	<stacja t="PO" nazwa="Golce" idAtlas="2248" lat="22.374" lon="50.5294166666667"/>
+	<stacja t="ST" nazwa="Goleniów"/>
+	<stacja t="ST" nazwa="Goleszów" idAtlas="1698" lat="18.7490833333333" lon="49.7468333333333"/>
+	<stacja t="PO" nazwa="Golęczewo"/>
+	<stacja t="PO" nazwa="Golina" idAtlas="1242" lat="17.4602777777778" lon="51.9070555555556"/>
+	<stacja t="PO" nazwa="Goliszów" idAtlas="590" lat="15.9712222222222" lon="51.2945555555556"/>
+	<stacja t="LPO" nazwa="Gołańcz"/>
+	<stacja t="PO" nazwa="Gołaszewo Kujawskie"/>
+	<stacja t="PO" nazwa="Gołąb"/>
+	<stacja t="PO" nazwa="Gołotczyzna"/>
+	<stacja t="ST" nazwa="Gołubie Kaszubskie"/>
+	<stacja t="ST" nazwa="Gomunice"/>
+	<stacja t="PO" nazwa="Goniądz"/>
+	<stacja t="ST" nazwa="Gorlice" idAtlas="1848" lat="21.1629166666667" lon="49.6643888888889"/>
+	<stacja t="PO" nazwa="Gorlice Glinik" idAtlas="1850" lat="21.173" lon="49.6717777777778"/>
+	<stacja t="ST" nazwa="Gorlice Zagórzany" idAtlas="1852" lat="21.1950833333333" lon="49.6938055555555"/>
+	<stacja t="ST" nazwa="Gorzanów" idAtlas="592" lat="16.6408333333333" lon="50.3543333333333"/>
+	<stacja t="PO" nazwa="Gorzelin" idAtlas="593" lat="16.1810277777778" lon="51.3284444444445"/>
+	<stacja t="PO" nazwa="Gorzędów"/>
+	<stacja t="ST" nazwa="Gorzkowice"/>
+	<stacja t="PO" nazwa="Gorzów Chrzanowski" idAtlas="1856" lat="19.2419166666667" lon="50.0733888888889"/>
+	<stacja t="ST" nazwa="Gorzów Wielkopolski" idAtlas="101" lat="15.2292777777778" lon="52.7276388888889"/>
+	<stacja t="PO" nazwa="Gorzów Wielkopolski Karnin" idAtlas="103" lat="15.2808888888889" lon="52.689"/>
+	<stacja t="PO" nazwa="Gorzów Wielkopolski Wieprzyce" idAtlas="105" lat="15.1809166666667" lon="52.7176944444444"/>
+	<stacja t="PO" nazwa="Gorzów Wielkopolski Wschodni"/>
+	<stacja t="PO" nazwa="Gorzów Wielkopolski Zamoście" idAtlas="106" lat="15.2391111111111" lon="52.7226388888889"/>
+	<stacja t="ST" nazwa="Gorzów Wielkopolski Zieleniec" idAtlas="107" lat="15.2615277777778" lon="52.6998333333333"/>
+	<stacja t="PO" nazwa="Gorzuchowo Chełmińskie"/>
+	<stacja t="LPO" nazwa="Gorzuchów Kłodzki" idAtlas="594" lat="16.5715833333333" lon="50.4898611111111"/>
+	<stacja t="PO" nazwa="Gorzupia" idAtlas="1244" lat="17.5036111111111" lon="51.6920555555556"/>
+	<stacja t="ST" nazwa="Gostynin"/>
+	<stacja t="PO" nazwa="Goszcza" idAtlas="1857" lat="20.0610833333333" lon="50.1848333333333"/>
+	<stacja t="ST" nazwa="Gościcino Wejherowskie"/>
+	<stacja t="PO" nazwa="Gościszewo"/>
+	<stacja t="PO" nazwa="Gościszów" idAtlas="595" lat="15.4463888888889" lon="51.1590277777778"/>
+	<stacja t="PO" nazwa="Gośniewice"/>
+	<stacja t="ST" nazwa="Goświnowice" idAtlas="1468" lat="17.2572222222222" lon="50.4785555555556"/>
+	<stacja t="PO" nazwa="Goworowo"/>
+	<stacja t="LPO" nazwa="Gozdowo"/>
+	<stacja t="ST" nazwa="Góra Kalwaria"/>
+	<stacja t="ST" nazwa="Górażdże" idAtlas="1465" lat="18.0033333333333" lon="50.5291111111111"/>
+	<stacja t="PO" nazwa="Górka Duchowna"/>
+	<stacja t="ST" nazwa="Górki Noteckie" idAtlas="116" lat="15.4883333333333" lon="52.7932222222222"/>
+	<stacja t="PO" nazwa="Górki Pomorskie"/>
+	<stacja t="POGP" nazwa="Górki Szczukowskie" idAtlas="2543" lat="20.5258055555556" lon="50.8832222222222"/>
+	<stacja t="PO" nazwa="Górki Śląskie"/>
+	<stacja t="PO" nazwa="Górna Grupa"/>
+	<stacja t="PO" nazwa="Górowo"/>
+	<stacja t="PO" nazwa="Górzyca" idAtlas="117" lat="14.6569722222222" lon="52.4997222222222"/>
+	<stacja t="PO" nazwa="Górzyniec" idAtlas="599" lat="15.5678611111111" lon="50.8601666666667"/>
+	<stacja t="PO" nazwa="Grabiny" idAtlas="2249" lat="21.33325" lon="50.0460555555556"/>
+	<stacja t="ST" nazwa="Grabowno Wielkie" idAtlas="601" lat="17.4034166666667" lon="51.3432777777778"/>
+	<stacja t="MPO" nazwa="Grabów nad Pilicą"/>
+	<stacja t="PO" nazwa="Grabów Szlachecki"/>
+	<stacja t="ST" nazwa="Grajewo"/>
+	<stacja t="ST" nazwa="Gralewo"/>
+	<stacja t="ST" nazwa="Granowiec" idAtlas="1249" lat="17.6451944444444" lon="51.5119166666667"/>
+	<stacja t="ST" nazwa="Granowo Nowotomyskie" idAtlas="1250" lat="16.53" lon="52.2255555555556"/>
+	<stacja t="PO" nazwa="Grąblewo"/>
+	<stacja t="ST" nazwa="Gregorowce"/>
+	<stacja t="ST" nazwa="Grębocice" idAtlas="602" lat="16.1852777777778" lon="51.5931666666667"/>
+	<stacja t="PO" nazwa="Grębocin"/>
+	<stacja t="PO" nazwa="Gręboszów" idAtlas="1471" lat="17.8002222222222" lon="51.0653611111111"/>
+	<stacja t="ST" nazwa="Grębów" idAtlas="2251" lat="21.8367777777778" lon="50.6038888888889"/>
+	<stacja t="LPO" nazwa="Grodków Śląski"/>
+	<stacja t="PO" nazwa="Grodzie"/>
+	<stacja t="ST" nazwa="Grodzisk Mazowiecki"/>
+	<stacja t="ST" nazwa="Grodzisk Wielkopolski" idAtlas="1252" lat="16.3638333333333" lon="52.2305833333333"/>
+	<stacja t="ST" nazwa="Grodzisko Dolne" idAtlas="2252" lat="22.5091111111111" lon="50.1696111111111"/>
+	<stacja t="PO" nazwa="Grodziszcze Mazowieckie"/>
+	<stacja t="PO" nazwa="Grom"/>
+	<stacja t="ST" nazwa="Gromnik" idAtlas="1861" lat="20.9610277777778" lon="49.8341388888889"/>
+	<stacja t="PO" nazwa="Gronajny"/>
+	<stacja t="ST" nazwa="Gronowo Elbląskie"/>
+	<stacja t="PO" nazwa="Grotniki"/>
+	<stacja t="PO" nazwa="Gródek"/>
+	<stacja t="PO" nazwa="Grudze"/>
+	<stacja t="ST" nazwa="Grudziądz"/>
+	<stacja t="ST" nazwa="Grudziądz Mniszek"/>
+	<stacja t="ST" nazwa="Grudziądz Owczarki"/>
+	<stacja t="PO" nazwa="Grudziądz Przedmieście"/>
+	<stacja t="ST" nazwa="Grupa"/>
+	<stacja t="ST" nazwa="Grybów" idAtlas="1862" lat="20.9578888888889" lon="49.6265"/>
+	<stacja t="ST" nazwa="Gryfice"/>
+	<stacja t="ST" nazwa="Gryfino"/>
+	<stacja t="ST" nazwa="Gryfów Śląski"/>
+	<stacja t="PO" nazwa="Grylewo"/>
+	<stacja t="PO" nazwa="Gryźliny"/>
+	<stacja t="PO" nazwa="Grzegorzewo"/>
+	<stacja t="PO" nazwa="Grzędzice Stargardzkie"/>
+	<stacja t="PO" nazwa="Grzępa"/>
+	<stacja t="PO" nazwa="Grzęska" idAtlas="2253" lat="22.4542777777778" lon="50.0797777777778"/>
+	<stacja t="ST" nazwa="Grzmiąca"/>
+	<stacja t="PO" nazwa="Grzybno"/>
+	<stacja t="ST" nazwa="Grzybów" idAtlas="2545" lat="21.0541388888889" lon="50.5298611111111"/>
+	<stacja t="PO" nazwa="Grzywna"/>
+	<stacja t="PO" nazwa="Gułtowy"/>
+	<stacja t="ST" nazwa="Gutkowo"/>
+	<stacja t="POGP" nazwa="Gutowiec"/>
+	<stacja t="PO" nazwa="Gutowo Wielkopolskie"/>
+	<stacja t="PO" nazwa="Gwda Mała"/>
+	<stacja t="PO" nazwa="Gzin"/>
+	<stacja t="ST" nazwa="Hajnówka"/>
+	<stacja t="PO" nazwa="Halinów"/>
+	<stacja t="PO" nazwa="Hartowiec"/>
+	<stacja t="ST" nazwa="Hel"/>
+	<stacja t="PO" nazwa="Henrykowo"/>
+	<stacja t="ST" nazwa="Henryków" idAtlas="613" lat="17.0298611111111" lon="50.6634166666667"/>
+	<stacja t="ST" nazwa="Herby Nowe"/>
+	<stacja t="ST" nazwa="Herby Stare"/>
+	<stacja t="PO" nazwa="Hołówki Duże"/>
+	<stacja t="PO" nazwa="Hordzieżka"/>
+	<stacja t="ST" nazwa="Horyniec-Zdrój"/>
+	<stacja t="ST" nazwa="Hrebenne" idAtlas="2706" lat="23.5768055555556" lon="50.2983333333333"/>
+	<stacja t="ST" nazwa="Hrubieszów Miasto" idAtlas="2708" lat="23.9087222222222" lon="50.7968611111111"/>
+	<stacja t="PO" nazwa="Hucisko" idAtlas="1863" lat="19.4075277777778" lon="49.6892222222222"/>
+	<stacja t="ST" nazwa="Hurko" idAtlas="2257" lat="22.8631666666667" lon="49.78525"/>
+	<stacja t="PO" nazwa="Huta Deręgowska" idAtlas="2259" lat="22.2648333333333" lon="50.5312777777778"/>
+	<stacja t="ST" nazwa="Huta Krzeszowska" idAtlas="2261" lat="22.4570277777778" lon="50.5305555555556"/>
+	<stacja t="ST" nazwa="Iława Główna"/>
+	<stacja t="PO" nazwa="Iława Miasto"/>
+	<stacja t="LPO" nazwa="Iłowa Żagańska" idAtlas="127" lat="15.1885" lon="51.5021111111111"/>
+	<stacja t="PO" nazwa="Iłowiec"/>
+	<stacja t="ST" nazwa="Iłowo"/>
+	<stacja t="ST" nazwa="Imbramowice" idAtlas="615" lat="16.5795555555556" lon="50.9635555555556"/>
+	<stacja t="ST" nazwa="Imielin"/>
+	<stacja t="ST" nazwa="Inowrocław"/>
+	<stacja t="ST" nazwa="Inowrocław Mątwy"/>
+	<stacja t="ST" nazwa="Inowrocław Rąbinek"/>
+	<stacja t="PO" nazwa="Inwałd" idAtlas="1864" lat="19.3878611111111" lon="49.8530277777778"/>
+	<stacja t="ST" nazwa="Iwin"/>
+	<stacja t="PO" nazwa="Izbica" idAtlas="2710" lat="23.1493333333333" lon="50.8861111111111"/>
+	<stacja t="ST" nazwa="Jabłonowo Pomorskie"/>
+	<stacja t="PO" nazwa="Jabłoń Kościelna"/>
+	<stacja t="ST" nazwa="Jackowice"/>
+	<stacja t="PO" nazwa="Jackowo Dworskie"/>
+	<stacja t="PO" nazwa="Jacków"/>
+	<stacja t="PO" nazwa="Jadachy" idAtlas="2262" lat="21.6965555555556" lon="50.4828055555556"/>
+	<stacja t="PO" nazwa="Jadwiżyn"/>
+	<stacja t="PO" nazwa="Jagodzin" idAtlas="621" lat="15.1702777777778" lon="51.355"/>
+	<stacja t="ST" nazwa="Jaksice"/>
+	<stacja t="PO" nazwa="Jaktorów"/>
+	<stacja t="ST" nazwa="Jakubowice" idAtlas="623" lat="16.4933333333333" lon="50.8124722222222"/>
+	<stacja t="ST" nazwa="Jamielnik"/>
+	<stacja t="ST" nazwa="Janikowo"/>
+	<stacja t="ST" nazwa="Janinów"/>
+	<stacja t="PO" nazwa="Jankowa" idAtlas="1866" lat="20.9341111111111" lon="49.6957777777778"/>
+	<stacja t="ST" nazwa="Jankowa Żagańska" idAtlas="131" lat="15.1810277777778" lon="51.5670833333333"/>
+	<stacja t="PO" nazwa="Jankowo Dolne"/>
+	<stacja t="ST" nazwa="Jankowo Pomorskie"/>
+	<stacja t="PO" nazwa="Janków Przygodzki"/>
+	<stacja t="ST" nazwa="Janowice Wielkie" idAtlas="625" lat="15.9186388888889" lon="50.8785"/>
+	<stacja t="ST" nazwa="Janowiec Wielkopolski"/>
+	<stacja t="PO" nazwa="Janówek"/>
+	<stacja t="ST" nazwa="Jarocin" idAtlas="1254" lat="17.4946111111111" lon="51.9688611111111"/>
+	<stacja t="ST" nazwa="Jarosław" idAtlas="2264" lat="22.6774722222222" lon="50.0106666666667"/>
+	<stacja t="PO" nazwa="Jarosty"/>
+	<stacja t="ST" nazwa="Jaroszowiec Olkuski" idAtlas="1868" lat="19.6193333333333" lon="50.3411944444444"/>
+	<stacja t="PO" nazwa="Jarszewo"/>
+	<stacja t="PO" nazwa="Jarzębia Łąka"/>
+	<stacja t="PO" nazwa="Jarzębiec"/>
+	<stacja t="PO" nazwa="Jasice" idAtlas="2552" lat="21.6271944444444" lon="50.85275"/>
+	<stacja t="PO" nazwa="Jasienica Dolna" idAtlas="1478" lat="17.5038611111111" lon="50.5040833333333"/>
+	<stacja t="PO" nazwa="Jasienica Mazowiecka"/>
+	<stacja t="PO" nazwa="Jasień Brzeski" idAtlas="1870" lat="20.5587222222222" lon="49.9870277777778"/>
+	<stacja t="LPO" nazwa="Jasiniec Białebłota"/>
+	<stacja t="PODS" nazwa="Jasiona" idAtlas="1479" lat="18.076" lon="50.4588611111111"/>
+	<stacja t="PO" nazwa="Jasionna Łowicka"/>
+	<stacja t="ST" nazwa="Jasło" idAtlas="2266" lat="21.4708611111111" lon="49.7377222222222"/>
+	<stacja t="PBSP" nazwa="Jasło Niegłowice" idAtlas="2267" lat="21.4518055555556" lon="49.7263333333333"/>
+	<stacja t="ST" nazwa="Jastarnia"/>
+	<stacja t="PO" nazwa="Jastarnia Wczasy"/>
+	<stacja t="ST" nazwa="Jastrowie"/>
+	<stacja t="ST" nazwa="Jastrząb"/>
+	<stacja t="PO" nazwa="Jastrzębie Pomorskie"/>
+	<stacja t="ST" nazwa="Jastrzębna"/>
+	<stacja t="PO" nazwa="Jastrzębsko"/>
+	<stacja t="ST" nazwa="Jaszczów"/>
+	<stacja t="PO" nazwa="Jaśkowice" idAtlas="1871" lat="19.6739166666667" lon="49.9617777777778"/>
+	<stacja t="PO" nazwa="Jaśkowice Legnickie" idAtlas="627" lat="16.313" lon="51.2151111111111"/>
+	<stacja t="PO" nazwa="Jaślany" idAtlas="2265" lat="21.4690833333333" lon="50.4010555555556"/>
+	<stacja t="PO" nazwa="Jawiszowice Jaźnik" idAtlas="1872" lat="19.1170277777778" lon="49.9502222222222"/>
+	<stacja t="ST" nazwa="Jawor" idAtlas="629" lat="16.1971388888889" lon="51.0554166666667"/>
+	<stacja t="ST" nazwa="Jaworzno Ciężkowice" idAtlas="1707" lat="19.3378333333333" lon="50.2116666666667"/>
+	<stacja t="PO" nazwa="Jaworzno koło Wielunia"/>
+	<stacja t="ST" nazwa="Jaworzno Szczakowa" idAtlas="1709" lat="19.2944166666667" lon="50.2468611111111"/>
+	<stacja t="ST" nazwa="Jaworzyna Śląska"/>
+	<stacja t="PO" nazwa="Jazy"/>
+	<stacja t="ST" nazwa="Jedlicze" idAtlas="2270" lat="21.6487222222222" lon="49.7187777777778"/>
+	<stacja t="PO" nazwa="Jedlicze Męcinka" idAtlas="2271" lat="21.6260555555556" lon="49.7261944444444"/>
+	<stacja t="PO" nazwa="Jedlina Górna" idAtlas="633" lat="16.3222222222222" lon="50.7296388888889"/>
+	<stacja t="PO" nazwa="Jedlina-Zdrój"/>
+	<stacja t="PO" nazwa="Jedlnia Kościelna"/>
+	<stacja t="ST" nazwa="Jedlnia-Letnisko"/>
+	<stacja t="PO" nazwa="Jeglia"/>
+	<stacja t="POGP" nazwa="Jelcz Miłoszyce" idAtlas="638" lat="17.3059444444444" lon="51.0445833333333"/>
+	<stacja t="ST" nazwa="Jelcz-Laskowice"/>
+	<stacja t="ST" nazwa="Jelenia Góra" idAtlas="639" lat="15.756" lon="50.9025555555556"/>
+	<stacja t="LPO" nazwa="Jelenia Góra Cieplice" idAtlas="641" lat="15.6883611111111" lon="50.8701111111111"/>
+	<stacja t="PO" nazwa="Jelenia Góra Orle" idAtlas="642" lat="15.6576111111111" lon="50.8642222222222"/>
+	<stacja t="ST" nazwa="Jelenia Góra Sobieszów" idAtlas="644" lat="15.6455555555556" lon="50.8518888888889"/>
+	<stacja t="ST" nazwa="Jelenia Góra Zachodnia" idAtlas="645" lat="15.71925" lon="50.9006111111111"/>
+	<stacja t="PO" nazwa="Jelenino"/>
+	<stacja t="ST" nazwa="Jeleń"/>
+	<stacja t="ST" nazwa="Jeleśnia" idAtlas="1712" lat="19.3201388888889" lon="49.6524444444444"/>
+	<stacja t="PO" nazwa="Jelna" idAtlas="2273" lat="22.3646944444444" lon="50.3040555555555"/>
+	<stacja t="LPO" nazwa="Jełowa" idAtlas="1481" lat="18.0465833333333" lon="50.7935555555556"/>
+	<stacja t="PO" nazwa="Jeruty"/>
+	<stacja t="ST" nazwa="Jerzmanice Lubuskie" idAtlas="140" lat="14.8674444444444" lon="52.3066111111111"/>
+	<stacja t="ST" nazwa="Jerzmanice-Zdrój"/>
+	<stacja t="ST" nazwa="Jerzmanki" idAtlas="650" lat="15.0610833333333" lon="51.1276944444444"/>
+	<stacja t="PO" nazwa="Jesionka"/>
+	<stacja t="PO" nazwa="Jesionowiec"/>
+	<stacja t="PO" nazwa="Jezierzany" idAtlas="651" lat="16.0977222222222" lon="51.2356388888889"/>
+	<stacja t="ST" nazwa="Jezierzyce Słupskie"/>
+	<stacja t="PO" nazwa="Jeziorki Wałeckie"/>
+	<stacja t="PO" nazwa="Jeżewo"/>
+	<stacja t="PO" nazwa="Jeżów Sudecki" idAtlas="652" lat="15.7349722222222" lon="50.9271944444444"/>
+	<stacja t="PO" nazwa="Jeżówka" idAtlas="1873" lat="19.823" lon="50.3998611111111"/>
+	<stacja t="ST" nazwa="Jędrzejów" idAtlas="2555" lat="20.2760277777778" lon="50.6448333333333"/>
+	<stacja t="PGLP" nazwa="Jędrzychowice" idAtlas="635" lat="15.0178611111111" lon="51.1725277777778"/>
+	<stacja t="PO" nazwa="Jonkowo"/>
+	<stacja t="ST" nazwa="Jordanów" idAtlas="1874" lat="19.8326111111111" lon="49.6375555555556"/>
+	<stacja t="PO" nazwa="Józefów"/>
+	<stacja t="LPO" nazwa="Józefów Roztoczański" idAtlas="2713" lat="23.0396944444444" lon="50.5179166666667"/>
+	<stacja t="ST" nazwa="Julianka"/>
+	<stacja t="PO" nazwa="Jurata"/>
+	<stacja t="PO" nazwa="Justynów"/>
+	<stacja t="PO" nazwa="Juszczyn" idAtlas="1875" lat="19.6916111111111" lon="49.7071666666667"/>
+	<stacja t="PO" nazwa="Kaczkowo"/>
+	<stacja t="PO" nazwa="Kaczorowo"/>
+	<stacja t="ST" nazwa="Kaczory"/>
+	<stacja t="ST" nazwa="Kaczyce" idAtlas="1713" lat="18.6115" lon="49.8325277777778"/>
+	<stacja t="PO" nazwa="Kalembina" idAtlas="2274" lat="21.6846388888889" lon="49.86925"/>
+	<stacja t="ST" nazwa="Kalety"/>
+	<stacja t="ST" nazwa="Kaliska"/>
+	<stacja t="ST" nazwa="Kaliska Kujawskie"/>
+	<stacja t="ST" nazwa="Kalisz" idAtlas="1258" lat="18.0713888888889" lon="51.7428333333333"/>
+	<stacja t="PO" nazwa="Kalisz Kaszubski"/>
+	<stacja t="ST" nazwa="Kalisz Pomorski"/>
+	<stacja t="PO" nazwa="Kalisz Pomorski Miasto"/>
+	<stacja t="PO" nazwa="Kalisz Szczypiorno" idAtlas="1259" lat="18.0273333333333" lon="51.7259722222222"/>
+	<stacja t="PO" nazwa="Kalisz Winiary" idAtlas="1261" lat="18.1411666666667" lon="51.7335"/>
+	<stacja t="PO" nazwa="Kaliszki"/>
+	<stacja t="PO" nazwa="Kalwaria Zebrzydowska" idAtlas="1878" lat="19.6734444444444" lon="49.8738333333333"/>
+	<stacja t="ST" nazwa="Kalwaria Zebrzydowska Lanckorona" idAtlas="1879" lat="19.6885555555556" lon="49.8712222222222"/>
+	<stacja t="PO" nazwa="Kałęczyn"/>
+	<stacja t="PO" nazwa="Kały" idAtlas="1485" lat="18.0806388888889" lon="50.8273055555556"/>
+	<stacja t="ST" nazwa="Kamieniec Ząbkowicki" idAtlas="659" lat="16.8979722222222" lon="50.5363055555556"/>
+	<stacja t="ST" nazwa="Kamienna Góra" idAtlas="661" lat="16.0232222222222" lon="50.7856388888889"/>
+	<stacja t="PO" nazwa="Kamienna Karczma"/>
+	<stacja t="PO" nazwa="Kamienna Nowa"/>
+	<stacja t="LPO" nazwa="Kamień Krajeński"/>
+	<stacja t="PO" nazwa="Kamień Łowicki"/>
+	<stacja t="PO" nazwa="Kamień Mały" idAtlas="146" lat="14.7808611111111" lon="52.6418611111111"/>
+	<stacja t="ST" nazwa="Kamień Pomorski"/>
+	<stacja t="ST" nazwa="Kamień Śląski"/>
+	<stacja t="PO" nazwa="Kamieńczyce" idAtlas="1880" lat="20.0055833333333" lon="50.3275555555556"/>
+	<stacja t="PO" nazwa="Kamieńsk"/>
+	<stacja t="ST" nazwa="Kamionka Wielka" idAtlas="1883" lat="20.7812222222222" lon="49.578"/>
+	<stacja t="PO" nazwa="Kamionki Jezioro"/>
+	<stacja t="PO" nazwa="Kanie"/>
+	<stacja t="PO" nazwa="Kaniów" idAtlas="1714" lat="19.0525" lon="49.9261111111111"/>
+	<stacja t="PO" nazwa="Karcino"/>
+	<stacja t="ST" nazwa="Karczyn"/>
+	<stacja t="ST" nazwa="Karlino"/>
+	<stacja t="ST" nazwa="Karłowice" idAtlas="1488" lat="17.6993055555556" lon="50.8795"/>
+	<stacja t="PO" nazwa="Karnkowo"/>
+	<stacja t="PO" nazwa="Karolinówka"/>
+	<stacja t="LPO" nazwa="Karsin"/>
+	<stacja t="ST" nazwa="Kartuzy"/>
+	<stacja t="PO" nazwa="Karwica Mazurska"/>
+	<stacja t="ST" nazwa="Karwice"/>
+	<stacja t="PO" nazwa="Karzec" idAtlas="1263" lat="16.9045555555556" lon="51.75475"/>
+	<stacja t="PO" nazwa="Kasina Wielka" idAtlas="1884" lat="20.1513611111111" lon="49.7196388888889"/>
+	<stacja t="ST" nazwa="Katowice"/>
+	<stacja t="PO" nazwa="Katowice Brynów"/>
+	<stacja t="ST" nazwa="Katowice Ligota"/>
+	<stacja t="PO" nazwa="Katowice Piotrowice"/>
+	<stacja t="PO" nazwa="Katowice Podlesie"/>
+	<stacja t="PO" nazwa="Katowice Szopienice Południowe"/>
+	<stacja t="PO" nazwa="Katowice Załęże"/>
+	<stacja t="ST" nazwa="Katowice Zawodzie"/>
+	<stacja t="LPO" nazwa="Kawcze"/>
+	<stacja t="PO" nazwa="Kawnice"/>
+	<stacja t="ST" nazwa="Kąkolewo" idAtlas="1257" lat="16.6867777777778" lon="51.8578611111111"/>
+	<stacja t="PO" nazwa="Kątne"/>
+	<stacja t="ST" nazwa="Kąty Wrocławskie" idAtlas="668" lat="16.7509166666667" lon="51.0382777777778"/>
+	<stacja t="ST" nazwa="Kcynia"/>
+	<stacja t="ST" nazwa="Kędzierzyn-Koźle"/>
+	<stacja t="PO" nazwa="Kędzierzyn-Koźle Azoty"/>
+	<stacja t="PO" nazwa="Kędzierzyn-Koźle Przystanek"/>
+	<stacja t="PGLP" nazwa="Kędzierzyn-Koźle Zachodnie"/>
+	<stacja t="PO" nazwa="Kępa" idAtlas="2278" lat="22.0326111111111" lon="50.6531111111111"/>
+	<stacja t="LPO" nazwa="Kępice"/>
+	<stacja t="PO" nazwa="Kępka"/>
+	<stacja t="ST" nazwa="Kępno"/>
+	<stacja t="PO" nazwa="Kęszyce"/>
+	<stacja t="ST" nazwa="Kętrzyn"/>
+	<stacja t="ST" nazwa="Kęty" idAtlas="1886" lat="19.2256388888889" lon="49.8806111111111"/>
+	<stacja t="PO" nazwa="Kęty Podlesie" idAtlas="1887" lat="19.1967222222222" lon="49.8781944444444"/>
+	<stacja t="ST" nazwa="Kiekrz"/>
+	<stacja t="ST" nazwa="Kielce" idAtlas="2561" lat="20.6179444444444" lon="50.8742777777778"/>
+	<stacja t="ST" nazwa="Kielce Białogon" idAtlas="2562" lat="20.573" lon="50.85475"/>
+	<stacja t="ST" nazwa="Kielce Herbskie" idAtlas="2564" lat="20.6024722222222" lon="50.8862777777778"/>
+	<stacja t="PO" nazwa="Kielce Piaski" idAtlas="2565" lat="20.6253611111111" lon="50.8898055555556"/>
+	<stacja t="PO" nazwa="Kielce Słowik" idAtlas="2647" lat="20.5386944444444" lon="50.8333888888889"/>
+	<stacja t="PO" nazwa="Kielce Ślichowice"/>
+	<stacja t="ST" nazwa="Kielcza"/>
+	<stacja t="PO" nazwa="Kiełpino Kartuskie"/>
+	<stacja t="PO" nazwa="Kietlanka"/>
+	<stacja t="PO" nazwa="Kity"/>
+	<stacja t="PO" nazwa="Klecza Dolna" idAtlas="1891" lat="19.53425" lon="49.8785"/>
+	<stacja t="PO" nazwa="Klecza Górna" idAtlas="1892" lat="19.5674722222222" lon="49.8651944444444"/>
+	<stacja t="PO" nazwa="Klembów"/>
+	<stacja t="ST" nazwa="Klemensów" idAtlas="2714" lat="23.0365555555556" lon="50.6977222222222"/>
+	<stacja t="ST" nazwa="Klementowice"/>
+	<stacja t="PO" nazwa="Klepacze"/>
+	<stacja t="PO" nazwa="Kleszczele"/>
+	<stacja t="PO" nazwa="Klewki" idAtlas="1782" lat="20.5682222222222" lon="53.7362222222222"/>
+	<stacja t="PO" nazwa="Klęczany" idAtlas="1889" lat="20.62075" lon="49.6703611111111"/>
+	<stacja t="PO" nazwa="Klępnica"/>
+	<stacja t="PO" nazwa="Klimontów" idAtlas="2567" lat="20.0304166666667" lon="50.5257777777778"/>
+	<stacja t="ST" nazwa="Kliniska"/>
+	<stacja t="ST" nazwa="Kluczbork" idAtlas="1503" lat="18.2008333333333" lon="50.9712777777778"/>
+	<stacja t="ST" nazwa="Kłaj" idAtlas="1888" lat="20.3008888888889" lon="50.0018611111111"/>
+	<stacja t="ST" nazwa="Kłodawa"/>
+	<stacja t="ST" nazwa="Kłodzko Główne" idAtlas="672" lat="16.6566944444444" lon="50.4514166666667"/>
+	<stacja t="PO" nazwa="Kłodzko Książek" idAtlas="673" lat="16.64025" lon="50.4158055555556"/>
+	<stacja t="PO" nazwa="Kłodzko Miasto" idAtlas="674" lat="16.6586111111111" lon="50.4358611111111"/>
+	<stacja t="LPO" nazwa="Kłodzko Zagórze" idAtlas="677" lat="16.6126666666667" lon="50.415"/>
+	<stacja t="PO" nazwa="Kłokowa" idAtlas="1894" lat="20.9572222222222" lon="49.9532777777778"/>
+	<stacja t="ST" nazwa="Kłomnice"/>
+	<stacja t="ST" nazwa="Kłudna"/>
+	<stacja t="PO" nazwa="Kłyżów" idAtlas="2280" lat="22.1756944444444" lon="50.5377777777778"/>
+	<stacja t="ST" nazwa="Knyszyn"/>
+	<stacja t="PGLP" nazwa="Kobiór"/>
+	<stacja t="PO" nazwa="Kobylany"/>
+	<stacja t="PO" nazwa="Kobylec"/>
+	<stacja t="ST" nazwa="Kobylin" idAtlas="1265" lat="17.2237222222222" lon="51.72"/>
+	<stacja t="ST" nazwa="Kobylnica"/>
+	<stacja t="PO" nazwa="Kobylnica Słupska"/>
+	<stacja t="PO" nazwa="Kobyłka"/>
+	<stacja t="PO" nazwa="Kobyłka Ossów"/>
+	<stacja t="ST" nazwa="Kochanowice"/>
+	<stacja t="ST" nazwa="Kochanówka Pustków" idAtlas="2281" lat="21.4924722222222" lon="50.1113333333333"/>
+	<stacja t="PO" nazwa="Kojszówka" idAtlas="1899" lat="19.7231944444444" lon="49.6898888888889"/>
+	<stacja t="PO" nazwa="Kokotów" idAtlas="1900" lat="20.07125" lon="50.0178611111111"/>
+	<stacja t="ST" nazwa="Kolbuszowa" idAtlas="2282" lat="21.7838333333333" lon="50.2467777777778"/>
+	<stacja t="ST" nazwa="Kolin"/>
+	<stacja t="PO" nazwa="Kolonia" idAtlas="2715" lat="23.1343611111111" lon="50.7318055555556"/>
+	<stacja t="PO" nazwa="Kolonowskie" idAtlas="1502" lat="18.3878888888889" lon="50.6519166666667"/>
+	<stacja t="PODS" nazwa="Kolumna"/>
+	<stacja t="ST" nazwa="Koluszki"/>
+	<stacja t="PO" nazwa="Kołaczkowo"/>
+	<stacja t="PO" nazwa="Kołbiel"/>
+	<stacja t="ST" nazwa="Koło"/>
+	<stacja t="ST" nazwa="Kołobrzeg"/>
+	<stacja t="PO" nazwa="Kołobrzeg Stadion"/>
+	<stacja t="ST" nazwa="Kołodziejewo"/>
+	<stacja t="ST" nazwa="Komańcza" idAtlas="2283" lat="22.0723888888889" lon="49.3388611111111"/>
+	<stacja t="PO" nazwa="Komańcza Letnisko" idAtlas="2284" lat="22.0805833333333" lon="49.3463055555556"/>
+	<stacja t="PO" nazwa="Komorowo Żuławskie"/>
+	<stacja t="PO" nazwa="Komorów Podmurynia" idAtlas="2285" lat="21.7331666666667" lon="50.3491944444444"/>
+	<stacja t="LPO" nazwa="Komprachcice" idAtlas="1504" lat="17.8213888888889" lon="50.6315833333333"/>
+	<stacja t="ST" nazwa="Koniecpol"/>
+	<stacja t="PO" nazwa="Koniecpol Magdasz"/>
+	<stacja t="ST" nazwa="Konin"/>
+	<stacja t="PO" nazwa="Konin Zachód"/>
+	<stacja t="PO" nazwa="Konin Żagański" idAtlas="157" lat="15.1916111111111" lon="51.5456388888889"/>
+	<stacja t="PO" nazwa="Koniuchy" idAtlas="2716" lat="23.5966944444444" lon="50.7318888888889"/>
+	<stacja t="PO" nazwa="Konojady"/>
+	<stacja t="ST" nazwa="Konopki"/>
+	<stacja t="PO" nazwa="Konopne" idAtlas="2717" lat="23.7045555555556" lon="50.7386666666667"/>
+	<stacja t="PO" nazwa="Konotopie"/>
+	<stacja t="PO" nazwa="Kończyce" idAtlas="1716" lat="18.6254166666667" lon="49.8506666666667"/>
+	<stacja t="PO" nazwa="Kończyce Radomskie"/>
+	<stacja t="ST" nazwa="Końskie" idAtlas="2573" lat="20.4228333333333" lon="51.1902777777778"/>
+	<stacja t="PO" nazwa="Kopalina" idAtlas="686" lat="17.4056666666667" lon="51.0208055555556"/>
+	<stacja t="ST" nazwa="Kornatowo"/>
+	<stacja t="PO" nazwa="Kornelin"/>
+	<stacja t="PO" nazwa="Kornica" idAtlas="2575" lat="20.4045" lon="51.2175"/>
+	<stacja t="ST" nazwa="Korsze"/>
+	<stacja t="PO" nazwa="Korwinów"/>
+	<stacja t="PO" nazwa="Korzenica" idAtlas="2287" lat="22.9368888888889" lon="50.0558611111111"/>
+	<stacja t="PO" nazwa="Korzeńsko" idAtlas="690" lat="16.8726666666667" lon="51.5438055555556"/>
+	<stacja t="LPO" nazwa="Korzybie"/>
+	<stacja t="PO" nazwa="Kosina" idAtlas="2288" lat="22.3240555555556" lon="50.0835833333333"/>
+	<stacja t="PO" nazwa="Kosiorki"/>
+	<stacja t="ST" nazwa="Kostomłoty" idAtlas="2576" lat="20.61625" lon="50.9213055555556"/>
+	<stacja t="ST" nazwa="Kostów" idAtlas="1506" lat="18.1474444444444" lon="51.1648055555556"/>
+	<stacja t="ST" nazwa="Kostrzyn" idAtlas="160" lat="14.6469166666667" lon="52.5914166666667"/>
+	<stacja t="ST" nazwa="Kostrzyn Wielkopolski"/>
+	<stacja t="ST" nazwa="Koszalin"/>
+	<stacja t="PO" nazwa="Koszewnica"/>
+	<stacja t="ST" nazwa="Koszęcin"/>
+	<stacja t="ST" nazwa="Kościan" idAtlas="1269" lat="16.6421944444444" lon="52.0790277777778"/>
+	<stacja t="PO" nazwa="Kościelec Kujawski"/>
+	<stacja t="PO" nazwa="Kościernica"/>
+	<stacja t="ST" nazwa="Kościerzyna"/>
+	<stacja t="ST" nazwa="Kotlin" idAtlas="1271" lat="17.6486388888889" lon="51.9146111111111"/>
+	<stacja t="ST" nazwa="Kotomierz"/>
+	<stacja t="PO" nazwa="Kotowo" idAtlas="1272" lat="16.4834722222222" lon="52.2283611111111"/>
+	<stacja t="PO" nazwa="Kotórz Mały" idAtlas="1507" lat="18.0363055555556" lon="50.72925"/>
+	<stacja t="PO" nazwa="Kotulin"/>
+	<stacja t="POGP" nazwa="Kotuń"/>
+	<stacja t="ST" nazwa="Kowalewo Pomorskie"/>
+	<stacja t="ST" nazwa="Kowalów" idAtlas="166" lat="14.7598333333333" lon="52.3973055555556"/>
+	<stacja t="PO" nazwa="Kownatki"/>
+	<stacja t="PO" nazwa="Kozia Góra"/>
+	<stacja t="PO" nazwa="Kozia Góra Krajeńska"/>
+	<stacja t="PO" nazwa="Koziebrody"/>
+	<stacja t="PO" nazwa="Koziołek"/>
+	<stacja t="PO" nazwa="Kozłowo"/>
+	<stacja t="ST" nazwa="Kozłów" idAtlas="1909" lat="20.0121111111111" lon="50.4748611111111"/>
+	<stacja t="ST" nazwa="Kozy" idAtlas="1717" lat="19.1416388888889" lon="49.8493888888889"/>
+	<stacja t="PO" nazwa="Kozy Zagroda" idAtlas="1718" lat="19.1642777777778" lon="49.8575555555556"/>
+	<stacja t="PO" nazwa="Koźla Kożuchowska" idAtlas="168" lat="15.31875" lon="51.8722777777778"/>
+	<stacja t="MPO" nazwa="Koźlice" idAtlas="703" lat="16.2335555555556" lon="51.4524444444444"/>
+	<stacja t="ST" nazwa="Koźmin Wielkopolski" idAtlas="1273" lat="17.44375" lon="51.8319722222222"/>
+	<stacja t="PO" nazwa="Kórnik" idAtlas="1268" lat="17.0998055555556" lon="52.2832222222222"/>
+	<stacja t="ST" nazwa="Krajenka"/>
+	<stacja t="ST" nazwa="Kraków Batowice" idAtlas="1912" lat="19.9955" lon="50.1075277777778"/>
+	<stacja t="ST" nazwa="Kraków Bieżanów" idAtlas="1913" lat="20.0298888888889" lon="50.0215833333333"/>
+	<stacja t="PO" nazwa="Kraków Bieżanów Drożdżownia" idAtlas="1914" lat="20.0352777777778" lon="50.0108055555556"/>
+	<stacja t="ST" nazwa="Kraków Bonarka" idBaza="1115" idAtlas="1915" lat="19.9460277777778" lon="50.0291666666667"/>
+	<stacja t="PO" nazwa="Kraków Business Park" idAtlas="1917" lat="19.8235833333333" lon="50.1056111111111"/>
+	<stacja t="ST" nazwa="Kraków Główny" idAtlas="1923" lat="19.9477777777778" lon="50.0686111111111"/>
+	<stacja t="ST" nazwa="Kraków Lotnisko"/>
+	<stacja t="PO" nazwa="Kraków Łagiewniki" idAtlas="1928" lat="19.9336944444444" lon="50.0223611111111"/>
+	<stacja t="PO" nazwa="Kraków Łobzów" idAtlas="1932" lat="19.9178611111111" lon="50.0819722222222"/>
+	<stacja t="PO" nazwa="Kraków Młynówka"/>
+	<stacja t="ST" nazwa="Kraków Mydlniki" idAtlas="1938" lat="19.8590277777778" lon="50.0836666666667"/>
+	<stacja t="PO" nazwa="Kraków Mydlniki Wapiennik"/>
+	<stacja t="PO" nazwa="Kraków Olszanica"/>
+	<stacja t="ST" nazwa="Kraków Płaszów" idBaza="857" idAtlas="1947" lat="19.97475" lon="50.0349166666667"/>
+	<stacja t="PO" nazwa="Kraków Podgórze"/>
+	<stacja t="PO" nazwa="Kraków Prokocim" idAtlas="1950" lat="19.9987222222222" lon="50.0265833333333"/>
+	<stacja t="PO" nazwa="Kraków Sanktuarium" idBaza="24680"/>
+	<stacja t="PO" nazwa="Kraków Sidzina" idAtlas="1953" lat="19.8741111111111" lon="49.9855"/>
+	<stacja t="POGP" nazwa="Kraków Swoszowice" idAtlas="1955" lat="19.9281111111111" lon="50.0003888888889"/>
+	<stacja t="POGP" nazwa="Kraków Zabłocie" idAtlas="1961" lat="19.9574444444444" lon="50.0481111111111"/>
+	<stacja t="PO" nazwa="Kraków Zakliki"/>
+	<stacja t="ST" nazwa="Kramsk"/>
+	<stacja t="PO" nazwa="Krasiejów" idAtlas="1511" lat="18.2491666666667" lon="50.6683888888889"/>
+	<stacja t="ST" nazwa="Kraski"/>
+	<stacja t="PO" nazwa="Krasnołąka"/>
+	<stacja t="ST" nazwa="Krasnystaw Fabryczny" idAtlas="2721" lat="23.1828333333333" lon="51.0244166666667"/>
+	<stacja t="PO" nazwa="Krasnystaw Miasto" idAtlas="2722" lat="23.1827777777778" lon="50.9855555555556"/>
+	<stacja t="ST" nazwa="Kraśnik" idAtlas="2719" lat="22.2831111111111" lon="50.9296944444444"/>
+	<stacja t="LPO" nazwa="Kretki"/>
+	<stacja t="PO" nazwa="Krępa Krajeńska"/>
+	<stacja t="PO" nazwa="Krężel"/>
+	<stacja t="PO" nazwa="Krężnica Jara" idAtlas="2723" lat="22.4663333333333" lon="51.1531388888889"/>
+	<stacja t="ST" nazwa="Krobia" idAtlas="1274" lat="16.9716111111111" lon="51.759"/>
+	<stacja t="PO" nazwa="Krojanty"/>
+	<stacja t="ST" nazwa="Krosno" idAtlas="2291" lat="21.7481944444444" lon="49.6939444444444"/>
+	<stacja t="PO" nazwa="Krosno Miasto" idAtlas="2293" lat="21.7726388888889" lon="49.6827222222222"/>
+	<stacja t="PO" nazwa="Krosno Polanka" idAtlas="2294" lat="21.7215833333333" lon="49.7021111111111"/>
+	<stacja t="PO" nazwa="Krosno Turaszówka" idAtlas="2295" lat="21.6980555555556" lon="49.7093055555556"/>
+	<stacja t="PO" nazwa="Krosnowa"/>
+	<stacja t="PO" nazwa="Krosnowice Kłodzkie" idAtlas="709" lat="16.6369722222222" lon="50.3924722222222"/>
+	<stacja t="PO" nazwa="Krostkowo"/>
+	<stacja t="MPO" nazwa="Krośnice" idAtlas="707" lat="17.3738611111111" lon="51.4714444444444"/>
+	<stacja t="PO" nazwa="Krośnice Mazowieckie"/>
+	<stacja t="ST" nazwa="Krotoszyn" idAtlas="1276" lat="17.4258055555556" lon="51.7012222222222"/>
+	<stacja t="PO" nazwa="Królewo Malborskie"/>
+	<stacja t="ST" nazwa="Krusze"/>
+	<stacja t="ST" nazwa="Kruszwica"/>
+	<stacja t="MPO" nazwa="Kruszyna"/>
+	<stacja t="ST" nazwa="Krynica-Zdrój"/>
+	<stacja t="PO" nazwa="Krynka Łukowska"/>
+	<stacja t="PODS" nazwa="Krzcięcice" idAtlas="2577" lat="20.1396388888889" lon="50.5874166666667"/>
+	<stacja t="PO" nazwa="Krzemienica" idAtlas="2299" lat="22.1873888888889" lon="50.0817777777778"/>
+	<stacja t="LPO" nazwa="Krzemieniewo" idAtlas="1277" lat="16.8443611111111" lon="51.8745555555556"/>
+	<stacja t="PO" nazwa="Krzemionki" idAtlas="1719" lat="19.11525" lon="49.8409166666667"/>
+	<stacja t="ST" nazwa="Krzepice"/>
+	<stacja t="ST" nazwa="Krzepów" idAtlas="716" lat="16.1340555555556" lon="51.6443888888889"/>
+	<stacja t="PO" nazwa="Krzeszna"/>
+	<stacja t="ST" nazwa="Krzeszowice" idAtlas="1965" lat="19.6322777777778" lon="50.1309722222222"/>
+	<stacja t="ST" nazwa="Krzewie"/>
+	<stacja t="ST" nazwa="Krzewina Zgorzelecka" idAtlas="718" lat="14.9398055555556" lon="51.0155"/>
+	<stacja t="PO" nazwa="Krzycko Wielkie" idAtlas="1278" lat="16.4526111111111" lon="51.9041944444444"/>
+	<stacja t="PO" nazwa="Krzymosze"/>
+	<stacja t="LPO" nazwa="Krzywda"/>
+	<stacja t="ST" nazwa="Krzywin Gryfiński"/>
+	<stacja t="ST" nazwa="Krzywizna" idAtlas="1513" lat="18.2019722222222" lon="51.0272222222222"/>
+	<stacja t="ST" nazwa="Krzyż"/>
+	<stacja t="ST" nazwa="Krzyżanowice"/>
+	<stacja t="PO" nazwa="Krzyżowa" idAtlas="722" lat="16.5298888888889" lon="50.7939444444444"/>
+	<stacja t="POGP" nazwa="Książki"/>
+	<stacja t="PO" nazwa="Książno" idAtlas="1280" lat="17.4938611111111" lon="52.2461944444444"/>
+	<stacja t="POGP" nazwa="Księginice" idAtlas="725" lat="16.7643055555556" lon="51.2420833333333"/>
+	<stacja t="PO" nazwa="Kubice" idAtlas="1514" lat="17.4426111111111" lon="50.4756666666667"/>
+	<stacja t="ST" nazwa="Kudowa-Zdrój"/>
+	<stacja t="PO" nazwa="Kuklinów" idAtlas="1282" lat="17.3192777777778" lon="51.7191666666667"/>
+	<stacja t="PO" nazwa="Kuleje"/>
+	<stacja t="PO" nazwa="Kulice Tczewskie"/>
+	<stacja t="PO" nazwa="Kulin Kłodzki" idAtlas="729" lat="16.3256388888889" lon="50.4193888888889"/>
+	<stacja t="PO" nazwa="Kundzin"/>
+	<stacja t="PO" nazwa="Kunowice" idAtlas="180" lat="14.6395833333333" lon="52.3418333333333"/>
+	<stacja t="ST" nazwa="Kunów" idAtlas="2579" lat="21.2938611111111" lon="50.9687777777778"/>
+	<stacja t="PO" nazwa="Kupienino" idAtlas="183" lat="15.6133888888889" lon="52.2572777777778"/>
+	<stacja t="PO" nazwa="Kuriany"/>
+	<stacja t="PO" nazwa="Kurów Suski" idAtlas="1967" lat="19.4331944444444" lon="49.70775"/>
+	<stacja t="PO" nazwa="Kusięta Nowe"/>
+	<stacja t="ST" nazwa="Kutno"/>
+	<stacja t="ST" nazwa="Kuźnia Raciborska"/>
+	<stacja t="ST" nazwa="Kuźnica (Hel)"/>
+	<stacja t="ST" nazwa="Kuźnica Białostocka"/>
+	<stacja t="PO" nazwa="Kwiatki"/>
+	<stacja t="ST" nazwa="Kwidzyn"/>
+	<stacja t="PO" nazwa="Kwieciszowice" idAtlas="733" lat="15.5027222222222" lon="50.9248888888889"/>
+	<stacja t="ST" nazwa="Lachowice" idAtlas="1968" lat="19.5038333333333" lon="49.7236388888889"/>
+	<stacja t="PO" nazwa="Lachowice Centrum" idAtlas="1969" lat="19.4731111111111" lon="49.7123333333333"/>
+	<stacja t="PO" nazwa="Laliki" idAtlas="1721" lat="19.0063055555556" lon="49.5231944444444"/>
+	<stacja t="ST" nazwa="Lasek" idAtlas="1970" lat="19.9794444444444" lon="49.4993055555556"/>
+	<stacja t="ST" nazwa="Laski Lubuskie" idAtlas="187" lat="14.7129444444444" lon="52.4595555555556"/>
+	<stacja t="PO" nazwa="Laski Tucholskie"/>
+	<stacja t="PO" nazwa="Laskowice Oleskie" idAtlas="1519" lat="18.0951111111111" lon="50.8565555555556"/>
+	<stacja t="ST" nazwa="Laskowice Pomorskie"/>
+	<stacja t="PO" nazwa="Laskownica"/>
+	<stacja t="ST" nazwa="Lasocice" idAtlas="1286" lat="16.4857777777778" lon="51.8159444444444"/>
+	<stacja t="PO" nazwa="Lasów" idAtlas="738" lat="15.0350277777778" lon="51.2251666666667"/>
+	<stacja t="PO" nazwa="Lednogóra"/>
+	<stacja t="ST" nazwa="Legionowo"/>
+	<stacja t="ST" nazwa="Legionowo Piaski"/>
+	<stacja t="PO" nazwa="Legionowo Przystanek"/>
+	<stacja t="ST" nazwa="Legnica" idAtlas="740" lat="16.1690277777778" lon="51.2141666666667"/>
+	<stacja t="PO" nazwa="Legnica Piekary" idAtlas="741" lat="16.1979722222222" lon="51.2015555555556"/>
+	<stacja t="PO" nazwa="Leluchów" idAtlas="1971" lat="20.9253888888889" lon="49.2986111111111"/>
+	<stacja t="ST" nazwa="Leńcze" idAtlas="1972" lat="19.7309166666667" lon="49.8918333333333"/>
+	<stacja t="PO" nazwa="Leokadia"/>
+	<stacja t="PO" nazwa="Leonów"/>
+	<stacja t="PO" nazwa="Leopoldów"/>
+	<stacja t="PO" nazwa="Leosia"/>
+	<stacja t="PO" nazwa="Lesięcin"/>
+	<stacja t="MPO" nazwa="Lesiów"/>
+	<stacja t="PO" nazwa="Leszczydół"/>
+	<stacja t="ST" nazwa="Leszczyny"/>
+	<stacja t="ST" nazwa="Leszno" idAtlas="1288" lat="16.5654166666667" lon="51.8461666666667"/>
+	<stacja t="ST" nazwa="Leszno Górne" idAtlas="193" lat="15.6159166666667" lon="51.4668888888889"/>
+	<stacja t="POGP" nazwa="Leszno Grzybowo" idAtlas="1289" lat="16.6125555555556" lon="51.86025"/>
+	<stacja t="PO" nazwa="Leśnice"/>
+	<stacja t="PO" nazwa="Leśniczówka" idAtlas="2724" lat="22.3565555555556" lon="51.0493333333333"/>
+	<stacja t="PO" nazwa="Letnica" idAtlas="194" lat="15.319" lon="51.8899166666667"/>
+	<stacja t="ST" nazwa="Lewickie"/>
+	<stacja t="PO" nazwa="Lewin Brzeski" idAtlas="1522" lat="17.6166388888889" lon="50.7575277777778"/>
+	<stacja t="PO" nazwa="Lewin Kłodzki" idAtlas="748" lat="16.2745555555556" lon="50.4055555555556"/>
+	<stacja t="PO" nazwa="Lewki"/>
+	<stacja t="ST" nazwa="Leżajsk" idAtlas="2304" lat="22.4205555555556" lon="50.26275"/>
+	<stacja t="ST" nazwa="Lębork"/>
+	<stacja t="PO" nazwa="Lębork Mosty"/>
+	<stacja t="PO" nazwa="Lębork Nowy Świat"/>
+	<stacja t="PO" nazwa="Lędziechowo"/>
+	<stacja t="ST" nazwa="Libiąż" idAtlas="1973" lat="19.3275833333333" lon="50.1128333333333"/>
+	<stacja t="PO" nazwa="Libusza" idAtlas="1974" lat="21.2403055555556" lon="49.7109722222222"/>
+	<stacja t="PO" nazwa="Ligota Toszecka"/>
+	<stacja t="PO" nazwa="Ligowiec"/>
+	<stacja t="ST" nazwa="Limanowa" idAtlas="1976" lat="20.4222222222222" lon="49.7129444444444"/>
+	<stacja t="PO" nazwa="Linkowo"/>
+	<stacja t="PO" nazwa="Linowo"/>
+	<stacja t="ST" nazwa="Lipa" idAtlas="2305" lat="22.0681111111111" lon="50.6900277777778"/>
+	<stacja t="PO" nazwa="Lipce Reymontowskie"/>
+	<stacja t="ST" nazwa="Lipie Góry"/>
+	<stacja t="PO" nazwa="Lipienica"/>
+	<stacja t="PO" nazwa="Lipinki"/>
+	<stacja t="PO" nazwa="Lipinki Łużyckie" idAtlas="198" lat="15.0093611111111" lon="51.6489722222222"/>
+	<stacja t="PO" nazwa="Lipińskie Małe"/>
+	<stacja t="ST" nazwa="Lipka Krajeńska"/>
+	<stacja t="PO" nazwa="Lipki" idAtlas="1524" lat="17.3726666666667" lon="50.8981944444444"/>
+	<stacja t="ST" nazwa="Lipno"/>
+	<stacja t="POGP" nazwa="Lipno Nowe"/>
+	<stacja t="PO" nazwa="Lipowa Śląska"/>
+	<stacja t="ST" nazwa="Lipowa Tucholska"/>
+	<stacja t="PO" nazwa="Lipowa Wschodnia"/>
+	<stacja t="PO" nazwa="Lipowe Pole" idAtlas="2581" lat="20.9010555555556" lon="51.1551666666667"/>
+	<stacja t="PO" nazwa="Lipuska Huta"/>
+	<stacja t="ST" nazwa="Lipusz"/>
+	<stacja t="PO" nazwa="Lisewo"/>
+	<stacja t="PO" nazwa="Lisie Pole"/>
+	<stacja t="PO" nazwa="Lisowice"/>
+	<stacja t="PO" nazwa="Lisowo"/>
+	<stacja t="ST" nazwa="Lisów"/>
+	<stacja t="PO" nazwa="Lizawice" idAtlas="749" lat="17.2148055555556" lon="50.972"/>
+	<stacja t="LPO" nazwa="Lniano"/>
+	<stacja t="LPO" nazwa="Lotyń"/>
+	<stacja t="ST" nazwa="Lubaczów" idAtlas="2307" lat="23.1252222222222" lon="50.1657222222222"/>
+	<stacja t="PO" nazwa="Lubajny"/>
+	<stacja t="PO" nazwa="Lubania-Lipiny"/>
+	<stacja t="PO" nazwa="Lubanice" idAtlas="203" lat="15.1205277777778" lon="51.6922777777778"/>
+	<stacja t="PODS" nazwa="Lubanie"/>
+	<stacja t="ST" nazwa="Lubań Śląski"/>
+	<stacja t="ST" nazwa="Lubartów"/>
+	<stacja t="PO" nazwa="Lubartów Lipowa"/>
+	<stacja t="PO" nazwa="Lubartów Słowackiego"/>
+	<stacja t="PO" nazwa="Lubaszowa" idAtlas="1978" lat="21.0362777777778" lon="49.8649166666667"/>
+	<stacja t="LPO" nazwa="Lubawka" idAtlas="754" lat="16.0033333333333" lon="50.7065"/>
+	<stacja t="ST" nazwa="Lubicz"/>
+	<stacja t="ST" nazwa="Lubiewo"/>
+	<stacja t="ST" nazwa="Lubin Górniczy" idAtlas="756" lat="16.1936944444444" lon="51.3965"/>
+	<stacja t="ST" nazwa="Lublin" idAtlas="2725" lat="22.5688611111111" lon="51.2313055555556"/>
+	<stacja t="PO" nazwa="Lublin AIRPORT"/>
+	<stacja t="PO" nazwa="Lublin Ponikwoda"/>
+	<stacja t="PO" nazwa="Lublin Północny"/>
+	<stacja t="PO" nazwa="Lublin Zadębie"/>
+	<stacja t="ST" nazwa="Lublin Zemborzyce" idAtlas="2727" lat="22.5022777777778" lon="51.1711944444444"/>
+	<stacja t="ST" nazwa="Lublinek"/>
+	<stacja t="ST" nazwa="Lubliniec"/>
+	<stacja t="PO" nazwa="Lubnia"/>
+	<stacja t="PO" nazwa="Lubomino"/>
+	<stacja t="ST" nazwa="Luboń koło Poznania"/>
+	<stacja t="LPO" nazwa="Lubycza Królewska" idAtlas="2728" lat="23.53" lon="50.3399166666667"/>
+	<stacja t="PO" nazwa="Lubzina" idAtlas="2308" lat="21.5280833333333" lon="50.0721111111111"/>
+	<stacja t="PO" nazwa="Luciążanka"/>
+	<stacja t="PO" nazwa="Lucynów"/>
+	<stacja t="PO" nazwa="Ludwikowice Kłodzkie" idAtlas="763" lat="16.4820833333333" lon="50.6194722222222"/>
+	<stacja t="ST" nazwa="Ludynia" idAtlas="2583" lat="20.1627777777778" lon="50.8520555555556"/>
+	<stacja t="PO" nazwa="Ludynia Dwór" idAtlas="2584" lat="20.1136111111111" lon="50.8473888888889"/>
+	<stacja t="PO" nazwa="Lusławice"/>
+	<stacja t="ST" nazwa="Lutol Suchy" idAtlas="213" lat="15.7545833333333" lon="52.3438333333333"/>
+	<stacja t="ST" nazwa="Luzino"/>
+	<stacja t="ST" nazwa="Lwówek Śląski"/>
+	<stacja t="PO" nazwa="Ładzin"/>
+	<stacja t="ST" nazwa="Łambinowice" idAtlas="1518" lat="17.5653888888889" lon="50.5377222222222"/>
+	<stacja t="PO" nazwa="Łankiejmy"/>
+	<stacja t="ST" nazwa="Łańcut" idAtlas="2301" lat="22.2274444444444" lon="50.08175"/>
+	<stacja t="ST" nazwa="Łapy"/>
+	<stacja t="PO" nazwa="Łapy Osse"/>
+	<stacja t="ST" nazwa="Łask"/>
+	<stacja t="PO" nazwa="Łaskarzew Przystanek"/>
+	<stacja t="PO" nazwa="Ławica" idAtlas="769" lat="16.6703611111111" lon="50.4771944444444"/>
+	<stacja t="PO" nazwa="Łaziska Górne"/>
+	<stacja t="PO" nazwa="Łaziska Górne Brada"/>
+	<stacja t="PO" nazwa="Łaznów"/>
+	<stacja t="ST" nazwa="Łazy"/>
+	<stacja t="ST" nazwa="Łąck"/>
+	<stacja t="ST" nazwa="Łączna" idAtlas="2585" lat="20.7985" lon="50.9916944444444"/>
+	<stacja t="PO" nazwa="Łąg"/>
+	<stacja t="PO" nazwa="Łąg Południowy"/>
+	<stacja t="PO" nazwa="Łąkociny" idAtlas="1285" lat="17.6689444444444" lon="51.6568055555556"/>
+	<stacja t="PO" nazwa="Łążek"/>
+	<stacja t="ST" nazwa="Łeba"/>
+	<stacja t="ST" nazwa="Łęczyca"/>
+	<stacja t="ST" nazwa="Łęgajny"/>
+	<stacja t="PO" nazwa="Łęgowo Sulechowskie" idAtlas="219" lat="15.6754444444444" lon="52.1325"/>
+	<stacja t="ST" nazwa="Łęka Opatowska"/>
+	<stacja t="ST" nazwa="Łętownia" idAtlas="2303" lat="22.2558888888889" lon="50.3635833333333"/>
+	<stacja t="ST" nazwa="Łobez"/>
+	<stacja t="ST" nazwa="Łochów"/>
+	<stacja t="ST" nazwa="Łodygowice" idAtlas="1722" lat="19.1411388888889" lon="49.7251666666667"/>
+	<stacja t="PO" nazwa="Łodygowice Górne" idAtlas="1723" lat="19.1243333333333" lon="49.7354444444444"/>
+	<stacja t="PO" nazwa="Łomnica-Zdrój"/>
+	<stacja t="PO" nazwa="Łopatki"/>
+	<stacja t="PO" nazwa="Łopuchowo"/>
+	<stacja t="PO" nazwa="Łopuchowo Osiedle"/>
+	<stacja t="PO" nazwa="Łosiów" idAtlas="1526" lat="17.5523611111111" lon="50.7882777777778"/>
+	<stacja t="PO" nazwa="Łososina Górna" idAtlas="1984" lat="20.3860555555556" lon="49.7372777777778"/>
+	<stacja t="PO" nazwa="Łososiowice" idAtlas="774" lat="16.6734166666667" lon="51.2986666666667"/>
+	<stacja t="MPO" nazwa="Łowczów" idAtlas="1986" lat="21.0039444444444" lon="49.9125"/>
+	<stacja t="ST" nazwa="Łowczówek Pleśna" idAtlas="1987" lat="20.9495555555556" lon="49.9281944444444"/>
+	<stacja t="ST" nazwa="Łowicz Główny"/>
+	<stacja t="ST" nazwa="Łowicz Przedmieście"/>
+	<stacja t="POGP" nazwa="Łoźnica"/>
+	<stacja t="PGLP" nazwa="Łódź Andrzejów"/>
+	<stacja t="PO" nazwa="Łódź Arturówek"/>
+	<stacja t="ST" nazwa="Łódź Chojny"/>
+	<stacja t="PO" nazwa="Łódź Dąbrowa"/>
+	<stacja t="ST" nazwa="Łódź Fabryczna"/>
+	<stacja t="ST" nazwa="Łódź Kaliska"/>
+	<stacja t="PO" nazwa="Łódź Marysin"/>
+	<stacja t="PO" nazwa="Łódź Niciarniana"/>
+	<stacja t="PO" nazwa="Łódź Olechów Wschód"/>
+	<stacja t="PO" nazwa="Łódź Pabianicka"/>
+	<stacja t="PO" nazwa="Łódź Radogoszcz Zachód"/>
+	<stacja t="PO" nazwa="Łódź Stoki"/>
+	<stacja t="ST" nazwa="Łódź Widzew"/>
+	<stacja t="ST" nazwa="Łódź Żabieniec"/>
+	<stacja t="LPO" nazwa="Łubiana"/>
+	<stacja t="ST" nazwa="Łubowo"/>
+	<stacja t="PO" nazwa="Łuczyce" idAtlas="1988" lat="20.0744722222222" lon="50.1626388888889"/>
+	<stacja t="ST" nazwa="Ługi Górzyckie" idAtlas="222" lat="14.6509444444444" lon="52.5161111111111"/>
+	<stacja t="ST" nazwa="Łuków"/>
+	<stacja t="ST" nazwa="Łuków Łapiguz"/>
+	<stacja t="PO" nazwa="Łuków Śląski"/>
+	<stacja t="PO" nazwa="Łuków Zapowiednik"/>
+	<stacja t="ST" nazwa="Łupków" idAtlas="2310" lat="22.0588333333333" lon="49.2473611111111"/>
+	<stacja t="PO" nazwa="Łódź Dąbrowa"/>
+	<stacja t="ST" nazwa="Łódź Fabryczna"/>
+	<stacja t="ST" nazwa="Łódź Kaliska"/>
+	<stacja t="PO" nazwa="Łódź Marysin"/>
+	<stacja t="PO" nazwa="Łódź Niciarniana"/>
+	<stacja t="PO" nazwa="Łódź Olechów Wschód"/>
+	<stacja t="PO" nazwa="Łódź Pabianicka"/>
+	<stacja t="PO" nazwa="Łódź Radogoszcz Zachód"/>
+	<stacja t="PO" nazwa="Łódź Stoki"/>
+	<stacja t="ST" nazwa="Łódź Widzew"/>
+	<stacja t="ST" nazwa="Łódź Żabieniec"/>
+	<stacja t="LPO" nazwa="Łubiana"/>
+	<stacja t="ST" nazwa="Łubowo"/>
+	<stacja t="PO" nazwa="Łuczyce" idAtlas="1988" lat="20.0744722222222" lon="50.1626388888889"/>
+	<stacja t="ST" nazwa="Ługi Górzyckie" idAtlas="222" lat="14.6509444444444" lon="52.5161111111111"/>
+	<stacja t="ST" nazwa="Łuków"/>
+	<stacja t="ST" nazwa="Łuków Łapiguz"/>
+	<stacja t="PO" nazwa="Łuków Śląski"/>
+	<stacja t="PO" nazwa="Łuków Zapowiednik"/>
+	<stacja t="ST" nazwa="Łupków" idAtlas="2310" lat="22.0588333333333" lon="49.2473611111111"/>
+	<stacja t="PO" nazwa="Łupowo" idAtlas="225" lat="15.12275" lon="52.7006944444444"/>
+	<stacja t="PO" nazwa="Łysomice"/>
+	<stacja t="ST" nazwa="Machnacz"/>
+	<stacja t="PO" nazwa="Majdan" idAtlas="2214" lat="22.2988055555556" lon="49.2059166666667"/>
+	<stacja t="PO" nazwa="Majdan Królewski" idAtlas="2312" lat="21.7253888888889" lon="50.3789166666667"/>
+	<stacja t="PO" nazwa="Majdan Stuleński"/>
+	<stacja t="PO" nazwa="Majewo"/>
+	<stacja t="PO" nazwa="Maków"/>
+	<stacja t="ST" nazwa="Maków Podhalański" idAtlas="1992" lat="19.6783333333333" lon="49.7267222222222"/>
+	<stacja t="ST" nazwa="Maksymilianowo"/>
+	<stacja t="ST" nazwa="Malbork"/>
+	<stacja t="PO" nazwa="Malbork Kałdowo"/>
+	<stacja t="ST" nazwa="Malczyce" idAtlas="776" lat="16.4879722222222" lon="51.2158888888889"/>
+	<stacja t="PO" nazwa="Małaszewicze Przystanek"/>
+	<stacja t="ST" nazwa="Małdyty"/>
+	<stacja t="PO" nazwa="Małe Gacno"/>
+	<stacja t="ST" nazwa="Małkinia"/>
+	<stacja t="ST" nazwa="Małogoszcz" idAtlas="2588" lat="20.2711388888889" lon="50.8505"/>
+	<stacja t="ST" nazwa="Małomice" idAtlas="228" lat="15.447" lon="51.5496111111111"/>
+	<stacja t="ST" nazwa="Małowice Wołowskie" idAtlas="779" lat="16.4724444444444" lon="51.4041111111111"/>
+	<stacja t="PO" nazwa="Mańkowice" idAtlas="1536" lat="17.4759444444444" lon="50.4889166666667"/>
+	<stacja t="ST" nazwa="Marcinkowice" idAtlas="1993" lat="20.6606944444444" lon="49.6710833333333"/>
+	<stacja t="ST" nazwa="Marcinkowo"/>
+	<stacja t="PO" nazwa="Marcinków" idAtlas="2589" lat="20.9802222222222" lon="51.0932777777778"/>
+	<stacja t="ST" nazwa="Marciszów" idAtlas="781" lat="16.0078888888889" lon="50.8512777777778"/>
+	<stacja t="PO" nazwa="Marczów" idAtlas="783" lat="15.66475" lon="51.0508888888889"/>
+	<stacja t="PO" nazwa="Martiany"/>
+	<stacja t="PO" nazwa="Marzenin" idAtlas="1298" lat="17.5613888888889" lon="52.38625"/>
+	<stacja t="PO" nazwa="Masłońskie Natalin"/>
+	<stacja t="PO" nazwa="Matysy"/>
+	<stacja t="PO" nazwa="Maziły" idAtlas="2730" lat="23.315" lon="50.4050277777778"/>
+	<stacja t="PO" nazwa="Mąkoszyce" idAtlas="1533" lat="17.6322777777778" lon="50.93825"/>
+	<stacja t="ST" nazwa="Medyka" idAtlas="2318" lat="22.9459444444444" lon="49.8045277777778"/>
+	<stacja t="PO" nazwa="Medyka Rozrządowa" idAtlas="2319" lat="22.91" lon="49.7940277777778"/>
+	<stacja t="PO" nazwa="Medyka Towarowa" idAtlas="2320" lat="22.8843888888889" lon="49.7863055555556"/>
+	<stacja t="ST" nazwa="Mełno"/>
+	<stacja t="PO" nazwa="Metan" idAtlas="2590" lat="21.8057777777778" lon="50.6924722222222"/>
+	<stacja t="PO" nazwa="Metelin" idAtlas="2731" lat="23.847" lon="50.7587222222222"/>
+	<stacja t="PO" nazwa="Męcikał"/>
+	<stacja t="PO" nazwa="Męcina" idAtlas="1996" lat="20.5640833333333" lon="49.6840833333333"/>
+	<stacja t="PO" nazwa="Męcina Podgórze" idAtlas="1997" lat="20.5288611111111" lon="49.6914722222222"/>
+	<stacja t="PO" nazwa="Męcka Wola"/>
+	<stacja t="ST" nazwa="Miały"/>
+	<stacja t="PO" nazwa="Miasteczko Krajeńskie"/>
+	<stacja t="PO" nazwa="Miasteczko Śląskie"/>
+	<stacja t="ST" nazwa="Miastko"/>
+	<stacja t="LPO" nazwa="Miączyn" idAtlas="2732" lat="23.4848888888889" lon="50.7308055555556"/>
+	<stacja t="ST" nazwa="Miąsowa" idAtlas="2592" lat="20.3650833333333" lon="50.7193888888889"/>
+	<stacja t="PO" nazwa="Michalczew"/>
+	<stacja t="PO" nazwa="Michalin"/>
+	<stacja t="PO" nazwa="Michałów-Reginów"/>
+	<stacja t="ST" nazwa="Miechów" idAtlas="1999" lat="20.01125" lon="50.3546944444444"/>
+	<stacja t="PO" nazwa="Miedwiecko"/>
+	<stacja t="ST" nazwa="Mielec" idAtlas="2321" lat="21.4297777777778" lon="50.2925"/>
+	<stacja t="PO" nazwa="Mienia"/>
+	<stacja t="PO" nazwa="Mierzęcin Strzelecki" idAtlas="232" lat="15.8329166666667" lon="52.9493611111111"/>
+	<stacja t="PO" nazwa="Mieszaki"/>
+	<stacja t="ST" nazwa="Mieszkowice"/>
+	<stacja t="ST" nazwa="Mieszków" idAtlas="1300" lat="17.4401944444444" lon="52.0234722222222"/>
+	<stacja t="PO" nazwa="Mietków" idAtlas="792" lat="16.6548888888889" lon="50.98475"/>
+	<stacja t="PO" nazwa="Międzyborów"/>
+	<stacja t="MPO" nazwa="Międzybórz Sycowski" idAtlas="787" lat="17.654" lon="51.4010277777778"/>
+	<stacja t="ST" nazwa="Międzylesie" idAtlas="788" lat="16.6547777777778" lon="50.1438333333333"/>
+	<stacja t="ST" nazwa="Międzyrzec Podlaski"/>
+	<stacja t="ST" nazwa="Międzyrzecz" idAtlas="233" lat="15.5928611111111" lon="52.4452777777778"/>
+	<stacja t="PO" nazwa="Międzyzdroje"/>
+	<stacja t="ST" nazwa="Miękinia" idAtlas="789" lat="16.7383611111111" lon="51.1883611111111"/>
+	<stacja t="PO" nazwa="Mika"/>
+	<stacja t="PO" nazwa="Mikołajki Pomorskie"/>
+	<stacja t="ST" nazwa="Mikołów"/>
+	<stacja t="MPO" nazwa="Mikołów Jamna"/>
+	<stacja t="LPO" nazwa="Mikułowa" idAtlas="796" lat="15.1084722222222" lon="51.0951944444444"/>
+	<stacja t="PO" nazwa="Milanów"/>
+	<stacja t="PO" nazwa="Milanówek"/>
+	<stacja t="PO" nazwa="Milcz"/>
+	<stacja t="PO" nazwa="Milcza" idAtlas="2323" lat="21.9018333333333" lon="49.6059722222222"/>
+	<stacja t="PO" nazwa="Milejów"/>
+	<stacja t="ST" nazwa="Milicz" idAtlas="797" lat="17.2951111111111" lon="51.5273055555556"/>
+	<stacja t="PO" nazwa="Milik" idAtlas="2002" lat="20.8514166666667" lon="49.3466388888889"/>
+	<stacja t="ST" nazwa="Milówka" idAtlas="1724" lat="19.0936944444444" lon="49.5558611111111"/>
+	<stacja t="ST" nazwa="Mielec" idAtlas="2321" lat="21.4297777777778" lon="50.2925"/>
+	<stacja t="PO" nazwa="Mienia"/>
+	<stacja t="PO" nazwa="Mierzęcin Strzelecki" idAtlas="232" lat="15.8329166666667" lon="52.9493611111111"/>
+	<stacja t="PO" nazwa="Mieszaki"/>
+	<stacja t="ST" nazwa="Mieszkowice"/>
+	<stacja t="ST" nazwa="Mieszków" idAtlas="1300" lat="17.4401944444444" lon="52.0234722222222"/>
+	<stacja t="PO" nazwa="Mietków" idAtlas="792" lat="16.6548888888889" lon="50.98475"/>
+	<stacja t="PO" nazwa="Międzyborów"/>
+	<stacja t="MPO" nazwa="Międzybórz Sycowski" idAtlas="787" lat="17.654" lon="51.4010277777778"/>
+	<stacja t="ST" nazwa="Międzylesie" idAtlas="788" lat="16.6547777777778" lon="50.1438333333333"/>
+	<stacja t="ST" nazwa="Międzyrzec Podlaski"/>
+	<stacja t="ST" nazwa="Międzyrzecz" idAtlas="233" lat="15.5928611111111" lon="52.4452777777778"/>
+	<stacja t="PO" nazwa="Międzyzdroje"/>
+	<stacja t="ST" nazwa="Miękinia" idAtlas="789" lat="16.7383611111111" lon="51.1883611111111"/>
+	<stacja t="PO" nazwa="Mika"/>
+	<stacja t="PO" nazwa="Mikołajki Pomorskie"/>
+	<stacja t="ST" nazwa="Mikołów"/>
+	<stacja t="MPO" nazwa="Mikołów Jamna"/>
+	<stacja t="LPO" nazwa="Mikułowa" idAtlas="796" lat="15.1084722222222" lon="51.0951944444444"/>
+	<stacja t="PO" nazwa="Milanów"/>
+	<stacja t="PO" nazwa="Milanówek"/>
+	<stacja t="PO" nazwa="Milcz"/>
+	<stacja t="PO" nazwa="Milcza" idAtlas="2323" lat="21.9018333333333" lon="49.6059722222222"/>
+	<stacja t="PO" nazwa="Milejów"/>
+	<stacja t="ST" nazwa="Milicz" idAtlas="797" lat="17.2951111111111" lon="51.5273055555556"/>
+	<stacja t="PO" nazwa="Milik" idAtlas="2002" lat="20.8514166666667" lon="49.3466388888889"/>
+	<stacja t="ST" nazwa="Milówka" idAtlas="1724" lat="19.0936944444444" lon="49.5558611111111"/>
+	<stacja t="PO" nazwa="Mokrzyca"/>
+	<stacja t="POGP" nazwa="Mokrzyca Wielka"/>
+	<stacja t="POGP" nazwa="Montowo"/>
+	<stacja t="ST" nazwa="Mońki"/>
+	<stacja t="ST" nazwa="Morąg"/>
+	<stacja t="PO" nazwa="Morąg Kolonia"/>
+	<stacja t="PO" nazwa="Mordy"/>
+	<stacja t="PO" nazwa="Mordy Miasto"/>
+	<stacja t="PO" nazwa="Morochów" idAtlas="2329" lat="22.1855555555556" lon="49.4621944444444"/>
+	<stacja t="ST" nazwa="Morzeszczyn"/>
+	<stacja t="PO" nazwa="Morzyca"/>
+	<stacja t="ST" nazwa="Mosina"/>
+	<stacja t="PO" nazwa="Moskale" idAtlas="2330" lat="22.1078888888889" lon="50.52475"/>
+	<stacja t="PO" nazwa="Mostki" idAtlas="241" lat="15.3943055555556" lon="52.2693055555556"/>
+	<stacja t="ST" nazwa="Mostówka"/>
+	<stacja t="PO" nazwa="Mosty"/>
+	<stacja t="PO" nazwa="Moszczenica"/>
+	<stacja t="PO" nazwa="Moszczenica Małopolska" idAtlas="2007" lat="21.1224722222222" lon="49.6969444444444"/>
+	<stacja t="PO" nazwa="Moszczenica Pomorska"/>
+	<stacja t="MPO" nazwa="Mościsko Dzierżoniowskie" idAtlas="808" lat="16.5805555555556" lon="50.7718611111111"/>
+	<stacja t="ST" nazwa="Motycz"/>
+	<stacja t="PO" nazwa="Motycz Leśny"/>
+	<stacja t="LPO" nazwa="Mrocza"/>
+	<stacja t="PO" nazwa="Mrozów" idAtlas="810" lat="16.7938055555556" lon="51.1836666666667"/>
+	<stacja t="ST" nazwa="Mrozy"/>
+	<stacja t="ST" nazwa="Mrzezino"/>
+	<stacja t="PODS" nazwa="Mszalnica" idAtlas="2008" lat="20.8299444444444" lon="49.5930277777778"/>
+	<stacja t="ST" nazwa="Mszana Dolna" idAtlas="2009" lat="20.0754722222222" lon="49.67325"/>
+	<stacja t="PO" nazwa="Mszana Dolna Marki" idAtlas="2010" lat="20.0604722222222" lon="49.6592222222222"/>
+	<stacja t="ST" nazwa="Mścice"/>
+	<stacja t="ST" nazwa="Munina" idAtlas="2331" lat="22.7193611111111" lon="49.9896666666667"/>
+	<stacja t="ST" nazwa="Murowana Goślina"/>
+	<stacja t="ST" nazwa="Muszyna" idAtlas="2012" lat="20.8935833333333" lon="49.3459444444444"/>
+	<stacja t="PO" nazwa="Muszyna Poprad" idAtlas="2013" lat="20.9075277777778" lon="49.3282222222222"/>
+	<stacja t="PO" nazwa="Muszyna Zdrój" idAtlas="2014" lat="20.8966111111111" lon="49.3580277777778"/>
+	<stacja t="PO" nazwa="Mykanów"/>
+	<stacja t="PO" nazwa="Mysłaków"/>
+	<stacja t="ST" nazwa="Mysłowice"/>
+	<stacja t="ST" nazwa="Mysłowice Brzezinka"/>
+	<stacja t="PO" nazwa="Mysłowice Brzęczkowice"/>
+	<stacja t="ST" nazwa="Mysłowice Kosztowy"/>
+	<stacja t="ST" nazwa="Myszków" idAtlas="247" lat="14.7290277777778" lon="51.71275"/>
+	<stacja t="PO" nazwa="Myszków Mrzygłód"/>
+	<stacja t="PO" nazwa="Myszków Nowa Wieś"/>
+	<stacja t="PO" nazwa="Myszków Światowit"/>
+	<stacja t="PO" nazwa="Myśliczyn" idAtlas="1541" lat="17.3286388888889" lon="50.5257222222222"/>
+	<stacja t="PO" nazwa="Najmowo"/>
+	<stacja t="ST" nazwa="Nakło nad Notecią"/>
+	<stacja t="ST" nazwa="Nakło Śląskie"/>
+	<stacja t="ST" nazwa="Nałęczów"/>
+	<stacja t="ST" nazwa="Namysłów" idAtlas="1543" lat="17.7163611111111" lon="51.0745277777778"/>
+	<stacja t="ST" nazwa="Namyślin"/>
+	<stacja t="ST" nazwa="Narewka"/>
+	<stacja t="PO" nazwa="Narzym"/>
+	<stacja t="ST" nazwa="Nasielsk"/>
+	<stacja t="ST" nazwa="Naterki"/>
+	<stacja t="PO" nazwa="Nawra"/>
+	<stacja t="PBSP" nazwa="Nekla"/>
+	<stacja t="ST" nazwa="Nędza"/>
+	<stacja t="POGP" nazwa="Nędza Wieś"/>
+	<stacja t="PO" nazwa="Nicwałd"/>
+	<stacja t="ST" nazwa="Nidzica"/>
+	<stacja t="ST" nazwa="Niedoradz" idAtlas="248" lat="15.6642777777778" lon="51.8655277777778"/>
+	<stacja t="ST" nazwa="Niedrzwica" idAtlas="2733" lat="22.3771111111111" lon="51.1145277777778"/>
+	<stacja t="PO" nazwa="Niedrzwica Kościelna" idAtlas="2734" lat="22.3620277777778" lon="51.0813055555556"/>
+	<stacja t="PO" nazwa="Niedźwiada Łowicka"/>
+	<stacja t="ST" nazwa="Niedźwiedź" idAtlas="2017" lat="20.0814722222222" lon="50.2057777777778"/>
+	<stacja t="PO" nazwa="Niedźwiedź Wielkopolski"/>
+	<stacja t="PO" nazwa="Niegocin"/>
+	<stacja t="ST" nazwa="Niegosławice" idAtlas="249" lat="15.7013055555556" lon="51.6001388888889"/>
+	<stacja t="PO" nazwa="Nielep"/>
+	<stacja t="PO" nazwa="Niemce"/>
+	<stacja t="ST" nazwa="Niemojki"/>
+	<stacja t="PO" nazwa="Nieporęt"/>
+	<stacja t="ST" nazwa="Nieszawa Waganiec"/>
+	<stacja t="PO" nazwa="Nietkowice" idAtlas="251" lat="15.3521388888889" lon="52.0572222222222"/>
+	<stacja t="PO" nazwa="Niewodnica"/>
+	<stacja t="PO" nazwa="Nieznany Bór"/>
+	<stacja t="ST" nazwa="Nisko" idAtlas="2333" lat="22.1422777777778" lon="50.5133888888889"/>
+	<stacja t="PO" nazwa="Nisko Osiedle" idAtlas="2334" lat="22.1228055555556" lon="50.5208611111111"/>
+	<stacja t="PO" nazwa="Nisko Podwolina" idAtlas="2336" lat="22.1734444444444" lon="50.4954444444444"/>
+	<stacja t="PO" nazwa="Nisko Racławice" idAtlas="2337" lat="22.1576944444444" lon="50.5047222222222"/>
+	<stacja t="ST" nazwa="Niwnice" idAtlas="820" lat="15.5011111111111" lon="51.1395277777778"/>
+	<stacja t="PO" nazwa="Niziny" idAtlas="2338" lat="22.8618333333333" lon="49.8787222222222"/>
+	<stacja t="ST" nazwa="Nosówko"/>
+	<stacja t="PO" nazwa="Nowa Dęba" idAtlas="2339" lat="21.7398055555556" lon="50.4156944444444"/>
+	<stacja t="PO" nazwa="Nowa Grobla" idAtlas="2340" lat="22.9934166666667" lon="50.08875"/>
+	<stacja t="PO" nazwa="Nowa Iwiczna"/>
+	<stacja t="ST" nazwa="Nowa Ruda" idAtlas="821" lat="16.4968055555556" lon="50.5772777777778"/>
+	<stacja t="PO" nazwa="Nowa Ruda Przedmieście" idAtlas="823" lat="16.5151388888889" lon="50.58825"/>
+	<stacja t="ST" nazwa="Nowa Sarzyna" idAtlas="2341" lat="22.3474444444444" lon="50.321"/>
+	<stacja t="PO" nazwa="Nowa Sarzyna Kolonia" idAtlas="2342" lat="22.3361666666667" lon="50.3307777777778"/>
+	<stacja t="ST" nazwa="Nowa Sól" idAtlas="256" lat="15.7083055555556" lon="51.79925"/>
+	<stacja t="PO" nazwa="Nowa Wieś Cierpkie"/>
+	<stacja t="PO" nazwa="Nowa Wieś Ełcka"/>
+	<stacja t="LPO" nazwa="Nowa Wieś Legnicka" idAtlas="827" lat="16.1891944444444" lon="51.1761666666667"/>
+	<stacja t="PO" nazwa="Nowa Wieś Lęborska"/>
+	<stacja t="ST" nazwa="Nowa Wieś Wielka"/>
+	<stacja t="ST" nazwa="Nowawieś Mochy" idAtlas="1304" lat="16.2156666666667" lon="52.0146944444444"/>
+	<stacja t="PO" nazwa="Nowe Dębe Wielkie"/>
+	<stacja t="ST" nazwa="Nowe Drezdenko" idAtlas="258" lat="15.8338888888889" lon="52.8538611111111"/>
+	<stacja t="PO" nazwa="Nowe Kutnowskie"/>
+	<stacja t="ST" nazwa="Nowe Skalmierzyce" idAtlas="1305" lat="17.9978888888889" lon="51.7080555555556"/>
+	<stacja t="PO" nazwa="Nowiny" idAtlas="2736" lat="23.1544166666667" lon="50.4406388888889"/>
+	<stacja t="ST" nazwa="Nowiny Wielkie" idAtlas="261" lat="15.0028611111111" lon="52.6726388888889"/>
+	<stacja t="ST" nazwa="Nowogard"/>
+	<stacja t="LPO" nazwa="Nowogrodziec" idAtlas="829" lat="15.3920555555556" lon="51.19075"/>
+	<stacja t="LPO" nazwa="Nowogród Bobrzański" idAtlas="262" lat="15.2444444444444" lon="51.8120833333333"/>
+	<stacja t="ST" nazwa="Nowogród Osiedle" idAtlas="263" lat="15.2255555555556" lon="51.7952222222222"/>
+	<stacja t="ST" nazwa="Nowosielce" idAtlas="2343" lat="22.0855277777778" lon="49.5623888888889"/>
+	<stacja t="ST" nazwa="Nowy Bieruń"/>
+	<stacja t="ST" nazwa="Nowy Dwór Mazowiecki"/>
+	<stacja t="PO" nazwa="Nowy Jarosław"/>
+	<stacja t="PO" nazwa="Nowy Las" idAtlas="1549" lat="17.415" lon="50.3617222222222"/>
+	<stacja t="PO" nazwa="Nowy Łupków" idAtlas="2344" lat="22.0826666666667" lon="49.2521111111111"/>
+	<stacja t="PO" nazwa="Nowy Młyn"/>
+	<stacja t="PO" nazwa="Nowy Nurzec"/>
+	<stacja t="ST" nazwa="Nowy Sącz" idAtlas="2022" lat="20.7026666666667" lon="49.6065277777778"/>
+	<stacja t="MLP" nazwa="Nowy Sącz Biegonice" idAtlas="2023" lat="20.6604444444444" lon="49.5861111111111"/>
+	<stacja t="PO" nazwa="Nowy Sącz Chełmiec" idAtlas="2024" lat="20.6772777777778" lon="49.6295833333333"/>
+	<stacja t="PO" nazwa="Nowy Sącz Jamnica" idAtlas="2025" lat="20.7440555555556" lon="49.5868888888889"/>
+	<stacja t="PO" nazwa="Nowy Sącz Miasto" idAtlas="2026" lat="20.6900555555556" lon="49.6213888888889"/>
+	<stacja t="PO" nazwa="Nowy Solec" idAtlas="1306" lat="16.1944722222222" lon="52.0309722222222"/>
+	<stacja t="ST" nazwa="Nowy Świętów"/>
+	<stacja t="ST" nazwa="Nowy Targ" idAtlas="2030" lat="20.0153055555556" lon="49.4732777777778"/>
+	<stacja t="ST" nazwa="Nowy Tomyśl"/>
+	<stacja t="PO" nazwa="Nowy Widzim"/>
+	<stacja t="ST" nazwa="Nowy Zagórz" idAtlas="2347" lat="22.2591388888889" lon="49.5212222222222"/>
+	<stacja t="ST" nazwa="Nurzec"/>
+	<stacja t="ST" nazwa="Nysa" idAtlas="1551" lat="17.3418333333333" lon="50.4778611111111"/>
+	<stacja t="PO" nazwa="Obkas"/>
+	<stacja t="ST" nazwa="Oborniki Śląskie"/>
+	<stacja t="ST" nazwa="Oborniki Wielkopolskie"/>
+	<stacja t="PO" nazwa="Oborniki Wielkopolskie Miasto"/>
+	<stacja t="PO" nazwa="Oborzyska Stare"/>
+	<stacja t="PO" nazwa="Obra Stara" idAtlas="1307" lat="17.4493055555556" lon="51.8882777777778"/>
+	<stacja t="PO" nazwa="Obrowo"/>
+	<stacja t="PO" nazwa="Ociąż" idAtlas="1308" lat="17.93325" lon="51.702"/>
+	<stacja t="ST" nazwa="Ocice" idAtlas="2349" lat="21.6868611111111" lon="50.5330833333333"/>
+	<stacja t="PO" nazwa="Odoje"/>
+	<stacja t="ST" nazwa="Odolanów" idAtlas="1310" lat="17.668" lon="51.5747777777778"/>
+	<stacja t="PO" nazwa="Odolion"/>
+	<stacja t="LPO" nazwa="Ognica"/>
+	<stacja t="PO" nazwa="Ograszka"/>
+	<stacja t="PO" nazwa="Ogrodniki"/>
+	<stacja t="ST" nazwa="Okmiany" idAtlas="839" lat="15.7792222222222" lon="51.2708333333333"/>
+	<stacja t="ST" nazwa="Okonek"/>
+	<stacja t="PO" nazwa="Okrąglica" idAtlas="840" lat="15.1815555555556" lon="51.4368888888889"/>
+	<stacja t="ST" nazwa="Okrzeja"/>
+	<stacja t="PO" nazwa="Okuninka Białe" idAtlas="2345" lat="23.5901666666667" lon="51.4911944444444"/>
+	<stacja t="ST" nazwa="Olesno Śląskie"/>
+	<stacja t="PO" nazwa="Oleszyce" idAtlas="2352" lat="23.0366944444444" lon="50.1571388888889"/>
+	<stacja t="ST" nazwa="Oleśnica" idAtlas="843" lat="17.3875555555556" lon="51.2006944444444"/>
+	<stacja t="PO" nazwa="Oleśnica Rataje" idAtlas="844" lat="17.3643333333333" lon="51.2154722222222"/>
+	<stacja t="ST" nazwa="Olkusz" idAtlas="2035" lat="19.5738888888889" lon="50.2739166666667"/>
+	<stacja t="PO" nazwa="Olpuch"/>
+	<stacja t="PO" nazwa="Olpuch Wdzydze"/>
+	<stacja t="PO" nazwa="Olszanka" idAtlas="1558" lat="17.4776388888889" lon="50.7952222222222"/>
+	<stacja t="ST" nazwa="Olsztyn Główny"/>
+	<stacja t="PO" nazwa="Olsztyn Zachodni"/>
+	<stacja t="ST" nazwa="Olsztynek"/>
+	<stacja t="PO" nazwa="Olszyna Lubańska" idAtlas="846" lat="15.3799722222222" lon="51.0698055555556"/>
+	<stacja t="PO" nazwa="Olszyny"/>
+	<stacja t="ST" nazwa="Olza"/>
+	<stacja t="ST" nazwa="Oława" idAtlas="848" lat="17.2968888888889" lon="50.9310277777778"/>
+	<stacja t="ST" nazwa="Opalenica"/>
+	<stacja t="ST" nazwa="Opatówek" idAtlas="1311" lat="18.2271388888889" lon="51.7433888888889"/>
+	<stacja t="ST" nazwa="Opoczno"/>
+	<stacja t="ST" nazwa="Opoczno Południe"/>
+	<stacja t="ST" nazwa="Opole Główne" idAtlas="1559" lat="17.9264444444444" lon="50.6616944444444"/>
+	<stacja t="LPO" nazwa="Opole Gosławice" idAtlas="1560" lat="17.9874444444444" lon="50.6734722222222"/>
+	<stacja t="ST" nazwa="Opole Groszowice" idAtlas="1561" lat="17.9554166666667" lon="50.6359444444444"/>
+	<stacja t="PO" nazwa="Opole Grotowice" idAtlas="1562" lat="17.9759722222222" lon="50.6096944444444"/>
+	<stacja t="ST" nazwa="Opole Wschodnie" idAtlas="1565" lat="17.9374444444444" lon="50.67325"/>
+	<stacja t="PODS" nazwa="Opole Zachodnie" idAtlas="1566" lat="17.8970277777778" lon="50.66075"/>
+	<stacja t="ST" nazwa="Orneta"/>
+	<stacja t="ST" nazwa="Orzechowo" idAtlas="1312" lat="17.4778055555556" lon="52.1269722222222"/>
+	<stacja t="ST" nazwa="Orzesze"/>
+	<stacja t="ST" nazwa="Orzesze Jaśkowice"/>
+	<stacja t="PO" nazwa="Orzeszkowo"/>
+	<stacja t="PO" nazwa="Orzeszków" idAtlas="853" lat="16.5076111111111" lon="51.3940277777778"/>
+	<stacja t="ST" nazwa="Orzysz"/>
+	<stacja t="PO" nazwa="Osetnica" idAtlas="854" lat="15.8466111111111" lon="51.2616666666667"/>
+	<stacja t="ST" nazwa="Osie"/>
+	<stacja t="PO" nazwa="Osiek Staszowski" idAtlas="2605" lat="21.4397777777778" lon="50.5306666666667"/>
+	<stacja t="ST" nazwa="Osielec" idAtlas="2037" lat="19.7565555555556" lon="49.6747222222222"/>
+	<stacja t="PO" nazwa="Osina"/>
+	<stacja t="PO" nazwa="Osławica" idAtlas="2355" lat="22.0741111111111" lon="49.2785277777778"/>
+	<stacja t="PO" nazwa="Osola" idAtlas="857" lat="16.8658333333333" lon="51.3378055555556"/>
+	<stacja t="ST" nazwa="Osowiec"/>
+	<stacja t="PO" nazwa="Osowiec Przystanek" idAtlas="1570" lat="18.0433611111111" lon="50.7516666666667"/>
+	<stacja t="ST" nazwa="Ostaszewo Toruńskie"/>
+	<stacja t="ST" nazwa="Ostrołęka"/>
+	<stacja t="LPO" nazwa="Ostromecko"/>
+	<stacja t="PO" nazwa="Ostrowie Biebrzańskie"/>
+	<stacja t="ST" nazwa="Ostrowiec Świętokrzyski"/>
+	<stacja t="PO" nazwa="Ostrowiecko" idAtlas="2356" lat="22.7808611111111" lon="49.9552222222222"/>
+	<stacja t="POGP" nazwa="Ostrowite koło Jabłonowa"/>
+	<stacja t="ST" nazwa="Ostrowy"/>
+	<stacja t="ST" nazwa="Ostróda"/>
+	<stacja t="ST" nazwa="Ostrów Wielkopolski" idAtlas="1314" lat="17.8051388888889" lon="51.6493333333333"/>
+	<stacja t="PO" nazwa="Ostrów Wielkopolski Gorzyce" idAtlas="1315" lat="17.7299444444444" lon="51.6476944444444"/>
+	<stacja t="PO" nazwa="Ostrówek Węgrowski"/>
+	<stacja t="LPO" nazwa="Ostrówki koło Chodzieży"/>
+	<stacja t="ST" nazwa="Ostrzeszów"/>
+	<stacja t="ST" nazwa="Oświęcim" idAtlas="2038" lat="19.1995555555556" lon="50.0416666666667"/>
+	<stacja t="ST" nazwa="Otłoczyn"/>
+	<stacja t="ST" nazwa="Otmuchów" idAtlas="1572" lat="17.1526111111111" lon="50.4741388888889"/>
+	<stacja t="PO" nazwa="Otmuchów Jezioro" idAtlas="1574" lat="17.1105" lon="50.4813888888889"/>
+	<stacja t="PO" nazwa="Otoczna"/>
+	<stacja t="ST" nazwa="Otok"/>
+	<stacja t="PO" nazwa="Otusz"/>
+	<stacja t="ST" nazwa="Otwock"/>
+	<stacja t="PO" nazwa="Owińska"/>
+	<stacja t="ST" nazwa="Ozimek" idAtlas="1575" lat="18.2081666666667" lon="50.67"/>
+	<stacja t="ST" nazwa="Ozorków"/>
+	<stacja t="PO" nazwa="Ozorków Nowe Miasto"/>
+	<stacja t="ST" nazwa="Ożarów Mazowiecki"/>
+	<stacja t="ST" nazwa="Pabianice"/>
+	<stacja t="PO" nazwa="Pacholęta"/>
+	<stacja t="PO" nazwa="Paczkowo"/>
+	<stacja t="ST" nazwa="Paczków" idAtlas="1576" lat="17.0110555555556" lon="50.4784444444444"/>
+	<stacja t="POGP" nazwa="Paczyna"/>
+	<stacja t="ST" nazwa="Padew" idAtlas="2357" lat="21.5038333333333" lon="50.4327222222222"/>
+	<stacja t="PO" nazwa="Pakosławice" idAtlas="1577" lat="17.3531944444444" lon="50.545"/>
+	<stacja t="ST" nazwa="Pakość"/>
+	<stacja t="ST" nazwa="Palędzie"/>
+	<stacja t="PO" nazwa="Pałecznica"/>
+	<stacja t="PO" nazwa="Pamiątkowo"/>
+	<stacja t="ST" nazwa="Panki"/>
+	<stacja t="PO" nazwa="Panowice" idAtlas="275" lat="15.7346944444444" lon="52.36075"/>
+	<stacja t="ST" nazwa="Papiernia"/>
+	<stacja t="ST" nazwa="Papowo Toruńskie"/>
+	<stacja t="ST" nazwa="Parczew"/>
+	<stacja t="PO" nazwa="Parczew Kolejowa"/>
+	<stacja t="LPO" nazwa="Parkowo"/>
+	<stacja t="ST" nazwa="Parlin"/>
+	<stacja t="POGP" nazwa="Parłówko"/>
+	<stacja t="ST" nazwa="Pasieki"/>
+	<stacja t="ST" nazwa="Pasłęk"/>
+	<stacja t="ST" nazwa="Pasym"/>
+	<stacja t="PO" nazwa="Patków"/>
+	<stacja t="PO" nazwa="Pawłowice" idAtlas="1320" lat="16.7589444444444" lon="51.8200833333333"/>
+	<stacja t="ST" nazwa="Pawłowice Małe" idAtlas="862" lat="16.0832222222222" lon="51.1809444444444"/>
+	<stacja t="PO" nazwa="Pawłów Wielkopolski" idAtlas="1321" lat="17.6546666666667" lon="51.4218055555556"/>
+	<stacja t="PO" nazwa="Pawłówek"/>
+	<stacja t="ST" nazwa="Pawonków"/>
+	<stacja t="ST" nazwa="Pątnów Wieluński"/>
+	<stacja t="ST" nazwa="Pelplin"/>
+	<stacja t="PO" nazwa="Pełkinie" idAtlas="2358" lat="22.61175" lon="50.0476944444444"/>
+	<stacja t="PO" nazwa="Perkowice"/>
+	<stacja t="PO" nazwa="Perkowo" idAtlas="1323" lat="16.2695277777778" lon="52.0036666666667"/>
+	<stacja t="PO" nazwa="Petrykozy"/>
+	<stacja t="PO" nazwa="Pewel Mała" idAtlas="1729" lat="19.2785833333333" lon="49.6672777777778"/>
+	<stacja t="PO" nazwa="Pewel Wielka" idAtlas="1730" lat="19.3799722222222" lon="49.6691388888889"/>
+	<stacja t="PO" nazwa="Pewel Wielka Centrum" idAtlas="1731" lat="19.3523333333333" lon="49.6605833333333"/>
+	<stacja t="ST" nazwa="Pęckowo"/>
+	<stacja t="PO" nazwa="Pałecznica"/>
+	<stacja t="PO" nazwa="Pamiątkowo"/>
+	<stacja t="ST" nazwa="Panki"/>
+	<stacja t="PO" nazwa="Panowice" idAtlas="275" lat="15.7346944444444" lon="52.36075"/>
+	<stacja t="ST" nazwa="Papiernia"/>
+	<stacja t="ST" nazwa="Papowo Toruńskie"/>
+	<stacja t="ST" nazwa="Parczew"/>
+	<stacja t="PO" nazwa="Parczew Kolejowa"/>
+	<stacja t="LPO" nazwa="Parkowo"/>
+	<stacja t="ST" nazwa="Parlin"/>
+	<stacja t="POGP" nazwa="Parłówko"/>
+	<stacja t="ST" nazwa="Pasieki"/>
+	<stacja t="ST" nazwa="Pasłęk"/>
+	<stacja t="ST" nazwa="Pasym"/>
+	<stacja t="PO" nazwa="Patków"/>
+	<stacja t="PO" nazwa="Pawłowice" idAtlas="1320" lat="16.7589444444444" lon="51.8200833333333"/>
+	<stacja t="ST" nazwa="Pawłowice Małe" idAtlas="862" lat="16.0832222222222" lon="51.1809444444444"/>
+	<stacja t="PO" nazwa="Pawłów Wielkopolski" idAtlas="1321" lat="17.6546666666667" lon="51.4218055555556"/>
+	<stacja t="PO" nazwa="Pawłówek"/>
+	<stacja t="ST" nazwa="Pawonków"/>
+	<stacja t="ST" nazwa="Pątnów Wieluński"/>
+	<stacja t="ST" nazwa="Pelplin"/>
+	<stacja t="PO" nazwa="Pełkinie" idAtlas="2358" lat="22.61175" lon="50.0476944444444"/>
+	<stacja t="PO" nazwa="Perkowice"/>
+	<stacja t="PO" nazwa="Perkowo" idAtlas="1323" lat="16.2695277777778" lon="52.0036666666667"/>
+	<stacja t="PO" nazwa="Petrykozy"/>
+	<stacja t="PO" nazwa="Pewel Mała" idAtlas="1729" lat="19.2785833333333" lon="49.6672777777778"/>
+	<stacja t="PO" nazwa="Pewel Wielka" idAtlas="1730" lat="19.3799722222222" lon="49.6691388888889"/>
+	<stacja t="PO" nazwa="Pewel Wielka Centrum" idAtlas="1731" lat="19.3523333333333" lon="49.6605833333333"/>
+	<stacja t="ST" nazwa="Pęckowo"/>
+	<stacja t="POGP" nazwa="Pęgów" idAtlas="864" lat="16.927" lon="51.2473055555556"/>
+	<stacja t="ST" nazwa="Pępowo" idAtlas="1322" lat="17.1128055555556" lon="51.7370833333333"/>
+	<stacja t="PO" nazwa="Pępowo Kartuskie"/>
+	<stacja t="PO" nazwa="Pęzino"/>
+	<stacja t="PO" nazwa="Piasecznica"/>
+	<stacja t="ST" nazwa="Piaseczno"/>
+	<stacja t="PO" nazwa="Piasek"/>
+	<stacja t="PO" nazwa="Piastoszyn"/>
+	<stacja t="PO" nazwa="Piastów"/>
+	<stacja t="LPO" nazwa="Piechcin"/>
+	<stacja t="ST" nazwa="Piechowice" idAtlas="865" lat="15.5913333333333" lon="50.8518333333333"/>
+	<stacja t="PO" nazwa="Piechowice Dolne" idAtlas="866" lat="15.6165277777778" lon="50.8505"/>
+	<stacja t="PO" nazwa="Pieczyska" idAtlas="1732" lat="19.32575" lon="50.2286944444444"/>
+	<stacja t="PO" nazwa="Piekiełko" idAtlas="2041" lat="20.3535" lon="49.7481944444444"/>
+	<stacja t="LPO" nazwa="Piekoszów" idAtlas="2610" lat="20.4483333333333" lon="50.8703611111111"/>
+	<stacja t="PBSP" nazwa="Pieniężno"/>
+	<stacja t="PO" nazwa="Pieńki Dubidzkie"/>
+	<stacja t="PGLP" nazwa="Pieńsk" idAtlas="869" lat="15.0467777777778" lon="51.2451944444444"/>
+	<stacja t="ST" nazwa="Pierściec" idAtlas="1733" lat="18.8133055555556" lon="49.8304166666667"/>
+	<stacja t="POGP" nazwa="Pierzchno" idAtlas="1325" lat="17.1584722222222" lon="52.2629444444444"/>
+	<stacja t="ST" nazwa="Pierzyska"/>
+	<stacja t="PO" nazwa="Piesienice"/>
+	<stacja t="PO" nazwa="Pietrzykowice Żywieckie" idAtlas="1734" lat="19.1723055555556" lon="49.7098611111111"/>
+	<stacja t="PO" nazwa="Pikus"/>
+	<stacja t="ST" nazwa="Pilawa"/>
+	<stacja t="LPO" nazwa="Pilchowice Nielestno" idAtlas="877" lat="15.6618055555556" lon="50.9920555555556"/>
+	<stacja t="PO" nazwa="Pilchowice Zapora" idAtlas="879" lat="15.6545277777778" lon="50.9686388888889"/>
+	<stacja t="PO" nazwa="Pilchów" idAtlas="2360" lat="22.0269444444444" lon="50.61675"/>
+	<stacja t="ST" nazwa="Piła Główna"/>
+	<stacja t="PO" nazwa="Piła Kalina"/>
+	<stacja t="PO" nazwa="Piła Podlasie"/>
+	<stacja t="ST" nazwa="Piława Górna" idAtlas="875" lat="16.7731388888889" lon="50.6782222222222"/>
+	<stacja t="PO" nazwa="Pinczyn"/>
+	<stacja t="ST" nazwa="Pionki"/>
+	<stacja t="PO" nazwa="Pionki Zachodnie"/>
+	<stacja t="ST" nazwa="Piotrków Kujawski"/>
+	<stacja t="ST" nazwa="Piotrków Trybunalski"/>
+	<stacja t="PO" nazwa="Pisarzowa" idAtlas="2043" lat="20.4824722222222" lon="49.6950833333333"/>
+	<stacja t="ST" nazwa="Pisz"/>
+	<stacja t="ST" nazwa="Piwniczna" idAtlas="2044" lat="20.7163611111111" lon="49.4317222222222"/>
+	<stacja t="PO" nazwa="Piwniczna-Zdrój"/>
+	<stacja t="ST" nazwa="Platerów"/>
+	<stacja t="ST" nazwa="Pleszew" idAtlas="1329" lat="17.7329444444444" lon="51.8922777777778"/>
+	<stacja t="PO" nazwa="Pliszka" idAtlas="277" lat="15.0169166666667" lon="52.2044722222222"/>
+	<stacja t="ST" nazwa="Pludry" idAtlas="1583" lat="18.4698055555556" lon="50.6647222222222"/>
+	<stacja t="PO" nazwa="Pławna" idAtlas="2046" lat="20.9505555555556" lon="49.7545833333333"/>
+	<stacja t="PO" nazwa="Płochocin"/>
+	<stacja t="PO" nazwa="Płociczno koło Suwałk"/>
+	<stacja t="ST" nazwa="Płock"/>
+	<stacja t="ST" nazwa="Płock Radziwie"/>
+	<stacja t="ST" nazwa="Płock Trzepowo"/>
+	<stacja t="ST" nazwa="Płońsk"/>
+	<stacja t="ST" nazwa="Płoty"/>
+	<stacja t="ST" nazwa="Płyćwia"/>
+	<stacja t="ST" nazwa="Płytnica"/>
+	<stacja t="ST" nazwa="Pobiedziska"/>
+	<stacja t="PO" nazwa="Pobiedziska Letnisko"/>
+	<stacja t="PO" nazwa="Podbiele"/>
+	<stacja t="ST" nazwa="Podborsko"/>
+	<stacja t="ST" nazwa="Podbory Skawińskie" idAtlas="2048" lat="19.7722777777778" lon="49.9664444444444"/>
+	<stacja t="PO" nazwa="Podbór"/>
+	<stacja t="ST" nazwa="Poddębice"/>
+	<stacja t="MPO" nazwa="Podlasek"/>
+	<stacja t="PODS" nazwa="Podlesie"/>
+	<stacja t="ST" nazwa="Podlesiec" idAtlas="280" lat="15.8762777777778" lon="52.9368333333333"/>
+	<stacja t="PO" nazwa="Podleś"/>
+	<stacja t="ST" nazwa="Podłęże" idAtlas="2052" lat="20.1673333333333" lon="50.0186388888889"/>
+	<stacja t="PO" nazwa="Podolany" idAtlas="2053" lat="19.7534722222222" lon="49.8982222222222"/>
+	<stacja t="ST" nazwa="Podstolice"/>
+	<stacja t="PO" nazwa="Podwierzbie"/>
+	<stacja t="PO" nazwa="Podzamcze"/>
+	<stacja t="PO" nazwa="Pogorzel Warszawska"/>
+	<stacja t="PO" nazwa="Pogorzel Wielka"/>
+	<stacja t="ST" nazwa="Pogorzelice"/>
+	<stacja t="PO" nazwa="Pogwizdów" idAtlas="1736" lat="18.5976944444444" lon="49.8062222222222"/>
+	<stacja t="PO" nazwa="Pokrzywnica" idAtlas="1587" lat="18.0795555555556" lon="50.3438611111111"/>
+	<stacja t="ST" nazwa="Polanica-Zdrój"/>
+	<stacja t="PO" nazwa="Polichna Kraśnicka" idAtlas="2740" lat="22.3065277777778" lon="50.831"/>
+	<stacja t="PO" nazwa="Policzna"/>
+	<stacja t="PO" nazwa="Polna" idAtlas="2055" lat="20.99475" lon="49.6752777777778"/>
+	<stacja t="ST" nazwa="Połaniec" idAtlas="2615" lat="21.3097222222222" lon="50.4385"/>
+	<stacja t="PO" nazwa="Pomiechówek"/>
+	<stacja t="ST" nazwa="Ponętów"/>
+	<stacja t="ST" nazwa="Poniec" idAtlas="1331" lat="16.8080833333333" lon="51.7615277777778"/>
+	<stacja t="ST" nazwa="Popielów" idAtlas="1590" lat="17.7626388888889" lon="50.8293888888889"/>
+	<stacja t="PO" nazwa="Popowo Skwierzyńskie" idAtlas="286" lat="15.5221388888889" lon="52.5359722222222"/>
+	<stacja t="ST" nazwa="Poraj"/>
+	<stacja t="PBSP" nazwa="Porażyn"/>
+	<stacja t="ST" nazwa="Poronin" idAtlas="2057" lat="20.0034722222222" lon="49.3437222222222"/>
+	<stacja t="PO" nazwa="Porosiuki"/>
+	<stacja t="PO" nazwa="Port Lotniczy Szczecin Goleniów"/>
+	<stacja t="ST" nazwa="Potęgowo"/>
+	<stacja t="PO" nazwa="Potok" idAtlas="2616" lat="20.1968333333333" lon="50.6175833333333"/>
+	<stacja t="PO" nazwa="Potok Kraśnicki" idAtlas="2742" lat="22.1634166666667" lon="50.7964444444444"/>
+	<stacja t="PO" nazwa="Powałki"/>
+	<stacja t="ST" nazwa="Powroźnik" idAtlas="2059" lat="20.9397222222222" lon="49.3678888888889"/>
+	<stacja t="PO" nazwa="Poznań Antoninek"/>
+	<stacja t="PO" nazwa="Poznań Dębiec"/>
+	<stacja t="PO" nazwa="Poznań Dębina" idAtlas="1333" lat="16.9097777777778" lon="52.3738888888889"/>
+	<stacja t="ST" nazwa="Poznań Franowo"/>
+	<stacja t="PO" nazwa="Poznań Garbary"/>
+	<stacja t="ST" nazwa="Poznań Główny" idAtlas="1334" lat="16.9115" lon="52.4015555555556"/>
+	<stacja t="ST" nazwa="Poznań Górczyn"/>
+	<stacja t="PO" nazwa="Poznań Junikowo"/>
+	<stacja t="PO" nazwa="Poznań Karolin"/>
+	<stacja t="ST" nazwa="Poznań Krzesiny" idAtlas="1335" lat="16.97775" lon="52.3402777777778"/>
+	<stacja t="ST" nazwa="Poznań Starołęka" idAtlas="1336" lat="16.9311944444444" lon="52.3674166666667"/>
+	<stacja t="LPO" nazwa="Poznań Strzeszyn"/>
+	<stacja t="ST" nazwa="Poznań Wola"/>
+	<stacja t="ST" nazwa="Poznań Wschód"/>
+	<stacja t="PO" nazwa="Pożóg"/>
+	<stacja t="PO" nazwa="Półwieś" idAtlas="2056" lat="19.5754722222222" lon="49.9764722222222"/>
+	<stacja t="ST" nazwa="Prabuty"/>
+	<stacja t="PO" nazwa="Prabuty Góry"/>
+	<stacja t="PO" nazwa="Prądocin"/>
+	<stacja t="LPO" nazwa="Proboszczewice Płockie"/>
+	<stacja t="PO" nazwa="Promno"/>
+	<stacja t="ST" nazwa="Prostki"/>
+	<stacja t="ST" nazwa="Prostynia"/>
+	<stacja t="PO" nazwa="Prostyń"/>
+	<stacja t="ST" nazwa="Pruchna" idAtlas="1738" lat="18.6883333333333" lon="49.8787777777778"/>
+	<stacja t="ST" nazwa="Prudnik" idAtlas="1592" lat="17.5776666666667" lon="50.32925"/>
+	<stacja t="ST" nazwa="Pruszcz Gdański"/>
+	<stacja t="ST" nazwa="Pruszcz Pomorski"/>
+	<stacja t="ST" nazwa="Pruszków"/>
+	<stacja t="PO" nazwa="Przebędowo"/>
+	<stacja t="ST" nazwa="Przeciszów" idAtlas="2062" lat="19.3694444444444" lon="50.0132777777778"/>
+	<stacja t="PO" nazwa="Przecław Tuszyma" idAtlas="2363" lat="21.5023333333333" lon="50.1854722222222"/>
+	<stacja t="PO" nazwa="Przecza" idAtlas="1593" lat="17.668" lon="50.7328611111111"/>
+	<stacja t="PO" nazwa="Przedmoście Święte"/>
+	<stacja t="STTH" nazwa="Przemyśl Bakończyce" idAtlas="2366" lat="22.7948888888889" lon="49.7784444444444"/>
+	<stacja t="ST" nazwa="Przemyśl Główny" idAtlas="2365" lat="22.7773888888889" lon="49.7836944444444"/>
+	<stacja t="ST" nazwa="Przemyśl Pikulice" idAtlas="2367" lat="22.8124444444444" lon="49.7558888888889"/>
+	<stacja t="PO" nazwa="Przemyśl Zasanie" idAtlas="2370" lat="22.7736944444444" lon="49.7935"/>
+	<stacja t="PO" nazwa="Przeradz"/>
+	<stacja t="ST" nazwa="Przetycz"/>
+	<stacja t="ST" nazwa="Przeworsk" idAtlas="2372" lat="22.5016388888889" lon="50.0673055555556"/>
+	<stacja t="MPO" nazwa="Przybówka" idAtlas="2378" lat="21.6466388888889" lon="49.7993333333333"/>
+	<stacja t="PO" nazwa="Przybyłowice" idAtlas="905" lat="16.1595833333333" lon="51.1271111111111"/>
+	<stacja t="ST" nazwa="Przygodzice"/>
+	<stacja t="PO" nazwa="Przylep" idAtlas="294" lat="15.4384722222222" lon="51.9770555555556"/>
+	<stacja t="PO" nazwa="Przyłęk Duży"/>
+	<stacja t="PODS" nazwa="Przyłubie"/>
+	<stacja t="PO" nazwa="Przysieczyn"/>
+	<stacja t="ST" nazwa="Przysieka Stara"/>
+	<stacja t="ST" nazwa="Przysieki" idAtlas="2379" lat="21.3945" lon="49.7328333333333"/>
+	<stacja t="ST" nazwa="Przysucha"/>
+	<stacja t="PO" nazwa="Przytkowice" idAtlas="2066" lat="19.6798333333333" lon="49.8965555555556"/>
+	<stacja t="PO" nazwa="Przytocko"/>
+	<stacja t="ST" nazwa="Przywory Opolskie" idAtlas="1595" lat="17.9894722222222" lon="50.5802222222222"/>
+	<stacja t="ST" nazwa="Pszczółki"/>
+	<stacja t="ST" nazwa="Pszczyna"/>
+	<stacja t="PO" nazwa="Pszczyna Czarków"/>
+	<stacja t="ST" nazwa="Ptaszkowa" idAtlas="2067" lat="20.8817222222222" lon="49.6033055555556"/>
+	<stacja t="PO" nazwa="Ptaszkowo"/>
+	<stacja t="LPO" nazwa="Ptusza"/>
+	<stacja t="ST" nazwa="Puck"/>
+	<stacja t="PO" nazwa="Pułankowice" idAtlas="2743" lat="22.3067222222222" lon="50.9591666666667"/>
+	<stacja t="ST" nazwa="Puławy"/>
+	<stacja t="ST" nazwa="Puławy Azoty"/>
+	<stacja t="PO" nazwa="Puławy Chemia"/>
+	<stacja t="PO" nazwa="Puławy Miasto"/>
+	<stacja t="PO" nazwa="Pustków" idAtlas="2381" lat="21.4963055555556" lon="50.1437777777778"/>
+	<stacja t="PO" nazwa="Pustynia" idAtlas="2382" lat="21.4507777777778" lon="50.0710833333333"/>
+	<stacja t="PO" nazwa="Puszcza Rządowa"/>
+	<stacja t="PO" nazwa="Puszczykowo"/>
+	<stacja t="PBSP" nazwa="Puszczykówko"/>
+	<stacja t="ST" nazwa="Pyskowice"/>
+	<stacja t="PO" nazwa="Pyzówka" idAtlas="2068" lat="19.96" lon="49.5213611111111"/>
+	<stacja t="PO" nazwa="Raba Niżna" idAtlas="2069" lat="20.0239444444444" lon="49.6345833333333"/>
+	<stacja t="ST" nazwa="Raba Wyżna" idAtlas="2070" lat="19.8818055555556" lon="49.5657222222222"/>
+	<stacja t="ST" nazwa="Rabka Zaryte" idAtlas="2071" lat="19.9901388888889" lon="49.6268611111111"/>
+	<stacja t="PO" nazwa="Rabka-Zdrój"/>
+	<stacja t="PO" nazwa="Racewo"/>
+	<stacja t="ST" nazwa="Raciąż"/>
+	<stacja t="PO" nazwa="Raciborów Kutnowski"/>
+	<stacja t="ST" nazwa="Racibory"/>
+	<stacja t="ST" nazwa="Racibórz"/>
+	<stacja t="POGP" nazwa="Racibórz Markowice"/>
+	<stacja t="ST" nazwa="Racławice Śląskie"/>
+	<stacja t="PO" nazwa="Racławki"/>
+	<stacja t="ST" nazwa="Raczki"/>
+	<stacja t="PGLP" nazwa="Radkowice" idAtlas="2621" lat="20.5290277777778" lon="50.78075"/>
+	<stacja t="PO" nazwa="Radliczyce" idAtlas="1340" lat="18.3500277777778" lon="51.7232777777778"/>
+	<stacja t="PO" nazwa="Radlin Obszary"/>
+	<stacja t="PO" nazwa="Radlin Wielkopolski" idAtlas="1341" lat="17.4995" lon="52.0329444444444"/>
+	<stacja t="ST" nazwa="Radnica" idAtlas="299" lat="15.2688333333333" lon="52.0902222222222"/>
+	<stacja t="ST" nazwa="Radom"/>
+	<stacja t="PO" nazwa="Radom Południowy"/>
+	<stacja t="PO" nazwa="Radom Potkanów"/>
+	<stacja t="ST" nazwa="Radomsko"/>
+	<stacja t="PO" nazwa="Radomyśl"/>
+	<stacja t="MPO" nazwa="Radostowice"/>
+	<stacja t="PO" nazwa="Radów" idAtlas="301" lat="14.7423611111111" lon="52.432"/>
+	<stacja t="PO" nazwa="Raduń"/>
+	<stacja t="ST" nazwa="Radymno" idAtlas="2384" lat="22.8294444444444" lon="49.9393888888889"/>
+	<stacja t="PO" nazwa="Radzice"/>
+	<stacja t="PO" nazwa="Radziechowy Wieprz" idAtlas="1739" lat="19.1643055555556" lon="49.6479166666667"/>
+	<stacja t="ST" nazwa="Radzionków"/>
+	<stacja t="PO" nazwa="Radzionków Rojca"/>
+	<stacja t="ST" nazwa="Radziszów" idAtlas="2075" lat="19.8092777777778" lon="49.9182777777778"/>
+	<stacja t="PO" nazwa="Radziwiłłów Mazowiecki"/>
+	<stacja t="ST" nazwa="Radzymin"/>
+	<stacja t="ST" nazwa="Radzyń Podlaski"/>
+	<stacja t="ST" nazwa="Rajcza" idAtlas="1740" lat="19.1128055555556" lon="49.5165277777778"/>
+	<stacja t="PO" nazwa="Rajcza Centrum" idAtlas="1741" lat="19.1006111111111" lon="49.5068611111111"/>
+	<stacja t="PO" nazwa="Rajec Poduchowny"/>
+	<stacja t="PO" nazwa="Rajgród"/>
+	<stacja t="PO" nazwa="Rajsk"/>
+	<stacja t="ST" nazwa="Rakoniewice" idAtlas="1342" lat="16.2653055555556" lon="52.1388333333333"/>
+	<stacja t="PO" nazwa="Rakoniewice Milickie" idAtlas="920" lat="17.3212222222222" lon="51.59675"/>
+	<stacja t="ST" nazwa="Rakowice"/>
+	<stacja t="PO" nazwa="Rakowice Wielkie" idAtlas="921" lat="15.5629444444444" lon="51.1268333333333"/>
+	<stacja t="PO" nazwa="Raszowa" idAtlas="1599" lat="18.1610277777778" lon="50.3879166666667"/>
+	<stacja t="ST" nazwa="Raszówka" idAtlas="924" lat="16.1816944444444" lon="51.3019722222222"/>
+	<stacja t="ST" nazwa="Rawicz" idAtlas="1343" lat="16.83975" lon="51.6086388888889"/>
+	<stacja t="ST" nazwa="Rąbino"/>
+	<stacja t="MPO" nazwa="Reblino"/>
+	<stacja t="ST" nazwa="Recław"/>
+	<stacja t="MPO" nazwa="Recz Pomorski"/>
+	<stacja t="ST" nazwa="Reda"/>
+	<stacja t="PO" nazwa="Reda Pieleszewo"/>
+	<stacja t="PO" nazwa="Reda Rekowo"/>
+	<stacja t="ST" nazwa="Redaki"/>
+	<stacja t="ST" nazwa="Rejowiec" idAtlas="2744" lat="23.2391944444444" lon="51.1175833333333"/>
+	<stacja t="ST" nazwa="Reptowo"/>
+	<stacja t="PO" nazwa="Rębiechowo"/>
+	<stacja t="ST" nazwa="Rębiszów" idAtlas="928" lat="15.4558611111111" lon="50.9484444444444"/>
+	<stacja t="ST" nazwa="Rębusz"/>
+	<stacja t="PO" nazwa="Rogale"/>
+	<stacja t="PO" nazwa="Rogalice" idAtlas="1602" lat="17.5972777777778" lon="50.96375"/>
+	<stacja t="PO" nazwa="Rogiedle"/>
+	<stacja t="ST" nazwa="Rogoźnica" idAtlas="933" lat="16.3020277777778" lon="51.0145833333333"/>
+	<stacja t="PO" nazwa="Rogoźnica koło Rzeszowa"/>
+	<stacja t="ST" nazwa="Rogoźno Wielkopolskie"/>
+	<stacja t="PO" nazwa="Rogożew"/>
+	<stacja t="ST" nazwa="Rogów"/>
+	<stacja t="ST" nazwa="Rogóźno Pomorskie"/>
+	<stacja t="ST" nazwa="Rogóżno koło Łańcuta"/>
+	<stacja t="ST" nazwa="Rokiciny"/>
+	<stacja t="PO" nazwa="Rokiciny Podhalańskie" idAtlas="2079" lat="19.9058333333333" lon="49.5785833333333"/>
+	<stacja t="ST" nazwa="Rokietnica"/>
+	<stacja t="ST" nazwa="Rokita"/>
+	<stacja t="ST" nazwa="Rokitki" idAtlas="934" lat="15.8936666666667" lon="51.3353333333333"/>
+	<stacja t="PO" nazwa="Rokitki Tczewskie"/>
+	<stacja t="PO" nazwa="Rokitnia Stara"/>
+	<stacja t="ST" nazwa="Ropczyce" idAtlas="2388" lat="21.5810833333333" lon="50.0785277777778"/>
+	<stacja t="PO" nazwa="Ropczyce Witkowice" idAtlas="2389" lat="21.6288055555556" lon="50.0770833333333"/>
+	<stacja t="PO" nazwa="Rosochatka"/>
+	<stacja t="PO" nazwa="Rostarzewo" idAtlas="1347" lat="16.2068333333333" lon="52.1349722222222"/>
+	<stacja t="PO" nazwa="Roszkowo Wągrowieckie"/>
+	<stacja t="PO" nazwa="Roszków Raciborski"/>
+	<stacja t="PO" nazwa="Rozedranka"/>
+	<stacja t="ST" nazwa="Rozprza"/>
+	<stacja t="PO" nazwa="Roztoki Bystrzyckie" idAtlas="938" lat="16.6654444444444" lon="50.1872777777778"/>
+	<stacja t="ST" nazwa="Rożki"/>
+	<stacja t="PO" nazwa="Rożniaty"/>
+	<stacja t="PO" nazwa="Rożnowo"/>
+	<stacja t="PO" nazwa="Różanystok"/>
+	<stacja t="PO" nazwa="Różyny"/>
+	<stacja t="PO" nazwa="Ruchocice" idAtlas="1349" lat="16.3408611111111" lon="52.17675"/>
+	<stacja t="PO" nazwa="Ruciane-Nida"/>
+	<stacja t="PO" nazwa="Ruciane-Nida Zachód"/>
+	<stacja t="PO" nazwa="Ruda"/>
+	<stacja t="PO" nazwa="Ruda Białaczowska" idAtlas="2627" lat="20.3823055555556" lon="51.2622777777778"/>
+	<stacja t="ST" nazwa="Ruda Chebzie"/>
+	<stacja t="PO" nazwa="Ruda Śląska"/>
+	<stacja t="ST" nazwa="Ruda Talubska"/>
+	<stacja t="PODS" nazwa="Ruda Wielka"/>
+	<stacja t="PO" nazwa="Ruda-Huta"/>
+	<stacja t="LPO" nazwa="Ruda-Opalin"/>
+	<stacja t="PO" nazwa="Rudawa" idAtlas="1605" lat="17.3908611111111" lon="50.3598611111111"/>
+	<stacja t="ST" nazwa="Rudna Gwizdanów" idAtlas="939" lat="16.2806666666667" lon="51.5300277777778"/>
+	<stacja t="LPO" nazwa="Rudna Miasto" idAtlas="940" lat="16.2690833333333" lon="51.5053333333333"/>
+	<stacja t="PO" nazwa="Rudna Wielka" idAtlas="2392" lat="21.9413888888889" lon="50.0811111111111"/>
+	<stacja t="PO" nazwa="Rudnik"/>
+	<stacja t="ST" nazwa="Rudnik nad Sanem"/>
+	<stacja t="PO" nazwa="Rudnik Stróża" idAtlas="2394" lat="22.2166944444444" lon="50.4583611111111"/>
+	<stacja t="ST" nazwa="Rudniki koło Częstochowy"/>
+	<stacja t="PO" nazwa="Rudyszwałd"/>
+	<stacja t="ST" nazwa="Rudzienice Suskie"/>
+	<stacja t="ST" nazwa="Rudziniec Gliwicki"/>
+	<stacja t="ST" nazwa="Rumia"/>
+	<stacja t="LPO" nazwa="Runowo Krajeńskie"/>
+	<stacja t="ST" nazwa="Runowo Pomorskie"/>
+	<stacja t="POGP" nazwa="Rurka"/>
+	<stacja t="PODS" nazwa="Rusinowice"/>
+	<stacja t="ST" nazwa="Ruskie Piaski" idAtlas="2746" lat="23.0955833333333" lon="50.8065277777778"/>
+	<stacja t="ST" nazwa="Ruszów" idAtlas="943" lat="15.1765833333333" lon="51.401"/>
+	<stacja t="PO" nazwa="Rutkowice"/>
+	<stacja t="PO" nazwa="Rutwica"/>
+	<stacja t="PO" nazwa="Rybienko"/>
+	<stacja t="MPO" nazwa="Rybnica" idAtlas="945" lat="15.6456666666667" lon="50.9105"/>
+	<stacja t="ST" nazwa="Rybnik"/>
+	<stacja t="ST" nazwa="Rybnik Gotartowice"/>
+	<stacja t="PO" nazwa="Rybnik Niedobczyce"/>
+	<stacja t="ST" nazwa="Rybnik Niewiadom"/>
+	<stacja t="PO" nazwa="Rybnik Paruszowiec"/>
+	<stacja t="PO" nazwa="Rybnik Piaski"/>
+	<stacja t="PO" nazwa="Rybnik Rymer"/>
+	<stacja t="ST" nazwa="Rybnik Towarowy"/>
+	<stacja t="ST" nazwa="Rybno Pomorskie"/>
+	<stacja t="PO" nazwa="Rycerka" idAtlas="1742" lat="19.0816111111111" lon="49.4982777777778"/>
+	<stacja t="PO" nazwa="Rychnowo Wielkie"/>
+	<stacja t="PO" nazwa="Ryczów" idAtlas="2082" lat="19.5400833333333" lon="49.98925"/>
+	<stacja t="ST" nazwa="Rydułtowy"/>
+	<stacja t="POGP" nazwa="Rydzyna"/>
+	<stacja t="ST" nazwa="Ryjewo"/>
+	<stacja t="LPO" nazwa="Ryki"/>
+	<stacja t="ST" nazwa="Rykoszyn" idAtlas="2628" lat="20.3787777777778" lon="50.8681666666667"/>
+	<stacja t="PO" nazwa="Rynarcice" idAtlas="946" lat="16.2275833333333" lon="51.4730555555556"/>
+	<stacja t="LPO" nazwa="Rynarzewo"/>
+	<stacja t="PODS" nazwa="Rynkowo"/>
+	<stacja t="PO" nazwa="Rynkowo Wiadukt"/>
+	<stacja t="ST" nazwa="Rytel"/>
+	<stacja t="PO" nazwa="Rytel Wieś"/>
+	<stacja t="ST" nazwa="Rytro" idAtlas="2083" lat="20.68025" lon="49.4865"/>
+	<stacja t="MLP" nazwa="Rząsawa"/>
+	<stacja t="ST" nazwa="Rzeczyca" idAtlas="2747" lat="22.20825" lon="50.8398333333333"/>
+	<stacja t="PO" nazwa="Rzeczyca-Kolonia"/>
+	<stacja t="PO" nazwa="Rzeczyce Śląskie"/>
+	<stacja t="PO" nazwa="Rzemień" idAtlas="2395" lat="21.5061388888889" lon="50.2169444444444"/>
+	<stacja t="PO" nazwa="Rzepedź" idAtlas="2397" lat="22.1119444444444" lon="49.3717222222222"/>
+	<stacja t="ST" nazwa="Rzepin" idAtlas="318" lat="14.8153055555556" lon="52.3499166666667"/>
+	<stacja t="PO" nazwa="Rzerzęczyce"/>
+	<stacja t="PO" nazwa="Rzeszotary" idAtlas="947" lat="16.1661388888889" lon="51.2502222222222"/>
+	<stacja t="ST" nazwa="Rzeszów Główny" idAtlas="2401" lat="22.0068611111111" lon="50.0431666666667"/>
+	<stacja t="PO" nazwa="Rzeszów Osiedle" idAtlas="2402" lat="21.9773888888889" lon="50.0223333333333"/>
+	<stacja t="ST" nazwa="Rzeszów Staroniwa" idAtlas="2403" lat="21.9898888888889" lon="50.0388055555556"/>
+	<stacja t="PO" nazwa="Rzeszów Załęże" idAtlas="2405" lat="22.0693055555556" lon="50.0585555555556"/>
+	<stacja t="PO" nazwa="Rzeszów Zwięczyca" idAtlas="2406" lat="21.9572777777778" lon="50.0059722222222"/>
+	<stacja t="PO" nazwa="Rzezawa" idAtlas="2086" lat="20.5116666666667" lon="49.9843333333333"/>
+	<stacja t="PO" nazwa="Rzęśnica"/>
+	<stacja t="LPO" nazwa="Rzochów" idAtlas="2407" lat="21.4965277777778" lon="50.2383333333333"/>
+	<stacja t="PO" nazwa="Rzozów" idAtlas="2087" lat="19.8043888888889" lon="49.9455"/>
+	<stacja t="PO" nazwa="Sabinka"/>
+	<stacja t="ST" nazwa="Sadlinki"/>
+	<stacja t="PO" nazwa="Sadowice Wrocławskie" idAtlas="948" lat="16.8250833333333" lon="51.0561944444444"/>
+	<stacja t="ST" nazwa="Sadowne Węgrowskie"/>
+	<stacja t="ST" nazwa="Sadurki"/>
+	<stacja t="ST" nazwa="Samborowo"/>
+	<stacja t="PGLP" nazwa="Samostrzel"/>
+	<stacja t="ST" nazwa="Sandomierz" idAtlas="2631" lat="21.7651666666667" lon="50.6598055555556"/>
+	<stacja t="ST" nazwa="Sanok" idAtlas="2408" lat="22.2108611111111" lon="49.5531388888889"/>
+	<stacja t="PO" nazwa="Sanok Dąbrówka" idAtlas="2409" lat="22.1586666666667" lon="49.5690555555556"/>
+	<stacja t="PO" nazwa="Sanok Miasto" idAtlas="2410" lat="22.1979722222222" lon="49.5562777777778"/>
+	<stacja t="PGLP" nazwa="Santok" idAtlas="322" lat="15.4157222222222" lon="52.7434166666667"/>
+	<stacja t="PO" nazwa="Sarbiewo" idAtlas="323" lat="15.5467222222222" lon="52.8198333333333"/>
+	<stacja t="PO" nazwa="Sarnaki"/>
+	<stacja t="PO" nazwa="Sarnów"/>
+	<stacja t="PO" nazwa="Sątopy"/>
+	<stacja t="ST" nazwa="Sątopy-Samulewo"/>
+	<stacja t="ST" nazwa="Serock"/>
+	<stacja t="PO" nazwa="Seroki"/>
+	<stacja t="ST" nazwa="Sędzice"/>
+	<stacja t="ST" nazwa="Sędzisław" idAtlas="953" lat="16.0699444444444" lon="50.8134166666667"/>
+	<stacja t="ST" nazwa="Sędziszów" idAtlas="2633" lat="20.0532222222222" lon="50.5651388888889"/>
+	<stacja t="ST" nazwa="Sędziszów Małopolski" idAtlas="2411" lat="21.6949722222222" lon="50.07525"/>
+	<stacja t="LPO" nazwa="Sępólno Krajeńskie"/>
+	<stacja t="ST" nazwa="Sidra"/>
+	<stacja t="ST" nazwa="Siechnice" idAtlas="955" lat="17.1440555555556" lon="51.0383611111111"/>
+	<stacja t="ST" nazwa="Siedlce"/>
+	<stacja t="PO" nazwa="Siedlce Wschodnie"/>
+	<stacja t="PO" nazwa="Siedlce Zachodnie"/>
+	<stacja t="PO" nazwa="Siedlęcin" idAtlas="956" lat="15.6894166666667" lon="50.9440277777778"/>
+	<stacja t="PO" nazwa="Siedliska" idAtlas="2749" lat="23.1482222222222" lon="50.7296666666667"/>
+	<stacja t="MPO" nazwa="Siedliska koło Tuchowa"/>
+	<stacja t="PO" nazwa="Siedliska Tomaszowskie" idAtlas="2750" lat="23.5545555555556" lon="50.2615555555556"/>
+	<stacja t="PO" nazwa="Siedlisko Czarnkowskie"/>
+	<stacja t="ST" nazwa="Siemianówka"/>
+	<stacja t="ST" nazwa="Siemiatycze"/>
+	<stacja t="ST" nazwa="Sieniawa" idAtlas="2089" lat="19.9233333333333" lon="49.539"/>
+	<stacja t="POGP" nazwa="Sieniawa Żarska" idAtlas="326" lat="15.06225" lon="51.6365555555556"/>
+	<stacja t="PO" nazwa="Siepietnica" idAtlas="2414" lat="21.2980555555556" lon="49.7551666666667"/>
+	<stacja t="ST" nazwa="Sieradz"/>
+	<stacja t="PO" nazwa="Sieradz Męka"/>
+	<stacja t="PO" nazwa="Sieradz Warta"/>
+	<stacja t="PO" nazwa="Sierakowice Skierniewickie"/>
+	<stacja t="ST" nazwa="Sieraków Śląski"/>
+	<stacja t="ST" nazwa="Sierakówek"/>
+	<stacja t="ST" nazwa="Sierpc"/>
+	<stacja t="PO" nazwa="Sierpów"/>
+	<stacja t="ST" nazwa="Silno"/>
+	<stacja t="PO" nazwa="Silnowo"/>
+	<stacja t="PO" nazwa="Sińczyca"/>
+	<stacja t="PO" nazwa="Siódmak"/>
+	<stacja t="ST" nazwa="Sitkówka Nowiny" idAtlas="2637" lat="20.5512222222222" lon="50.8182777777778"/>
+	<stacja t="PO" nazwa="Sitno"/>
+	<stacja t="PO" nazwa="Sitowa"/>
+	<stacja t="PO" nazwa="Skalmierz"/>
+	<stacja t="PO" nazwa="Skarżysko Kościelne" idAtlas="2642" lat="20.9176666666667" lon="51.1221666666667"/>
+	<stacja t="PO" nazwa="Skarżysko Milica" idAtlas="2643" lat="20.8508888888889" lon="51.1081666666667"/>
+	<stacja t="PO" nazwa="Skarżysko Zachodnie" idAtlas="2645" lat="20.8596944444444" lon="51.1005555555556"/>
+	<stacja t="ST" nazwa="Skarżysko-Kamienna"/>
+	<stacja t="MPO" nazwa="Skawa" idAtlas="2090" lat="19.8811111111111" lon="49.6306666666667"/>
+	<stacja t="PO" nazwa="Skawa Środkowa"/>
+	<stacja t="ST" nazwa="Skawina" idAtlas="2094" lat="19.8218055555556" lon="49.9771666666667"/>
+	<stacja t="PO" nazwa="Skawina Zachodnia" idAtlas="2096" lat="19.7994444444444" lon="49.9730277777778"/>
+	<stacja t="ST" nazwa="Skępe"/>
+	<stacja t="ST" nazwa="Skibno"/>
+	<stacja t="ST" nazwa="Skierniewice"/>
+	<stacja t="PO" nazwa="Skierniewice Rawka"/>
+	<stacja t="PO" nazwa="Sklęczki"/>
+	<stacja t="ST" nazwa="Skoczów" idAtlas="1744" lat="18.7901388888889" lon="49.7934444444444"/>
+	<stacja t="PO" nazwa="Skoczów Bładnice" idAtlas="1745" lat="18.7786111111111" lon="49.7715277777778"/>
+	<stacja t="LPO" nazwa="Skoki"/>
+	<stacja t="ST" nazwa="Skokowa" idAtlas="959" lat="16.8489166666667" lon="51.3870277777778"/>
+	<stacja t="ST" nazwa="Skołyszyn" idAtlas="2416" lat="21.3402777777778" lon="49.7450833333333"/>
+	<stacja t="LPO" nazwa="Skomack Wielki"/>
+	<stacja t="LPO" nazwa="Skopanie" idAtlas="2417" lat="21.5766388888889" lon="50.4755"/>
+	<stacja t="PO" nazwa="Skoroszyce" idAtlas="1610" lat="17.3750555555556" lon="50.5934444444444"/>
+	<stacja t="PO" nazwa="Skorzewo"/>
+	<stacja t="PO" nazwa="Skowarcz"/>
+	<stacja t="PO" nazwa="Skórka"/>
+	<stacja t="PO" nazwa="Skrzydlna" idAtlas="2098" lat="20.1841388888889" lon="49.7273611111111"/>
+	<stacja t="ST" nazwa="Skrzynki"/>
+	<stacja t="PO" nazwa="Skrzynno"/>
+	<stacja t="ST" nazwa="Skwierzyna" idAtlas="328" lat="15.4997222222222" lon="52.5904444444444"/>
+	<stacja t="ST" nazwa="Sława Wielkopolska"/>
+	<stacja t="ST" nazwa="Sławięcice" idAtlas="1611" lat="18.3144444444444" lon="50.3515"/>
+	<stacja t="PO" nazwa="Sławki"/>
+	<stacja t="ST" nazwa="Sławków"/>
+	<stacja t="ST" nazwa="Sławno"/>
+	<stacja t="PO" nazwa="Słomianka"/>
+	<stacja t="ST" nazwa="Słomniki" idAtlas="2100" lat="20.0641111111111" lon="50.2483055555556"/>
+	<stacja t="PO" nazwa="Słomniki Miasto" idAtlas="2101" lat="20.0768611111111" lon="50.2356111111111"/>
+	<stacja t="ST" nazwa="Słonice"/>
+	<stacja t="LPO" nazwa="Słonowice"/>
+	<stacja t="LPO" nazwa="Słosinko"/>
+	<stacja t="ST" nazwa="Słotwiny"/>
+	<stacja t="PO" nazwa="Słowienkowo"/>
+	<stacja t="PO" nazwa="Słubice" idAtlas="335" lat="14.5953611111111" lon="52.3360833333333"/>
+	<stacja t="PO" nazwa="Słupca"/>
+	<stacja t="PO" nazwa="Słupia"/>
+	<stacja t="ST" nazwa="Słupsk"/>
+	<stacja t="PO" nazwa="Smardy" idAtlas="1614" lat="18.1456111111111" lon="50.9918888888889"/>
+	<stacja t="PO" nazwa="Smardzew"/>
+	<stacja t="ST" nazwa="Smardzów Wrocławski" idAtlas="966" lat="17.0660555555556" lon="51.0298888888889"/>
+	<stacja t="ST" nazwa="Smętowo"/>
+	<stacja t="PO" nazwa="Smogorzów Przysuski"/>
+	<stacja t="POGP" nazwa="Smolec" idAtlas="967" lat="16.8816388888889" lon="51.0715277777778"/>
+	<stacja t="PO" nazwa="Smolniki"/>
+	<stacja t="PO" nazwa="Smroków" idAtlas="2102" lat="20.0475555555556" lon="50.2736666666667"/>
+	<stacja t="LPO" nazwa="Sobibór"/>
+	<stacja t="ST" nazwa="Sobków" idAtlas="2649" lat="20.4305555555556" lon="50.7318888888889"/>
+	<stacja t="ST" nazwa="Sobolew"/>
+	<stacja t="ST" nazwa="Sobów" idAtlas="2422" lat="21.7392222222222" lon="50.5956666666667"/>
+	<stacja t="ST" nazwa="Sochaczew"/>
+	<stacja t="PO" nazwa="Sokole Białostockie"/>
+	<stacja t="PO" nazwa="Sokoliniec"/>
+	<stacja t="PO" nazwa="Sokołowo Budzyńskie"/>
+	<stacja t="ST" nazwa="Sokoły"/>
+	<stacja t="ST" nazwa="Sokółka"/>
+	<stacja t="POGP" nazwa="Sokule"/>
+	<stacja t="ST" nazwa="Solec Kujawski"/>
+	<stacja t="PO" nazwa="Solec Wielkopolski" idAtlas="1356" lat="17.3196944444444" lon="52.1095"/>
+	<stacja t="PO" nazwa="Solniki Wielkie" idAtlas="972" lat="17.4935" lon="51.1541111111111"/>
+	<stacja t="PO" nazwa="Sołtyków" idAtlas="2650" lat="20.691" lon="51.138"/>
+	<stacja t="ST" nazwa="Somonino"/>
+	<stacja t="ST" nazwa="Sopot"/>
+	<stacja t="PO" nazwa="Sosnowe"/>
+	<stacja t="ST" nazwa="Sosnowiec Dańdówka"/>
+	<stacja t="ST" nazwa="Sosnowiec Główny"/>
+	<stacja t="ST" nazwa="Sosnowiec Kazimierz"/>
+	<stacja t="ST" nazwa="Sosnowiec Maczki"/>
+	<stacja t="ST" nazwa="Sosnowiec Południowy"/>
+	<stacja t="PO" nazwa="Sosnowiec Porąbka"/>
+	<stacja t="PO" nazwa="Sośnica Jarosławska" idAtlas="2424" lat="22.8519166666667" lon="49.9006666666667"/>
+	<stacja t="ST" nazwa="Sośnie Ostrowskie" idAtlas="1357" lat="17.6394444444444" lon="51.4711944444444"/>
+	<stacja t="ST" nazwa="Sowczyce" idAtlas="1617" lat="18.5003611111111" lon="50.8464444444444"/>
+	<stacja t="PO" nazwa="Sowin" idAtlas="1618" lat="17.6089166666667" lon="50.5553333333333"/>
+	<stacja t="ST" nazwa="Sól" idAtlas="1747" lat="19.0511666666667" lon="49.4938055555556"/>
+	<stacja t="PO" nazwa="Sól Kiczora" idAtlas="1748" lat="19.0315" lon="49.5169444444444"/>
+	<stacja t="ST" nazwa="Spała"/>
+	<stacja t="PO" nazwa="Spławie"/>
+	<stacja t="LPO" nazwa="Spychowo"/>
+	<stacja t="ST" nazwa="Spytkowice" idAtlas="2103" lat="19.4773611111111" lon="49.9951111111111"/>
+	<stacja t="PO" nazwa="Spytkowice Kępki" idAtlas="2104" lat="19.5220277777778" lon="49.9993055555556"/>
+	<stacja t="PO" nazwa="Stalowa Wola" idAtlas="2427" lat="22.0609444444444" lon="50.5623611111111"/>
+	<stacja t="PO" nazwa="Stalowa Wola Centrum" idAtlas="2428" lat="22.0550277777778" lon="50.5702777777778"/>
+	<stacja t="ST" nazwa="Stalowa Wola Południe" idAtlas="2429" lat="22.0791666666667" lon="50.5446666666667"/>
+	<stacja t="ST" nazwa="Stalowa Wola Rozwadów" idAtlas="2430" lat="22.0418611111111" lon="50.5914166666667"/>
+	<stacja t="PO" nazwa="Staniątki" idAtlas="2106" lat="20.2083888888889" lon="50.0106666666667"/>
+	<stacja t="PO" nazwa="Stanisławice" idAtlas="2108" lat="20.3549722222222" lon="49.9918611111111"/>
+	<stacja t="PO" nazwa="Staniszcze Małe" idAtlas="1620" lat="18.3181388888889" lon="50.6645"/>
+	<stacja t="PO" nazwa="Stanowice" idAtlas="977" lat="16.3748333333333" lon="50.9299722222222"/>
+	<stacja t="ST" nazwa="Stara Kamienica" idAtlas="979" lat="15.5664166666667" lon="50.9139444444444"/>
+	<stacja t="ST" nazwa="Stara Łubianka"/>
+	<stacja t="PO" nazwa="Stara Wieś"/>
+	<stacja t="PO" nazwa="Starachowice" idAtlas="2652" lat="21.0586944444444" lon="51.05125"/>
+	<stacja t="PO" nazwa="Starachowice Michałów" idAtlas="2653" lat="21.1071388888889" lon="51.0152222222222"/>
+	<stacja t="ST" nazwa="Starachowice Wschodnie" idAtlas="2654" lat="21.0790555555556" lon="51.0416944444444"/>
+	<stacja t="MPO" nazwa="Starczów" idAtlas="981" lat="16.9471666666667" lon="50.5641666666667"/>
+	<stacja t="PO" nazwa="Stare Bielice" idAtlas="345" lat="15.9236111111111" lon="52.8535277777778"/>
+	<stacja t="ST" nazwa="Stare Bojanowo"/>
+	<stacja t="ST" nazwa="Stare Drzewce" idAtlas="346" lat="16.1954166666667" lon="51.7765555555556"/>
+	<stacja t="PO" nazwa="Stare Guty"/>
+	<stacja t="ST" nazwa="Stare Jabłonki"/>
+	<stacja t="ST" nazwa="Stare Juchy"/>
+	<stacja t="ST" nazwa="Stare Kurowo" idAtlas="347" lat="15.6786388888889" lon="52.8545277777778"/>
+	<stacja t="POGP" nazwa="Stare Olesno" idAtlas="1623" lat="18.3754444444444" lon="50.9152777777778"/>
+	<stacja t="ST" nazwa="Stare Pole"/>
+	<stacja t="ST" nazwa="Stargard"/>
+	<stacja t="PO" nazwa="Starkowo" idAtlas="1361" lat="16.3123055555556" lon="51.979"/>
+	<stacja t="ST" nazwa="Starogard Gdański"/>
+	<stacja t="PO" nazwa="Staropole Częstochowskie"/>
+	<stacja t="PO" nazwa="Stary Borek"/>
+	<stacja t="ST" nazwa="Stary Garbów" idAtlas="2655" lat="21.7502222222222" lon="50.7639722222222"/>
+	<stacja t="PO" nazwa="Stary Grodków" idAtlas="1624" lat="17.3776388888889" lon="50.6503333333333"/>
+	<stacja t="PO" nazwa="Stary Jawor" idAtlas="984" lat="16.161" lon="51.0791666666667"/>
+	<stacja t="PO" nazwa="Stary Kisielin" idAtlas="350" lat="15.59025" lon="51.9363888888889"/>
+	<stacja t="POGP" nazwa="Stary Klukom"/>
+	<stacja t="ST" nazwa="Stary Sącz" idAtlas="2111" lat="20.6433888888889" lon="49.5590555555556"/>
+	<stacja t="PO" nazwa="Stary Węgliniec" idAtlas="985" lat="15.1953888888889" lon="51.3073611111111"/>
+	<stacja t="PO" nazwa="Stary Wielisław" idAtlas="986" lat="16.5761388888889" lon="50.4051666666667"/>
+	<stacja t="PO" nazwa="Stasin Polny"/>
+	<stacja t="ST" nazwa="Staszów" idAtlas="2657" lat="21.1580555555556" lon="50.5516111111111"/>
+	<stacja t="PO" nazwa="Staw Kunowski" idAtlas="2662" lat="21.2452222222222" lon="51.0055"/>
+	<stacja t="PO" nazwa="Stawiguda"/>
+	<stacja t="PO" nazwa="Stawno"/>
+	<stacja t="ST" nazwa="Stawy"/>
+	<stacja t="ST" nazwa="Stąporków" idAtlas="2651" lat="20.5748333333333" lon="51.1433611111111"/>
+	<stacja t="ST" nazwa="Stefanowo" idAtlas="1363" lat="15.972" lon="52.2361944444444"/>
+	<stacja t="PO" nazwa="Steknica"/>
+	<stacja t="PO" nazwa="Sterkowiec" idAtlas="2112" lat="20.6800277777778" lon="49.9941666666667"/>
+	<stacja t="PO" nazwa="Sterławki Małe"/>
+	<stacja t="ST" nazwa="Sterławki Wielkie"/>
+	<stacja t="ST" nazwa="Stęszew" idAtlas="1364" lat="16.7096111111111" lon="52.28025"/>
+	<stacja t="PO" nazwa="Stobno"/>
+	<stacja t="ST" nazwa="Stobno Szczecińskie"/>
+	<stacja t="PO" nazwa="Stogi Malborskie"/>
+	<stacja t="PO" nazwa="Stok Lacki"/>
+	<stacja t="ST" nazwa="Strabla"/>
+	<stacja t="PO" nazwa="Stramnica"/>
+	<stacja t="ST" nazwa="Strażów" idAtlas="2433" lat="22.1157222222222" lon="50.0676944444444"/>
+	<stacja t="PO" nazwa="Strączno"/>
+	<stacja t="ST" nazwa="Stronie" idAtlas="2113" lat="19.67" lon="49.8335833333333"/>
+	<stacja t="PO" nazwa="Stronno"/>
+	<stacja t="ST" nazwa="Stróże" idAtlas="2114" lat="20.9766388888889" lon="49.6543333333333"/>
+	<stacja t="ST" nazwa="Strumień" idAtlas="1751" lat="18.75275" lon="49.9120833333333"/>
+	<stacja t="PO" nazwa="Strykowo Poznańskie" idAtlas="1366" lat="16.6139166666667" lon="52.2435555555556"/>
+	<stacja t="ST" nazwa="Stryków"/>
+	<stacja t="PO" nazwa="Stryszawa" idAtlas="2117" lat="19.5261111111111" lon="49.734"/>
+	<stacja t="ST" nazwa="Stryszów" idAtlas="2118" lat="19.6221666666667" lon="49.8255833333333"/>
+	<stacja t="ST" nazwa="Strzałkowo"/>
+	<stacja t="PO" nazwa="Strzebielewo Pyrzyckie"/>
+	<stacja t="ST" nazwa="Strzebielino Morskie"/>
+	<stacja t="PO" nazwa="Strzebiń"/>
+	<stacja t="ST" nazwa="Strzegom" idAtlas="992" lat="16.3589444444444" lon="50.9745555555556"/>
+	<stacja t="ST" nazwa="Strzelce Krajeńskie Wschód" idAtlas="358" lat="15.5844722222222" lon="52.83675"/>
+	<stacja t="ST" nazwa="Strzelce Kujawskie"/>
+	<stacja t="ST" nazwa="Strzelce Opolskie" idAtlas="1627" lat="18.3066666666667" lon="50.5166666666667"/>
+	<stacja t="ST" nazwa="Strzelin" idAtlas="996" lat="17.0603333333333" lon="50.7846944444444"/>
+	<stacja t="PO" nazwa="Strzelinko"/>
+	<stacja t="ST" nazwa="Strzyżów nad Wisłokiem"/>
+	<stacja t="MPO" nazwa="Strzyżyna"/>
+	<stacja t="PO" nazwa="Strzyżyno Słupskie"/>
+	<stacja t="PO" nazwa="Studzianka" idAtlas="999" lat="15.695" lon="51.4271388888889"/>
+	<stacja t="PO" nazwa="Studzianki Nowe"/>
+	<stacja t="PO" nazwa="Studzienki"/>
+	<stacja t="PO" nazwa="Stulno"/>
+	<stacja t="PO" nazwa="Stupsk Mazowiecki"/>
+	<stacja t="PO" nazwa="Styków Iłżecki" idAtlas="2665" lat="21.1527222222222" lon="51.01075"/>
+	<stacja t="ST" nazwa="Subkowy"/>
+	<stacja t="ST" nazwa="Sucha Beskidzka" idAtlas="2120" lat="19.5805" lon="49.7405833333333"/>
+	<stacja t="POGP" nazwa="Sucha Beskidzka Zamek"/>
+	<stacja t="PO" nazwa="Sucha Żyrardowska"/>
+	<stacja t="PO" nazwa="Suchatówka"/>
+	<stacja t="ST" nazwa="Suchedniów" idAtlas="2666" lat="20.8499444444444" lon="51.0454166666667"/>
+	<stacja t="PODS" nazwa="Suchedniów Północny" idAtlas="2667" lat="20.8494722222222" lon="51.0669722222222"/>
+	<stacja t="PO" nazwa="Suchowolce"/>
+	<stacja t="PO" nazwa="Suchy Bór Opolski" idAtlas="1629" lat="18.0355833333333" lon="50.6573055555556"/>
+	<stacja t="ST" nazwa="Sulechów" idAtlas="363" lat="15.6186666666667" lon="52.0926944444444"/>
+	<stacja t="PO" nazwa="Sulejówek"/>
+	<stacja t="ST" nazwa="Sulejówek Miłosna"/>
+	<stacja t="ST" nazwa="Sulęcinek" idAtlas="1367" lat="17.3088333333333" lon="52.1387777777778"/>
+	<stacja t="PO" nazwa="Sulino"/>
+	<stacja t="PO" nazwa="Suliszewo Drawskie"/>
+	<stacja t="PO" nazwa="Sulów" idAtlas="2751" lat="22.3315277777778" lon="50.9022222222222"/>
+	<stacja t="PO" nazwa="Sułkowice"/>
+	<stacja t="ST" nazwa="Sumina"/>
+	<stacja t="PO" nazwa="Sumina Wieś"/>
+	<stacja t="PO" nazwa="Surochów" idAtlas="2435" lat="22.769" lon="50.0128333333333"/>
+	<stacja t="ST" nazwa="Susiec" idAtlas="2752" lat="23.2261666666667" lon="50.4161944444444"/>
+	<stacja t="PO" nazwa="Susk"/>
+	<stacja t="ST" nazwa="Susz"/>
+	<stacja t="ST" nazwa="Suszec"/>
+	<stacja t="PO" nazwa="Suszec Kopalnia"/>
+	<stacja t="PO" nazwa="Suszec Rudziczka"/>
+	<stacja t="PO" nazwa="Suszka" idAtlas="1001" lat="16.8235555555556" lon="50.5307222222222"/>
+	<stacja t="ST" nazwa="Suwałki"/>
+	<stacja t="ST" nazwa="Swarożyn"/>
+	<stacja t="PO" nazwa="Swarzewo"/>
+	<stacja t="ST" nazwa="Swarzędz"/>
+	<stacja t="PO" nazwa="Swędów"/>
+	<stacja t="PO" nazwa="Swobodna"/>
+	<stacja t="PO" nazwa="Sycewice"/>
+	<stacja t="PO" nazwa="Sycze"/>
+	<stacja t="PO" nazwa="Szachy"/>
+	<stacja t="ST" nazwa="Szadek"/>
+	<stacja t="PO" nazwa="Szadkowice"/>
+	<stacja t="ST" nazwa="Szaflary" idAtlas="2122" lat="20.0175" lon="49.4394166666667"/>
+	<stacja t="PO" nazwa="Szaflary Wieś" idAtlas="2123" lat="20.019" lon="49.4234722222222"/>
+	<stacja t="PO" nazwa="Szalowa" idAtlas="2124" lat="21.0235833333333" lon="49.6792777777778"/>
+	<stacja t="PO" nazwa="Szałamaje"/>
+	<stacja t="ST" nazwa="Szamotuły"/>
+	<stacja t="POGP" nazwa="Szaniawy"/>
+	<stacja t="PO" nazwa="Szarów" idAtlas="2125" lat="20.2571944444444" lon="50.0093888888889"/>
+	<stacja t="ST" nazwa="Szastarka" idAtlas="2753" lat="22.3318888888889" lon="50.8533611111111"/>
+	<stacja t="ST" nazwa="Szczaniec" idAtlas="367" lat="15.6935555555556" lon="52.2643888888889"/>
+	<stacja t="ST" nazwa="Szczawne Kulaszne" idAtlas="2438" lat="22.1429722222222" lon="49.40725"/>
+	<stacja t="ST" nazwa="Szczebrzeszyn" idAtlas="2754" lat="22.9725555555556" lon="50.6706111111111"/>
+	<stacja t="ST" nazwa="Szczecin Dąbie"/>
+	<stacja t="ST" nazwa="Szczecin Główny"/>
+	<stacja t="ST" nazwa="Szczecin Gumieńce"/>
+	<stacja t="ST" nazwa="Szczecin Podjuchy"/>
+	<stacja t="ST" nazwa="Szczecin Port Centralny"/>
+	<stacja t="PO" nazwa="Szczecin Załom"/>
+	<stacja t="PO" nazwa="Szczecin Zdroje"/>
+	<stacja t="PO" nazwa="Szczecin Zdunowo"/>
+	<stacja t="ST" nazwa="Szczecinek"/>
+	<stacja t="PO" nazwa="Szczecinek Chyże"/>
+	<stacja t="POGP" nazwa="Szczedrzykowice" idAtlas="1005" lat="16.3518055555556" lon="51.2151666666667"/>
+	<stacja t="PODS" nazwa="Szczejkowice"/>
+	<stacja t="PO" nazwa="Szczepanowice" idAtlas="2127" lat="20.0246666666667" lon="50.3011388888889"/>
+	<stacja t="PO" nazwa="Szczepice"/>
+	<stacja t="PO" nazwa="Szczepki"/>
+	<stacja t="LPO" nazwa="Szczutowo"/>
+	<stacja t="LPO" nazwa="Szczytna" idAtlas="1008" lat="16.4497777777778" lon="50.4083055555556"/>
+	<stacja t="ST" nazwa="Szczytno"/>
+	<stacja t="PO" nazwa="Szebnie" idAtlas="2439" lat="21.6133888888889" lon="49.7556111111111"/>
+	<stacja t="ST" nazwa="Szepietowo"/>
+	<stacja t="LPO" nazwa="Szeroki Bór"/>
+	<stacja t="PO" nazwa="Szewce" idAtlas="1010" lat="16.9551666666667" lon="51.2149166666667"/>
+	<stacja t="PO" nazwa="Szewnica"/>
+	<stacja t="PO" nazwa="Szklarska Poręba Dolna" idAtlas="1011" lat="15.5573055555556" lon="50.8486388888889"/>
+	<stacja t="ST" nazwa="Szklarska Poręba Górna" idAtlas="1012" lat="15.51875" lon="50.8326666666667"/>
+	<stacja t="PO" nazwa="Szklarska Poręba Średnia"/>
+	<stacja t="ST" nazwa="Szlachta"/>
+	<stacja t="PO" nazwa="Szozdy" idAtlas="2756" lat="22.9378055555556" lon="50.5781666666667"/>
+	<stacja t="PO" nazwa="Szpęgawsk"/>
+	<stacja t="ST" nazwa="Szreniawa" idAtlas="1371" lat="16.7992222222222" lon="52.3174722222222"/>
+	<stacja t="ST" nazwa="Sztum"/>
+	<stacja t="PO" nazwa="Sztumska Wieś"/>
+	<stacja t="LPO" nazwa="Szubin"/>
+	<stacja t="PO" nazwa="Szulborze-Koty"/>
+	<stacja t="PO" nazwa="Szybowice" idAtlas="1633" lat="17.4802222222222" lon="50.3448055555556"/>
+	<stacja t="ST" nazwa="Szydłowiec"/>
+	<stacja t="LPO" nazwa="Szydłowo Krajeńskie"/>
+	<stacja t="ST" nazwa="Szydłów" idAtlas="1634" lat="17.7050555555556" lon="50.6060555555556"/>
+	<stacja t="ST" nazwa="Szymankowo"/>
+	<stacja t="ST" nazwa="Szymany"/>
+	<stacja t="PO" nazwa="Szymany Lotnisko"/>
+	<stacja t="PO" nazwa="Szymbory"/>
+	<stacja t="ST" nazwa="Szymiszów" idAtlas="1636" lat="18.2237222222222" lon="50.5284166666667"/>
+	<stacja t="PODS" nazwa="Szymocice"/>
+	<stacja t="ST" nazwa="Ścinawa"/>
+	<stacja t="ST" nazwa="Ścinawka Średnia"/>
+	<stacja t="PO" nazwa="Ślesin"/>
+	<stacja t="LPO" nazwa="Śliwice"/>
+	<stacja t="PO" nazwa="Śliwiczki"/>
+	<stacja t="PGLP" nazwa="Środa Śląska"/>
+	<stacja t="ST" nazwa="Środa Wielkopolska"/>
+	<stacja t="PO" nazwa="Śródborów"/>
+	<stacja t="PO" nazwa="Świba"/>
+	<stacja t="PO" nazwa="Świder"/>
+	<stacja t="ST" nazwa="Świdnica Miasto"/>
+	<stacja t="PO" nazwa="Świdnik Miasto"/>
+	<stacja t="PO" nazwa="Świdnik Wschód"/>
+	<stacja t="PO" nazwa="Świdwie Sępoleńskie"/>
+	<stacja t="ST" nazwa="Świdwin"/>
+	<stacja t="ST" nazwa="Świebodzice"/>
+	<stacja t="ST" nazwa="Świebodzin"/>
+	<stacja t="PO" nazwa="Świekatowo"/>
+	<stacja t="POGP" nazwa="Świercze"/>
+	<stacja t="PO" nazwa="Świerki Dolne"/>
+	<stacja t="ST" nazwa="Święta Katarzyna"/>
+	<stacja t="PO" nazwa="Świętajno"/>
+	<stacja t="PO" nazwa="Świętochłowice"/>
+	<stacja t="PO" nazwa="Świlcza"/>
+	<stacja t="ST" nazwa="Świnoujście"/>
+	<stacja t="PO" nazwa="Świnoujście Port"/>
+	<stacja t="PO" nazwa="Świnoujście Przytór"/>
+	<stacja t="PO" nazwa="Świnoujście Warszów"/>
+	<stacja t="ST" nazwa="Taciszów"/>
+	<stacja t="POGP" nazwa="Taczanów"/>
+	<stacja t="PO" nazwa="Tarchały Wielkie" idAtlas="1373" lat="17.7025" lon="51.5873611111111"/>
+	<stacja t="ST" nazwa="Targowiska" idAtlas="2442" lat="21.8218055555556" lon="49.6495555555556"/>
+	<stacja t="PO" nazwa="Tarło"/>
+	<stacja t="PO" nazwa="Tarnawa Dolna" idAtlas="2443" lat="22.26" lon="49.47975"/>
+	<stacja t="ST" nazwa="Tarnobrzeg" idAtlas="2445" lat="21.6962222222222" lon="50.5679444444444"/>
+	<stacja t="ST" nazwa="Tarnowiec" idAtlas="2446" lat="21.5776944444444" lon="49.73625"/>
+	<stacja t="PO" nazwa="Tarnowiec Brzeski" idAtlas="1637" lat="17.6526944444444" lon="50.9134444444444"/>
+	<stacja t="MPO" nazwa="Tarnowo Pomorskie"/>
+	<stacja t="PO" nazwa="Tarnowo Rogozińskie"/>
+	<stacja t="PO" nazwa="Tarnowska Wola" idAtlas="2447" lat="21.7356111111111" lon="50.4517222222222"/>
+	<stacja t="ST" nazwa="Tarnowskie Góry"/>
+	<stacja t="ST" nazwa="Tarnów" idAtlas="2132" lat="20.9743611111111" lon="50.0053888888889"/>
+	<stacja t="ST" nazwa="Tarnów Mościce" idAtlas="2135" lat="20.9252777777778" lon="50.0064722222222"/>
+	<stacja t="ST" nazwa="Tarnów Opolski" idAtlas="1638" lat="18.0774166666667" lon="50.57225"/>
+	<stacja t="PO" nazwa="Tarzymiechy" idAtlas="2757" lat="23.1220833333333" lon="50.8547777777778"/>
+	<stacja t="ST" nazwa="Tczew"/>
+	<stacja t="ST" nazwa="Teresin Niepokalanów"/>
+	<stacja t="ST" nazwa="Terespol"/>
+	<stacja t="ST" nazwa="Terespol Pomorski"/>
+	<stacja t="PO" nazwa="Tereszpol Biłgorajski" idAtlas="2758" lat="22.8848611111111" lon="50.5741111111111"/>
+	<stacja t="PO" nazwa="Tleń"/>
+	<stacja t="PO" nazwa="Tłoki" idAtlas="1375" lat="16.1721111111111" lon="52.1160277777778"/>
+	<stacja t="ST" nazwa="Tłuszcz"/>
+	<stacja t="ST" nazwa="Tołkiny"/>
+	<stacja t="PO" nazwa="Tomaszów Bolesławiecki" idAtlas="1051" lat="15.68" lon="51.2860833333333"/>
+	<stacja t="ST" nazwa="Tomaszów Mazowiecki"/>
+	<stacja t="PO" nazwa="Tomaszów Mazowiecki Białobrzegi"/>
+	<stacja t="ST" nazwa="Topola-Osiedle"/>
+	<stacja t="ST" nazwa="Toporów" idAtlas="380" lat="15.2616666666667" lon="52.2602777777778"/>
+	<stacja t="PO" nazwa="Topór"/>
+	<stacja t="PO" nazwa="Toruń Czerniewice"/>
+	<stacja t="ST" nazwa="Toruń Główny"/>
+	<stacja t="PO" nazwa="Toruń Kluczyki"/>
+	<stacja t="ST" nazwa="Toruń Miasto"/>
+	<stacja t="ST" nazwa="Toruń Wschodni"/>
+	<stacja t="PGLP" nazwa="Torzym" idAtlas="381" lat="15.0581944444444" lon="52.3126944444444"/>
+	<stacja t="ST" nazwa="Toszek"/>
+	<stacja t="ST" nazwa="Trakiszki"/>
+	<stacja t="ST" nazwa="Trawniki"/>
+	<stacja t="ST" nazwa="Trąbki"/>
+	<stacja t="PO" nazwa="Troszyn"/>
+	<stacja t="MPO" nazwa="Tryńcza" idAtlas="2448" lat="22.5392222222222" lon="50.1364444444444"/>
+	<stacja t="PO" nazwa="Trypucie"/>
+	<stacja t="POGP" nazwa="Trzciana" idAtlas="2449" lat="21.8393055555556" lon="50.0786666666667"/>
+	<stacja t="ST" nazwa="Trzcianka"/>
+	<stacja t="ST" nazwa="Trzciniec"/>
+	<stacja t="PO" nazwa="Trzcińsko" idAtlas="1055" lat="15.8715" lon="50.8834444444444"/>
+	<stacja t="PO" nazwa="Trzebaw Rosnówko" idAtlas="1377" lat="16.76775" lon="52.2965833333333"/>
+	<stacja t="ST" nazwa="Trzebiatów"/>
+	<stacja t="ST" nazwa="Trzebinia" idAtlas="2142" lat="19.45375" lon="50.1539166666667"/>
+	<stacja t="PO" nazwa="Trzebiszewo" idAtlas="389" lat="15.4056944444444" lon="52.6251111111111"/>
+	<stacja t="ST" nazwa="Trzemeszno"/>
+	<stacja t="ST" nazwa="Tuchola"/>
+	<stacja t="ST" nazwa="Tuchorza" idAtlas="1378" lat="16.0476111111111" lon="52.1676111111111"/>
+	<stacja t="ST" nazwa="Tuchów" idAtlas="2148" lat="21.0568333333333" lon="49.8919722222222"/>
+	<stacja t="PO" nazwa="Tuczki"/>
+	<stacja t="LPO" nazwa="Tuczno Krajeńskie"/>
+	<stacja t="PO" nazwa="Tułowice Niemodlińskie" idAtlas="1641" lat="17.6493055555556" lon="50.5981388888889"/>
+	<stacja t="PO" nazwa="Tuły" idAtlas="1642" lat="18.0999722222222" lon="50.8740555555556"/>
+	<stacja t="PO" nazwa="Tumlin" idAtlas="2672" lat="20.6022222222222" lon="50.9663611111111"/>
+	<stacja t="ST" nazwa="Tunel"/>
+	<stacja t="ST" nazwa="Tuplice" idAtlas="393" lat="14.8381944444444" lon="51.6715"/>
+	<stacja t="PO" nazwa="Tuplice Dębinka" idAtlas="395" lat="14.9097222222222" lon="51.6661666666667"/>
+	<stacja t="PO" nazwa="Turbia" idAtlas="2451" lat="21.9726111111111" lon="50.6178055555556"/>
+	<stacja t="MPO" nazwa="Turowo Pomorskie"/>
+	<stacja t="ST" nazwa="Turów"/>
+	<stacja t="PO" nazwa="Turza Wielka"/>
+	<stacja t="PGLP" nazwa="Turzno"/>
+	<stacja t="PO" nazwa="Turzno Kujawskie"/>
+	<stacja t="PO" nazwa="Turzynów"/>
+	<stacja t="PO" nazwa="Tuszów Narodowy" idAtlas="2452" lat="21.4586388888889" lon="50.3724722222222"/>
+	<stacja t="ST" nazwa="Twarda Góra"/>
+	<stacja t="ST" nazwa="Twardawa" idAtlas="1643" lat="17.9991666666667" lon="50.3471111111111"/>
+	<stacja t="ST" nazwa="Twardogóra Sycowska"/>
+	<stacja t="LPO" nazwa="Tworków"/>
+	<stacja t="ST" nazwa="Tychowo"/>
+	<stacja t="ST" nazwa="Tychy"/>
+	<stacja t="PO" nazwa="Tychy Aleja Bielska"/>
+	<stacja t="PO" nazwa="Tychy Grota Roweckiego"/>
+	<stacja t="PO" nazwa="Tychy Lodowisko"/>
+	<stacja t="PO" nazwa="Tychy Zachodnie"/>
+	<stacja t="PO" nazwa="Tychy Żwaków"/>
+	<stacja t="ST" nazwa="Tymbark" idAtlas="2149" lat="20.3197777777778" lon="49.7351111111111"/>
+	<stacja t="PO" nazwa="Tymień"/>
+	<stacja t="PO" nazwa="Ubocze" idAtlas="1066" lat="15.4201111111111" lon="51.0557777777778"/>
+	<stacja t="PO" nazwa="Uhowo"/>
+	<stacja t="LPO" nazwa="Uhrusk"/>
+	<stacja t="PO" nazwa="Uhrusk Przystanek"/>
+	<stacja t="ST" nazwa="Ulikowo"/>
+	<stacja t="PO" nazwa="Unieszewo"/>
+	<stacja t="ST" nazwa="Unisław Pomorski"/>
+	<stacja t="PO" nazwa="Unisław Śląski"/>
+	<stacja t="PO" nazwa="Urle"/>
+	<stacja t="PO" nazwa="Ustanówek"/>
+	<stacja t="LPO" nazwa="Ustka"/>
+	<stacja t="ST" nazwa="Ustronie Morskie"/>
+	<stacja t="ST" nazwa="Ustroń" idAtlas="1753" lat="18.8029444444444" lon="49.7280555555556"/>
+	<stacja t="MPO" nazwa="Ustroń Polana" idAtlas="1754" lat="18.83025" lon="49.6963611111111"/>
+	<stacja t="PO" nazwa="Ustroń Zdrój" idAtlas="1755" lat="18.8163333333333" lon="49.7208333333333"/>
+	<stacja t="ST" nazwa="Wadowice" idAtlas="2151" lat="19.5019722222222" lon="49.8849166666667"/>
+	<stacja t="PO" nazwa="Walawa" idAtlas="2460" lat="22.8553333333333" lon="49.8593888888889"/>
+	<stacja t="ST" nazwa="Waliły"/>
+	<stacja t="ST" nazwa="Wałbrzych Fabryczny" idAtlas="1073" lat="16.2678333333333" lon="50.7613333333333"/>
+	<stacja t="ST" nazwa="Wałbrzych Główny" idAtlas="1074" lat="16.2813611111111" lon="50.7434166666667"/>
+	<stacja t="ST" nazwa="Wałbrzych Miasto" idAtlas="1075" lat="16.2843888888889" lon="50.7853888888889"/>
+	<stacja t="ST" nazwa="Wałbrzych Szczawienko" idAtlas="1077" lat="16.3024722222222" lon="50.8161944444444"/>
+	<stacja t="ST" nazwa="Wałcz"/>
+	<stacja t="LPO" nazwa="Wałcz Raduń"/>
+	<stacja t="PO" nazwa="Wałdowo Szlacheckie"/>
+	<stacja t="PO" nazwa="Wałki"/>
+	<stacja t="PO" nazwa="Wandzin"/>
+	<stacja t="PO" nazwa="Wapienno Przystanek"/>
+	<stacja t="PO" nazwa="Waplewo"/>
+	<stacja t="ST" nazwa="Wargowo"/>
+	<stacja t="ST" nazwa="Warka"/>
+	<stacja t="PO" nazwa="Warkocz" idAtlas="1084" lat="17.0468333333333" lon="50.8281666666667"/>
+	<stacja t="ST" nazwa="Warlubie"/>
+	<stacja t="ST" nazwa="Warnowo"/>
+	<stacja t="POGP" nazwa="Warszawa Aleje Jerozolimskie"/>
+	<stacja t="PO" nazwa="Warszawa Anin"/>
+	<stacja t="ST" nazwa="Warszawa Centralna"/>
+	<stacja t="PO" nazwa="Warszawa Choszczówka"/>
+	<stacja t="PO" nazwa="Warszawa Dawidy"/>
+	<stacja t="ST" nazwa="Warszawa Falenica"/>
+	<stacja t="ST" nazwa="Warszawa Gdańska"/>
+	<stacja t="PO" nazwa="Warszawa Gocławek"/>
+	<stacja t="POGP" nazwa="Warszawa Gołąbki"/>
+	<stacja t="PO" nazwa="Warszawa Jeziorki"/>
+	<stacja t="ST" nazwa="Warszawa Lotnisko Chopina"/>
+	<stacja t="PO" nazwa="Warszawa Miedzeszyn"/>
+	<stacja t="PO" nazwa="Warszawa Międzylesie"/>
+	<stacja t="PO" nazwa="Warszawa Mokry Ług"/>
+	<stacja t="PO" nazwa="Warszawa Ochota"/>
+	<stacja t="ST" nazwa="Warszawa Okęcie"/>
+	<stacja t="PO" nazwa="Warszawa Olszynka Grochowska"/>
+	<stacja t="PO" nazwa="Warszawa Płudy"/>
+	<stacja t="PO" nazwa="Warszawa Powiśle"/>
+	<stacja t="ST" nazwa="Warszawa Praga"/>
+	<stacja t="PO" nazwa="Warszawa Radość"/>
+	<stacja t="PO" nazwa="Warszawa Rakowiec"/>
+	<stacja t="ST" nazwa="Warszawa Rembertów"/>
+	<stacja t="PO" nazwa="Warszawa Służewiec"/>
+	<stacja t="PO" nazwa="Warszawa Stadion"/>
+	<stacja t="PO" nazwa="Warszawa Śródmieście"/>
+	<stacja t="PO" nazwa="Warszawa Toruńska"/>
+	<stacja t="PO" nazwa="Warszawa Ursus"/>
+	<stacja t="PO" nazwa="Warszawa Ursus Niedźwiadek"/>
+	<stacja t="PO" nazwa="Warszawa Ursus Północny"/>
+	<stacja t="ST" nazwa="Warszawa Wawer"/>
+	<stacja t="PO" nazwa="Warszawa Wesoła"/>
+	<stacja t="ST" nazwa="Warszawa Wileńska"/>
+	<stacja t="POGP" nazwa="Warszawa Włochy"/>
+	<stacja t="PO" nazwa="Warszawa Wola Grzybowska"/>
+	<stacja t="ST" nazwa="Warszawa Wschodnia"/>
+	<stacja t="ST" nazwa="Warszawa Zachodnia"/>
+	<stacja t="PO" nazwa="Warszawa Zacisze Wilno"/>
+	<stacja t="PO" nazwa="Warszawa Zoo"/>
+	<stacja t="PO" nazwa="Warszawa Żerań"/>
+	<stacja t="PO" nazwa="Warszawa Żwirki i Wigury"/>
+	<stacja t="PO" nazwa="Warząchewka"/>
+	<stacja t="ST" nazwa="Wasilków"/>
+	<stacja t="PO" nazwa="Ważne Młyny"/>
+	<stacja t="ST" nazwa="Wąbrzeźno"/>
+	<stacja t="ST" nazwa="Wąchock" idAtlas="2674" lat="21.0151944444444" lon="51.0803611111111"/>
+	<stacja t="ST" nazwa="Wągrowiec"/>
+	<stacja t="PO" nazwa="Wągry"/>
+	<stacja t="ST" nazwa="Wejherowo"/>
+	<stacja t="PODS" nazwa="Wejherowo Śmiechowo"/>
+	<stacja t="PO" nazwa="Wejherowo-Nanice"/>
+	<stacja t="ST" nazwa="Werbkowice" idAtlas="2759" lat="23.7662777777778" lon="50.7456388888889"/>
+	<stacja t="ST" nazwa="Werchrata" idAtlas="2462" lat="23.4860277777778" lon="50.2482777777778"/>
+	<stacja t="ST" nazwa="Węgierska Górka" idAtlas="1756" lat="19.1178055555556" lon="49.6034722222222"/>
+	<stacja t="ST" nazwa="Węgliniec" idAtlas="1091" lat="15.2235833333333" lon="51.2900277777778"/>
+	<stacja t="PO" nazwa="Węgorzyno"/>
+	<stacja t="PO" nazwa="Węgry" idAtlas="1092" lat="17.0328611111111" lon="50.9261111111111"/>
+	<stacja t="PO" nazwa="Węgrzce Wielkie" idAtlas="2155" lat="20.1064722222222" lon="50.0187222222222"/>
+	<stacja t="PO" nazwa="Widacz" idAtlas="2464" lat="21.8470833333333" lon="49.6320833333333"/>
+	<stacja t="PO" nazwa="Widełka" idAtlas="2465" lat="21.8733055555556" lon="50.2013055555556"/>
+	<stacja t="PO" nazwa="Widuchowa"/>
+	<stacja t="PO" nazwa="Widzino"/>
+	<stacja t="ST" nazwa="Widzów Teklinów"/>
+	<stacja t="MPO" nazwa="Wiekowo"/>
+	<stacja t="ST" nazwa="Wielanowo"/>
+	<stacja t="LPO" nazwa="Wielbark"/>
+	<stacja t="ST" nazwa="Wieleń Północny"/>
+	<stacja t="PO" nazwa="Wieliczka Bogucice" idAtlas="2157" lat="20.0366388888889" lon="49.9984444444444"/>
+	<stacja t="ST" nazwa="Wieliczka Park" idAtlas="2156" lat="20.0485" lon="49.9901111111111"/>
+	<stacja t="PO" nazwa="Wieliczka Rynek-Kopalnia" idAtlas="2159" lat="20.0568611111111" lon="49.9856388888889"/>
+	<stacja t="ST" nazwa="Wieliszew"/>
+	<stacja t="PO" nazwa="Wielkie Drogi" idAtlas="2160" lat="19.7109166666667" lon="49.9594722222222"/>
+	<stacja t="PO" nazwa="Wielowieś" idAtlas="2468" lat="21.7586944444444" lon="50.6253055555556"/>
+	<stacja t="PO" nazwa="Wieluń"/>
+	<stacja t="ST" nazwa="Wieluń Dąbrowa"/>
+	<stacja t="PO" nazwa="Wieniawa"/>
+	<stacja t="PO" nazwa="Wierchomla Wielka" idAtlas="2162" lat="20.7552777777778" lon="49.4025555555556"/>
+	<stacja t="PO" nazwa="Wierna Rzeka" idAtlas="2679" lat="20.3129444444444" lon="50.8652222222222"/>
+	<stacja t="ST" nazwa="Wieruszów"/>
+	<stacja t="PO" nazwa="Wieruszów Miasto"/>
+	<stacja t="PO" nazwa="Wierzawice" idAtlas="2469" lat="22.4643611111111" lon="50.2385555555556"/>
+	<stacja t="PO" nazwa="Wierzbica Górna" idAtlas="1646" lat="17.9756111111111" lon="51.02225"/>
+	<stacja t="PO" nazwa="Wierzbowa Śląska"/>
+	<stacja t="ST" nazwa="Wierzchosławice"/>
+	<stacja t="PO" nazwa="Wierzchowice" idAtlas="1099" lat="17.3521388888889" lon="51.5026944444444"/>
+	<stacja t="ST" nazwa="Wierzchowo Człuchowskie"/>
+	<stacja t="ST" nazwa="Wierzchucin"/>
+	<stacja t="PO" nazwa="Wierzchucin Stary"/>
+	<stacja t="PO" nazwa="Wiesiółka"/>
+	<stacja t="PO" nazwa="Wiewiecko"/>
+	<stacja t="PO" nazwa="Wieżyca"/>
+	<stacja t="LPO" nazwa="Więcbork"/>
+	<stacja t="ST" nazwa="Więcławice"/>
+	<stacja t="PO" nazwa="Wiktorowo"/>
+	<stacja t="ST" nazwa="Wilczyce" idAtlas="1103" lat="16.0341388888889" lon="51.1651666666667"/>
+	<stacja t="MPO" nazwa="Wilczyska" idAtlas="2163" lat="20.9421666666667" lon="49.6763055555556"/>
+	<stacja t="ST" nazwa="Wilkołaz" idAtlas="2761" lat="22.3286666666667" lon="50.9857222222222"/>
+	<stacja t="PO" nazwa="Wilkołaz Wieś" idAtlas="2762" lat="22.3359722222222" lon="51.0072222222222"/>
+	<stacja t="PO" nazwa="Wilkoszewice"/>
+	<stacja t="PO" nazwa="Wilkowice" idAtlas="1383" lat="16.5411666666667" lon="51.8868611111111"/>
+	<stacja t="ST" nazwa="Wilkowice Bystra" idAtlas="1757" lat="19.0874722222222" lon="49.7609722222222"/>
+	<stacja t="PO" nazwa="Wilkowo Świebodzińskie"/>
+	<stacja t="PO" nazwa="Wilków Namysłowski" idAtlas="1648" lat="17.6591944444444" lon="51.0940555555556"/>
+	<stacja t="PO" nazwa="Wipsowo"/>
+	<stacja t="PO" nazwa="Wiry" idAtlas="1384" lat="16.8680555555556" lon="52.3152222222222"/>
+	<stacja t="PO" nazwa="Wisła Dziechcinka" idAtlas="1758" lat="18.8653611111111" lon="49.6473055555556"/>
+	<stacja t="ST" nazwa="Wisła Głębce" idAtlas="1759" lat="18.8751111111111" lon="49.6218611111111"/>
+	<stacja t="PO" nazwa="Wisła Kopydło" idAtlas="1760" lat="18.86975" lon="49.6349444444444"/>
+	<stacja t="PO" nazwa="Wisła Obłaziec" idAtlas="1761" lat="18.8483888888889" lon="49.6769166666667"/>
+	<stacja t="ST" nazwa="Wisła Uzdrowisko" idAtlas="1762" lat="18.8547777777778" lon="49.6583888888889"/>
+	<stacja t="PO" nazwa="Wisłoczanka" idAtlas="2470" lat="21.9145277777778" lon="49.9513055555556"/>
+	<stacja t="PO" nazwa="Wistka"/>
+	<stacja t="PO" nazwa="Wiśniowa" idAtlas="2471" lat="21.6514444444444" lon="49.8659722222222"/>
+	<stacja t="PO" nazwa="Witanów"/>
+	<stacja t="ST" nazwa="Witaszyce" idAtlas="1385" lat="17.5603888888889" lon="51.9364444444444"/>
+	<stacja t="PO" nazwa="Witkowo Pyrzyckie"/>
+	<stacja t="PO" nazwa="Witków Śląski"/>
+	<stacja t="ST" nazwa="Witnica" idAtlas="411" lat="14.8962777777778" lon="52.6673611111111"/>
+	<stacja t="PO" nazwa="Witnica Chojeńska"/>
+	<stacja t="ST" nazwa="Witonia"/>
+	<stacja t="PO" nazwa="Witosław"/>
+	<stacja t="PO" nazwa="Witowo"/>
+	<stacja t="PO" nazwa="Wkra"/>
+	<stacja t="ST" nazwa="Wleń" idAtlas="1114" lat="15.6688333333333" lon="51.0160833333333"/>
+	<stacja t="ST" nazwa="Władysławowo"/>
+	<stacja t="PO" nazwa="Władysławowo Port"/>
+	<stacja t="ST" nazwa="Włocławek"/>
+	<stacja t="PO" nazwa="Włocławek Zazamcze"/>
+	<stacja t="LPO" nazwa="Włodawa"/>
+	<stacja t="PO" nazwa="Włosienica" idAtlas="2164" lat="19.328" lon="50.0231388888889"/>
+	<stacja t="PO" nazwa="Włostowo" idAtlas="1386" lat="17.0254722222222" lon="51.7529166666667"/>
+	<stacja t="ST" nazwa="Włoszakowice" idAtlas="1387" lat="16.3736388888889" lon="51.9327222222222"/>
+	<stacja t="ST" nazwa="Włoszczowa" idAtlas="2681" lat="20.0144444444444" lon="50.8377777777778"/>
+	<stacja t="ST" nazwa="Włoszczowa Północ" idAtlas="2682" lat="19.9462222222222" lon="50.8566944444444"/>
+	<stacja t="ST" nazwa="Włoszczowice" idAtlas="2683" lat="20.5849722222222" lon="50.6495"/>
+	<stacja t="ST" nazwa="Wodzisław Śląski"/>
+	<stacja t="PO" nazwa="Wodzisław Śląski Radlin"/>
+	<stacja t="ST" nazwa="Wojanów" idAtlas="1116" lat="15.8215833333333" lon="50.8846944444444"/>
+	<stacja t="PO" nazwa="Wojaszówka" idAtlas="2474" lat="21.6591111111111" lon="49.77575"/>
+	<stacja t="PO" nazwa="Wojnowice Wielkopolskie"/>
+	<stacja t="PO" nazwa="Wojsław" idAtlas="2475" lat="21.4665555555556" lon="50.2696944444444"/>
+	<stacja t="PO" nazwa="Wojtal"/>
+	<stacja t="PO" nazwa="Wola Bierwiecka"/>
+	<stacja t="PO" nazwa="Wola Duża" idAtlas="2763" lat="22.7857777777778" lon="50.5673611111111"/>
+	<stacja t="PO" nazwa="Wola Filipowska" idAtlas="2165" lat="19.5784722222222" lon="50.1305833333333"/>
+	<stacja t="PO" nazwa="Wola Kuczkowska" idAtlas="2684" lat="19.7873333333333" lon="50.7304722222222"/>
+	<stacja t="PO" nazwa="Wola Lipieniecka"/>
+	<stacja t="ST" nazwa="Wola Łużańska" idAtlas="2166" lat="21.0609722222222" lon="49.694"/>
+	<stacja t="PO" nazwa="Wola Radziszowska" idAtlas="2167" lat="19.7783611111111" lon="49.907"/>
+	<stacja t="PO" nazwa="Wola Rowska"/>
+	<stacja t="ST" nazwa="Wola Rzędzińska" idAtlas="2168" lat="21.0716111111111" lon="50.0351388888889"/>
+	<stacja t="ST" nazwa="Wolanów"/>
+	<stacja t="PO" nazwa="Wolbórka"/>
+	<stacja t="ST" nazwa="Wolbrom" idAtlas="2170" lat="19.7722777777778" lon="50.3759722222222"/>
+	<stacja t="PO" nazwa="Wolenice" idAtlas="1389" lat="17.4380833333333" lon="51.7741666666667"/>
+	<stacja t="ST" nazwa="Wolica" idAtlas="2686" lat="20.4696666666667" lon="50.7534166666667"/>
+	<stacja t="PO" nazwa="Wolin Pomorski"/>
+	<stacja t="ST" nazwa="Wolsztyn" idAtlas="1390" lat="16.1080833333333" lon="52.1119722222222"/>
+	<stacja t="ST" nazwa="Wołczyn" idAtlas="1651" lat="18.046" lon="51.0135555555556"/>
+	<stacja t="ST" nazwa="Wołomin"/>
+	<stacja t="POGT" nazwa="Wołomin Słoneczna"/>
+	<stacja t="PO" nazwa="Wołowno"/>
+	<stacja t="ST" nazwa="Wołów" idAtlas="1121" lat="16.6332777777778" lon="51.3334722222222"/>
+	<stacja t="ST" nazwa="Worowo"/>
+	<stacja t="PO" nazwa="Woszczele"/>
+	<stacja t="PO" nazwa="Wójcice" idAtlas="1649" lat="17.2208888888889" lon="50.4683888888889"/>
+	<stacja t="PO" nazwa="Wólka"/>
+	<stacja t="PO" nazwa="Wólka Kańska" idAtlas="76" lat="23.0662777777778" lon="51.1284166666667"/>
+	<stacja t="PO" nazwa="Wólka Niedzieliska" idAtlas="2764" lat="23.0860555555556" lon="50.7085833333333"/>
+	<stacja t="ST" nazwa="Wólka Okopska"/>
+	<stacja t="PO" nazwa="Wólka Orłowska"/>
+	<stacja t="PO" nazwa="Wólka Ratowiecka"/>
+	<stacja t="PO" nazwa="Wrocław Brochów" idAtlas="1124" lat="17.09475" lon="51.0565"/>
+	<stacja t="ST" nazwa="Wrocław Główny" idAtlas="1129" lat="17.03675" lon="51.0982222222222"/>
+	<stacja t="PO" nazwa="Wrocław Grabiszyn"/>
+	<stacja t="PO" nazwa="Wrocław Kowale" idAtlas="1133" lat="17.1001388888889" lon="51.1349722222222"/>
+	<stacja t="ST" nazwa="Wrocław Kuźniki" idAtlas="1134" lat="16.9534722222222" lon="51.1270555555556"/>
+	<stacja t="ST" nazwa="Wrocław Leśnica" idAtlas="1135" lat="16.8663888888889" lon="51.1426666666667"/>
+	<stacja t="POGP" nazwa="Wrocław Mikołajów" idAtlas="1137" lat="16.9981666666667" lon="51.1153611111111"/>
+	<stacja t="PO" nazwa="Wrocław Muchobór" idAtlas="1138" lat="16.9749166666667" lon="51.1110277777778"/>
+	<stacja t="ST" nazwa="Wrocław Nadodrze" idAtlas="1140" lat="17.0327222222222" lon="51.12575"/>
+	<stacja t="POGP" nazwa="Wrocław Nowy Dwór" idAtlas="1141" lat="16.9535555555556" lon="51.1199444444444"/>
+	<stacja t="ST" nazwa="Wrocław Osobowice" idAtlas="1143" lat="16.9971388888889" lon="51.1664444444444"/>
+	<stacja t="ST" nazwa="Wrocław Popowice" idAtlas="1146" lat="17.0015555555556" lon="51.1279444444444"/>
+	<stacja t="ST" nazwa="Wrocław Pracze" idAtlas="1147" lat="16.9038888888889" lon="51.1693333333333"/>
+	<stacja t="ST" nazwa="Wrocław Psie Pole" idAtlas="1148" lat="17.1191944444444" lon="51.1505833333333"/>
+	<stacja t="PO" nazwa="Wrocław Różanka" idAtlas="1149" lat="17.0426111111111" lon="51.1514166666667"/>
+	<stacja t="ST" nazwa="Wrocław Sołtysowice" idAtlas="1150" lat="17.0806111111111" lon="51.1418055555556"/>
+	<stacja t="PO" nazwa="Wrocław Stadion" idAtlas="1151" lat="16.9406388888889" lon="51.137"/>
+	<stacja t="ST" nazwa="Wrocław Swojczyce" idAtlas="1154" lat="17.1216388888889" lon="51.1155833333333"/>
+	<stacja t="PO" nazwa="Wrocław Świniary"/>
+	<stacja t="PO" nazwa="Wrocław Wojnów" idAtlas="1156" lat="17.1577777777778" lon="51.1035"/>
+	<stacja t="ST" nazwa="Wrocław Zachodni" idAtlas="1163" lat="16.95025" lon="51.0903055555556"/>
+	<stacja t="PO" nazwa="Wrocław Zakrzów" idAtlas="1164" lat="17.1221388888889" lon="51.1587222222222"/>
+	<stacja t="ST" nazwa="Wrocław Żerniki" idAtlas="1165" lat="16.9156944444444" lon="51.12625"/>
+	<stacja t="PO" nazwa="Wrocławki"/>
+	<stacja t="PO" nazwa="Wroniawy" idAtlas="1392" lat="16.1650833333333" lon="52.05975"/>
+	<stacja t="ST" nazwa="Wronki"/>
+	<stacja t="ST" nazwa="Wróblik Szlachecki" idAtlas="2480" lat="21.8783333333333" lon="49.6136111111111"/>
+	<stacja t="ST" nazwa="Wróblin Głogowski" idAtlas="1122" lat="15.9555" lon="51.6864166666667"/>
+	<stacja t="PO" nazwa="Wrząca Pomorska"/>
+	<stacja t="ST" nazwa="Wrzeście"/>
+	<stacja t="ST" nazwa="Września" idAtlas="1394" lat="17.5553888888889" lon="52.3281944444444"/>
+	<stacja t="MPO" nazwa="Wrześnica"/>
+	<stacja t="ST" nazwa="Wrzosowo"/>
+	<stacja t="PO" nazwa="Wrzosów"/>
+	<stacja t="ST" nazwa="Wschowa" idAtlas="414" lat="16.3161666666667" lon="51.7938333333333"/>
+	<stacja t="PO" nazwa="Wudzyn"/>
+	<stacja t="ST" nazwa="Wydartowo"/>
+	<stacja t="ST" nazwa="Wydminy"/>
+	<stacja t="PO" nazwa="Wygoda"/>
+	<stacja t="PO" nazwa="Wykno"/>
+	<stacja t="ST" nazwa="Wyrzysk Osiek"/>
+	<stacja t="PO" nazwa="Wysoczany" idAtlas="2481" lat="22.1515277777778" lon="49.4359444444444"/>
+	<stacja t="PO" nazwa="Wysoka Braniewska"/>
+	<stacja t="ST" nazwa="Wysoka Kamieńska"/>
+	<stacja t="PO" nazwa="Wysoka Krajeńska"/>
+	<stacja t="ST" nazwa="Wyszków"/>
+	<stacja t="PO" nazwa="Wyszomierz"/>
+	<stacja t="PO" nazwa="Wyszyny"/>
+	<stacja t="PO" nazwa="Zabiele"/>
+	<stacja t="ST" nazwa="Zabierzów" idAtlas="2173" lat="19.79925" lon="50.1176944444444"/>
+	<stacja t="ST" nazwa="Zabieżki"/>
+	<stacja t="PO" nazwa="Zaborów" idAtlas="2482" lat="21.8303055555556" lon="49.9067222222222"/>
+	<stacja t="PO" nazwa="Zaborze" idAtlas="1764" lat="18.8113333333333" lon="49.8708055555556"/>
+	<stacja t="ST" nazwa="Zabrze"/>
+	<stacja t="POGP" nazwa="Zabrzeg" idAtlas="1765" lat="18.9391388888889" lon="49.9076944444444"/>
+	<stacja t="PO" nazwa="Zabrzeg Czarnolesie" idAtlas="1766" lat="18.9066111111111" lon="49.9039722222222"/>
+	<stacja t="PO" nazwa="Zaczernie" idAtlas="2483" lat="21.9793888888889" lon="50.0951666666667"/>
+	<stacja t="PO" nazwa="Zagajnik" idAtlas="1171" lat="15.2990833333333" lon="51.2702222222222"/>
+	<stacja t="ST" nazwa="Zagnańsk" idAtlas="2690" lat="20.6628611111111" lon="50.9745277777778"/>
+	<stacja t="PO" nazwa="Zagościniec"/>
+	<stacja t="ST" nazwa="Zagórz" idAtlas="2484" lat="22.2643888888889" lon="49.5134722222222"/>
+	<stacja t="PO" nazwa="Zagrody" idAtlas="2488" lat="22.9059166666667" lon="50.0515"/>
+	<stacja t="PO" nazwa="Zagrody Kościół" idAtlas="2767" lat="23.1904166666667" lon="51.0783611111111"/>
+	<stacja t="POGP" nazwa="Zajączkowo Lubawskie"/>
+	<stacja t="PO" nazwa="Zajezierce"/>
+	<stacja t="ST" nazwa="Zajezierze koło Dęblina"/>
+	<stacja t="ST" nazwa="Zaklików" idAtlas="2489" lat="22.1073611111111" lon="50.7683888888889"/>
+	<stacja t="ST" nazwa="Zakopane" idAtlas="2177" lat="19.9634444444444" lon="49.3011666666667"/>
+	<stacja t="LPO" nazwa="Zakrzewo Złotowskie"/>
+	<stacja t="PO" nazwa="Zakrzów Kotowice" idAtlas="1174" lat="17.2104722222222" lon="51.0358611111111"/>
+	<stacja t="PO" nazwa="Zakrzów-Sarnowo"/>
+	<stacja t="PO" nazwa="Zalesie Górne"/>
+	<stacja t="PO" nazwa="Zalesie Krasieńskie"/>
+	<stacja t="PO" nazwa="Zamek Bulowicki" idAtlas="2178" lat="19.2633611111111" lon="49.8801111111111"/>
+	<stacja t="ST" nazwa="Zamość"/>
+	<stacja t="PO" nazwa="Zamość Starówka"/>
+	<stacja t="PO" nazwa="Zamość Wschód"/>
+	<stacja t="PO" nazwa="Zaosie"/>
+	<stacja t="LPO" nazwa="Zaręba" idAtlas="1176" lat="15.2183055555556" lon="51.0979444444444"/>
+	<stacja t="PO" nazwa="Zarębki" idAtlas="2491" lat="21.7620833333333" lon="50.2724166666667"/>
+	<stacja t="POGP" nazwa="Zaręby Kościelne"/>
+	<stacja t="PO" nazwa="Zarośle"/>
+	<stacja t="ST" nazwa="Zarszyn" idAtlas="2492" lat="22.0195277777778" lon="49.5841111111111"/>
+	<stacja t="ST" nazwa="Zaryń"/>
+	<stacja t="PO" nazwa="Zarzecze" idAtlas="2179" lat="19.6975" lon="50.3626111111111"/>
+	<stacja t="PO" nazwa="Zarzeka"/>
+	<stacja t="PO" nazwa="Zasieki" idAtlas="419" lat="14.6689166666667" lon="51.7355277777778"/>
+	<stacja t="PO" nazwa="Zastocze"/>
+	<stacja t="ST" nazwa="Zastów" idAtlas="2181" lat="20.0659166666667" lon="50.1221111111111"/>
+	<stacja t="PO" nazwa="Zator" idAtlas="2182" lat="19.4295277777778" lon="50.0021666666667"/>
+	<stacja t="ST" nazwa="Zawada" idAtlas="2772" lat="23.12525" lon="50.7159444444444"/>
+	<stacja t="ST" nazwa="Zawadówka"/>
+	<stacja t="ST" nazwa="Zawadzkie" idAtlas="1657" lat="18.4738888888889" lon="50.6087222222222"/>
+	<stacja t="ST" nazwa="Zawidów" idAtlas="1177" lat="15.02675" lon="51.0283055555556"/>
+	<stacja t="LPO" nazwa="Zawidz"/>
+	<stacja t="PO" nazwa="Zawidz Kościelny"/>
+	<stacja t="ST" nazwa="Zawiercie"/>
+	<stacja t="PO" nazwa="Zawiercie Borowe Pole"/>
+	<stacja t="PO" nazwa="Ząbki"/>
+	<stacja t="ST" nazwa="Ząbkowice Śląskie"/>
+	<stacja t="PO" nazwa="Ząbrowo"/>
+	<stacja t="ST" nazwa="Zbąszynek" idAtlas="420" lat="15.8175833333333" lon="52.2419722222222"/>
+	<stacja t="ST" nazwa="Zbąszyń" idAtlas="1399" lat="15.8946111111111" lon="52.2594722222222"/>
+	<stacja t="PO" nazwa="Zbąszyń Przedmieście" idAtlas="1400" lat="15.9269444444444" lon="52.2568888888889"/>
+	<stacja t="POGP" nazwa="Zblewo"/>
+	<stacja t="ST" nazwa="Zbydniów" idAtlas="2494" lat="21.9204722222222" lon="50.6348333333333"/>
+	<stacja t="PO" nazwa="Zdrody Nowe"/>
+	<stacja t="PO" nazwa="Zdrojowisko"/>
+	<stacja t="ST" nazwa="Zduny" idAtlas="1401" lat="17.3664444444444" lon="51.6465833333333"/>
+	<stacja t="ST" nazwa="Zduńska Wola"/>
+	<stacja t="ST" nazwa="Zduńska Wola Karsznice"/>
+	<stacja t="POGT" nazwa="Zduńska Wola Południowa"/>
+	<stacja t="ST" nazwa="Zdzieszowice" idAtlas="1658" lat="18.1256666666667" lon="50.4226666666667"/>
+	<stacja t="ST" nazwa="Zebrzydowa" idAtlas="1180" lat="15.3905277777778" lon="51.25475"/>
+	<stacja t="ST" nazwa="Zebrzydowice" idAtlas="1768" lat="18.6243055555556" lon="49.8701111111111"/>
+	<stacja t="PO" nazwa="Zelczyna" idAtlas="2184" lat="19.7470555555556" lon="49.9611944444444"/>
+	<stacja t="PO" nazwa="Zembrzyce"/>
+	<stacja t="PO" nazwa="Zębice Wrocławskie" idAtlas="1179" lat="17.1621666666667" lon="51.0066111111111"/>
+	<stacja t="ST" nazwa="Zgierz"/>
+	<stacja t="PO" nazwa="Zgierz Jaracza"/>
+	<stacja t="MPO" nazwa="Zgierz Kontrewers"/>
+	<stacja t="PO" nazwa="Zgierz Północ"/>
+	<stacja t="ST" nazwa="Zgorzelec" idAtlas="1182" lat="15.0041111111111" lon="51.1401944444444"/>
+	<stacja t="PO" nazwa="Zgorzelec Miasto" idAtlas="1183" lat="15.0201666666667" lon="51.1536666666667"/>
+	<stacja t="PO" nazwa="Zieleń"/>
+	<stacja t="ST" nazwa="Zielona Góra" idAtlas="423" lat="15.5140555555556" lon="51.9475"/>
+	<stacja t="ST" nazwa="Zielonczyn"/>
+	<stacja t="PO" nazwa="Zielone Wzgórza"/>
+	<stacja t="ST" nazwa="Zielonka"/>
+	<stacja t="PO" nazwa="Zielonka Bankowa"/>
+	<stacja t="PO" nazwa="Zielonka Pasłęcka"/>
+	<stacja t="PO" nazwa="Zielonka Pomorska"/>
+	<stacja t="PO" nazwa="Ziemomyśl"/>
+	<stacja t="ST" nazwa="Ziębice" idAtlas="1186" lat="17.0338333333333" lon="50.6085833333333"/>
+	<stacja t="PO" nazwa="Zimnochy"/>
+	<stacja t="ST" nazwa="Złocieniec"/>
+	<stacja t="PO" nazwa="Złojec" idAtlas="2773" lat="23.1045555555556" lon="50.7648611111111"/>
+	<stacja t="ST" nazwa="Złotniki"/>
+	<stacja t="ST" nazwa="Złotniki Kujawskie"/>
+	<stacja t="PO" nazwa="Złotniki Kutnowskie"/>
+	<stacja t="LPO" nazwa="Złotoryja" idAtlas="1188" lat="15.9125277777778" lon="51.1288888888889"/>
+	<stacja t="ST" nazwa="Złotów"/>
+	<stacja t="PO" nazwa="Zosinów"/>
+	<stacja t="PO" nazwa="Zubrzyk" idAtlas="2188" lat="20.7550833333333" lon="49.3866944444444"/>
+	<stacja t="ST" nazwa="Zwardoń" idAtlas="1770" lat="18.9776944444444" lon="49.5045277777778"/>
+	<stacja t="PO" nazwa="Zwierzyniec" idAtlas="2775" lat="22.9837777777778" lon="50.6098055555556"/>
+	<stacja t="PO" nazwa="Zygmuntowo Mazowieckie"/>
+	<stacja t="PO" nazwa="Zygmuntów"/>
+	<stacja t="ST" nazwa="Żabi Róg"/>
+	<stacja t="PO" nazwa="Żabiny"/>
+	<stacja t="PO" nazwa="Żabno koło Chojnic"/>
+	<stacja t="PO" nazwa="Żabowo"/>
+	<stacja t="ST" nazwa="Żagań" idAtlas="432" lat="15.31525" lon="51.6043333333333"/>
+	<stacja t="PO" nazwa="Żakowice"/>
+	<stacja t="POGP" nazwa="Żakowice Południowe"/>
+	<stacja t="PO" nazwa="Żalno"/>
+	<stacja t="PO" nazwa="Żarki-Letnisko"/>
+	<stacja t="ST" nazwa="Żarów" idAtlas="1191" lat="16.4930277777778" lon="50.9395555555556"/>
+	<stacja t="ST" nazwa="Żary" idAtlas="435" lat="15.1376666666667" lon="51.6345"/>
+	<stacja t="LPO" nazwa="Żary Kunice" idAtlas="436" lat="15.1658055555556" lon="51.5989444444444"/>
+	<stacja t="PO" nazwa="Żednia"/>
+	<stacja t="ST" nazwa="Żegiestów" idAtlas="2190" lat="20.7855555555556" lon="49.3678333333333"/>
+	<stacja t="PO" nazwa="Żegiestów-Zdrój"/>
+	<stacja t="PK" nazwa="Żelazno" idAtlas="1192" lat="16.6679166666667" lon="50.371"/>
+	<stacja t="ST" nazwa="Żelisławice" idAtlas="2694" lat="19.8579166666667" lon="50.8036111111111"/>
+	<stacja t="PO" nazwa="Żelisławie Pomorskie"/>
+	<stacja t="LPO" nazwa="Żelistrzewo"/>
+	<stacja t="ST" nazwa="Żerków" idAtlas="1402" lat="17.4976388888889" lon="52.0698611111111"/>
+	<stacja t="LPO" nazwa="Żędowice" idAtlas="1660" lat="18.5172222222222" lon="50.5777222222222"/>
+	<stacja t="ST" nazwa="Żmigród" idAtlas="1193" lat="16.9017222222222" lon="51.4748055555556"/>
+	<stacja t="ST" nazwa="Żory"/>
+	<stacja t="PO" nazwa="Żółtnica"/>
+	<stacja t="PO" nazwa="Żółwino"/>
+	<stacja t="ST" nazwa="Żórawina" idAtlas="1194" lat="17.0495277777778" lon="50.9832222222222"/>
+	<stacja t="PO" nazwa="Żugienie"/>
+	<stacja t="PO" nazwa="Żukowo"/>
+	<stacja t="ST" nazwa="Żukowo Wschodnie"/>
+	<stacja t="PO" nazwa="Żulin" idAtlas="2774" lat="23.1721944444444" lon="51.0626944444444"/>
+	<stacja t="PO" nazwa="Żurawica" idAtlas="2497" lat="22.8245277777778" lon="49.8198888888889"/>
+	<stacja t="PO" nazwa="Żurawica Rozrządowa" idAtlas="2498" lat="22.8374722222222" lon="49.8326666666667"/>
+	<stacja t="ST" nazwa="Żychlin"/>
+	<stacja t="ST" nazwa="Życzyn"/>
+	<stacja t="PO" nazwa="Żydowo" idAtlas="1406" lat="17.5680277777778" lon="52.4529166666667"/>
+	<stacja t="ST" nazwa="Żyrardów"/>
+	<stacja t="ST" nazwa="Żytkowice"/>
+	<stacja t="ST" nazwa="Żywiec" idAtlas="1771" lat="19.1858055555556" lon="49.6796111111111"/>
+	<stacja t="ST" nazwa="Żywiec Sporysz" idAtlas="1773" lat="19.2213055555556" lon="49.6765555555556"/>
+</ArrayOfStacja>

@@ -1,0 +1,72 @@
+﻿<Page
+    x:Class="Pociagi.OneTrain"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Pociagi"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" x:Name="uiPage" Loaded="Page_Loaded" SizeChanged="Page_SizeChanged">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition/>
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <TextBlock Text="" x:Name="uiTitle" HorizontalAlignment="Center" FontSize="18" />
+
+        <ScrollViewer Grid.Row="1" >
+            <ListView x:Name="uiListItems" Margin="5,5,5,5" HorizontalContentAlignment="Stretch" >
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="ListViewItem">
+                        <Setter Property="HorizontalContentAlignment"  Value="Stretch"/>
+                    </Style>
+                </ListView.ItemContainerStyle>
+
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid  >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition />
+<!--                                <ColumnDefinition Width="{Binding iColCzas, Mode=OneWay }" />
+                                <ColumnDefinition Width="{Binding iColCzas, Mode=OneWay }" /> -->
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="Auto" /> <!-- {Binding iColPeron, Mode=OneWay }" /> -->
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Text="{Binding sStacja, Mode=OneWay }" FontSize="16" >
+                                <TextBlock.ContextFlyout>
+                                    <MenuFlyout>
+                                        <MenuFlyoutItem x:Uid="resMenuShowRozklad" Text="Pokaż rozkład" Click="uiPokazRozklad_Click"  />
+                                        <MenuFlyoutItem x:Uid="resMenuGoAtlas" Text="Idź do Atlaskolejowy" Click="uiGoAtlas_Click" />
+                                        <MenuFlyoutItem x:Uid="resMenuGoBaza" Text="Idź do Bazakolejowa" Click="uiGoBaza_Click" />
+                                    </MenuFlyout>
+                                </TextBlock.ContextFlyout>
+</TextBlock> 
+                            <TextBlock Text="{Binding sArrival, Mode=OneWay }" Width="50" Grid.Column="1" />
+                            <TextBlock Text="{Binding sDeparture, Mode=OneWay }" Width="50" Grid.Column="2"  />
+                            <TextBlock Text="{Binding sPeron, Mode=OneWay }" Width="{Binding iColPeron, Mode=OneWay }" Grid.Column="3"  />
+
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollViewer>
+
+        <TextBlock Text="" x:Name="uiAddInfo" Visibility="Collapsed" Grid.Row="2"/>
+
+    </Grid>
+
+    <Page.BottomAppBar>
+        <CommandBar ClosedDisplayMode="Compact"   >
+            <AppBarToggleButton Icon="Help"  x:Name="uiShowInfo" Label="O pociągu"  />
+            <AppBarButton Icon="OutlineStar" Label="To ten!" Click="uiSetTrain_Click" />
+            <AppBarButton Icon="Refresh"  Label="Refresh" Click="uiRefresh_Click" />
+            <AppBarToggleButton Icon="Clock" x:Name="uiMonitorTrain" Label="Monitoruj" IsEnabled="False"  />
+            <!-- pokazanie addinfo, uczynienie monitorowanym, wlaczenie notify-->
+        </CommandBar>
+    </Page.BottomAppBar>
+
+
+</Page>

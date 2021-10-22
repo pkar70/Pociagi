@@ -1,0 +1,89 @@
+﻿<Page
+    x:Class="Pociagi.RozkladStacji"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Pociagi"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Loaded="Page_Loaded">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="" x:Name="uiTitle" HorizontalAlignment="Center" FontSize="18" />
+
+        <StackPanel Grid.Row="1" x:Name="uiKiedy">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="Na dzień " HorizontalAlignment="Right" Margin="0,0,5,0" />
+                <DatePicker x:Name="uiData" Grid.Column="1" />
+                <TextBlock Text="Godzina " HorizontalAlignment="Right" Grid.Row="1" Margin="0,0,5,0"/>
+                <TimePicker x:Name="uiCzas" Grid.Column="1" Grid.Row="1"/>
+            </Grid>
+            <Grid>
+                
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="0" HorizontalAlignment="Center" Content="Odjazdy" Click="uiShowOdjazdy_Click"/>
+            <Button Grid.Column="1" HorizontalAlignment="Center" Content="Przyjazdy" Click="uiShowPrzyjazdy_Click"/>
+            </Grid>
+        </StackPanel>
+
+    <ScrollViewer Grid.Row="2" >
+            <ListView x:Name="uiListItems" Margin="5,5,5,5" HorizontalContentAlignment="Stretch" >
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="ListViewItem">
+                        <Setter Property="HorizontalContentAlignment"  Value="Stretch"/>
+                    </Style>
+                </ListView.ItemContainerStyle>
+
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Tapped="uiItem_Tapped" >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="50" />
+                                <ColumnDefinition />
+                                <ColumnDefinition Width="80" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+                            <TextBlock Text="{Binding sTime, Mode=OneWay }"  />
+                            <TextBlock Text="{Binding sDate, Mode=OneWay }" Grid.Row="1"/>
+
+                            <TextBlock Text="{Binding sDestination, Mode=OneWay }" Grid.Column="1" FontWeight="Bold" Margin="5,0,5,0"/>
+                            <TextBlock Text="{Binding sPrzez, Mode=OneWay }" Grid.Column="1" Grid.Row="1" FontSize="10" Margin="5,0,5,0" TextWrapping="Wrap"/>
+
+                            <TextBlock Text="{Binding sKurs, Mode=OneWay }" Grid.Column="2" HorizontalAlignment="Center" />
+                            <TextBlock Text="{Binding sPeron, Mode=OneWay }" Grid.Column="2" Grid.Row="1" HorizontalAlignment="Center" />
+
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollViewer>
+
+    </Grid>
+
+    <Page.BottomAppBar>
+        <CommandBar ClosedDisplayMode="Compact"   >
+            <AppBarButton Icon="Calendar" Label="Na kiedy" Click="uiShowDaty_Click" />
+            <AppBarButton Icon="World" Label="Browser" Click="uiShowBrowser_Click" />
+        </CommandBar>
+    </Page.BottomAppBar>
+
+</Page>
